@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "tr-movie-series-0001",
+    "answer": "Breaking Bad",
+    "forbidden": [
+      "Walter White",
+      "Jesse",
+      "Heisenberg",
+      "kimya",
+      "meth"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0002",
+    "answer": "Game of Thrones",
+    "forbidden": [
+      "Westeros",
+      "taht",
+      "ejderha",
+      "Stark",
+      "Lannister"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0003",
+    "answer": "Friends",
+    "forbidden": [
+      "Rachel",
+      "Monica",
+      "Chandler",
+      "kafe",
+      "sitcom"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0004",
+    "answer": "Harry Potter",
+    "forbidden": [
+      "Hogwarts",
+      "büyücü",
+      "asa",
+      "Voldemort",
+      "Hermione"
+    ],
+    "category": "movie-series",
+    "type": "film serisi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0005",
+    "answer": "Yüzüklerin Efendisi",
+    "forbidden": [
+      "Frodo",
+      "yüzük",
+      "Mordor",
+      "Gandalf",
+      "Orta Dünya"
+    ],
+    "category": "movie-series",
+    "type": "film serisi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0006",
+    "answer": "Interstellar",
+    "forbidden": [
+      "uzay",
+      "zaman",
+      "Nolan",
+      "kara delik",
+      "astronot"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0007",
+    "answer": "Inception",
+    "forbidden": [
+      "rüya",
+      "Nolan",
+      "topaç",
+      "Leonardo DiCaprio",
+      "katman"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0008",
+    "answer": "The Matrix",
+    "forbidden": [
+      "Neo",
+      "simülasyon",
+      "ajan",
+      "kırmızı hap",
+      "Morpheus"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0009",
+    "answer": "Stranger Things",
+    "forbidden": [
+      "Eleven",
+      "Hawkins",
+      "Upside Down",
+      "Demogorgon",
+      "Netflix"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0010",
+    "answer": "The Office",
+    "forbidden": [
+      "Michael Scott",
+      "Dunder Mifflin",
+      "ofis",
+      "Jim",
+      "Dwight"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0011",
+    "answer": "Sherlock",
+    "forbidden": [
+      "Baker Street",
+      "dedektif",
+      "Watson",
+      "Moriarty",
+      "Londra"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0012",
+    "answer": "Peaky Blinders",
+    "forbidden": [
+      "Shelby",
+      "Birmingham",
+      "şapka",
+      "gangster",
+      "Thomas"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0013",
+    "answer": "La Casa de Papel",
+    "forbidden": [
+      "Profesör",
+      "soygun",
+      "maske",
+      "Tokyo",
+      "Darphane"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0014",
+    "answer": "Dark",
+    "forbidden": [
+      "zaman yolculuğu",
+      "Winden",
+      "Almanya",
+      "döngü",
+      "Netflix"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0015",
+    "answer": "The Witcher",
+    "forbidden": [
+      "Geralt",
+      "canavar",
+      "Yennefer",
+      "Ciri",
+      "Rivia"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0016",
+    "answer": "Avatar",
+    "forbidden": [
+      "Pandora",
+      "mavi",
+      "Na vi",
+      "James Cameron",
+      "gezegen"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0017",
+    "answer": "Titanic",
+    "forbidden": [
+      "gemi",
+      "buzdağı",
+      "Jack",
+      "Rose",
+      "batmak"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0018",
+    "answer": "Pulp Fiction",
+    "forbidden": [
+      "Tarantino",
+      "dans",
+      "çanta",
+      "Jules",
+      "Vincent"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0019",
+    "answer": "Fight Club",
+    "forbidden": [
+      "Tyler Durden",
+      "sabun",
+      "kulüp",
+      "dövüş",
+      "kural"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0020",
+    "answer": "Forrest Gump",
+    "forbidden": [
+      "koşmak",
+      "çikolata",
+      "Tom Hanks",
+      "Jenny",
+      "otobüs durağı"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0021",
+    "answer": "The Godfather",
+    "forbidden": [
+      "Corleone",
+      "mafya",
+      "baba",
+      "teklif",
+      "Sicilya"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0022",
+    "answer": "Star Wars",
+    "forbidden": [
+      "Jedi",
+      "Sith",
+      "ışın kılıcı",
+      "Darth Vader",
+      "güç"
+    ],
+    "category": "movie-series",
+    "type": "film serisi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0023",
+    "answer": "Marvel Sinematik Evreni",
+    "forbidden": [
+      "Iron Man",
+      "Avengers",
+      "Thanos",
+      "süper kahraman",
+      "Marvel"
+    ],
+    "category": "movie-series",
+    "type": "evren",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0024",
+    "answer": "Batman",
+    "forbidden": [
+      "Gotham",
+      "Joker",
+      "yarasa",
+      "Bruce Wayne",
+      "DC"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0025",
+    "answer": "Joker",
+    "forbidden": [
+      "palyaço",
+      "Gotham",
+      "kahkaha",
+      "Batman",
+      "Arthur Fleck"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0026",
+    "answer": "Hogwarts",
+    "forbidden": [
+      "Harry Potter",
+      "okul",
+      "büyü",
+      "Dumbledore",
+      "cadı"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0027",
+    "answer": "Mordor",
+    "forbidden": [
+      "Sauron",
+      "yüzük",
+      "Orta Dünya",
+      "volkan",
+      "Frodo"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0028",
+    "answer": "Winterfell",
+    "forbidden": [
+      "Stark",
+      "kuzey",
+      "Game of Thrones",
+      "kale",
+      "Jon Snow"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0029",
+    "answer": "Walter White",
+    "forbidden": [
+      "Breaking Bad",
+      "Heisenberg",
+      "kimya",
+      "Jesse",
+      "öğretmen"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0030",
+    "answer": "Jon Snow",
+    "forbidden": [
+      "Game of Thrones",
+      "Stark",
+      "kuzey",
+      "gece nöbeti",
+      "kılıç"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0031",
+    "answer": "Darth Vader",
+    "forbidden": [
+      "Star Wars",
+      "Sith",
+      "maske",
+      "Luke",
+      "güç"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0032",
+    "answer": "Eleven",
+    "forbidden": [
+      "Stranger Things",
+      "Hawkins",
+      "güç",
+      "çocuk",
+      "waffle"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0033",
+    "answer": "Michael Scott",
+    "forbidden": [
+      "The Office",
+      "patron",
+      "Dunder Mifflin",
+      "komedi",
+      "Steve Carell"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0034",
+    "answer": "Rick Grimes",
+    "forbidden": [
+      "The Walking Dead",
+      "zombi",
+      "şerif",
+      "hayatta kalma",
+      "Carl"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0035",
+    "answer": "The Walking Dead",
+    "forbidden": [
+      "zombi",
+      "Rick",
+      "kıyamet",
+      "Negan",
+      "hayatta kalma"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0036",
+    "answer": "Black Mirror",
+    "forbidden": [
+      "teknoloji",
+      "distopya",
+      "antoloji",
+      "Netflix",
+      "karanlık"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0037",
+    "answer": "Westworld",
+    "forbidden": [
+      "robot",
+      "park",
+      "kovboy",
+      "bilinç",
+      "HBO"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0038",
+    "answer": "Lost",
+    "forbidden": [
+      "ada",
+      "uçak",
+      "Dharma",
+      "Jack",
+      "gizem"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0039",
+    "answer": "How I Met Your Mother",
+    "forbidden": [
+      "Ted",
+      "Barney",
+      "anne",
+      "New York",
+      "sitcom"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0040",
+    "answer": "Prison Break",
+    "forbidden": [
+      "Michael Scofield",
+      "hapishane",
+      "kaçış",
+      "Lincoln",
+      "dövme"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0041",
+    "answer": "Squid Game",
+    "forbidden": [
+      "Kore",
+      "oyun",
+      "para",
+      "maske",
+      "ölüm"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0042",
+    "answer": "Wednesday",
+    "forbidden": [
+      "Addams",
+      "okul",
+      "gotik",
+      "Netflix",
+      "Thing"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0043",
+    "answer": "The Mandalorian",
+    "forbidden": [
+      "Baby Yoda",
+      "Star Wars",
+      "Mando",
+      "ödül avcısı",
+      "Grogu"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0044",
+    "answer": "Better Call Saul",
+    "forbidden": [
+      "avukat",
+      "Saul Goodman",
+      "Breaking Bad",
+      "Jimmy",
+      "mahkeme"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0045",
+    "answer": "Chernobyl",
+    "forbidden": [
+      "nükleer",
+      "patlama",
+      "Pripyat",
+      "radyasyon",
+      "HBO"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0046",
+    "answer": "Ezel",
+    "forbidden": [
+      "Kenan İmirzalıoğlu",
+      "intikam",
+      "Ramiz",
+      "Türkiye",
+      "dizi"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0047",
+    "answer": "Leyla ile Mecnun",
+    "forbidden": [
+      "absürt",
+      "İsmail Abi",
+      "Erdal Bakkal",
+      "TRT",
+      "Mecnun"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0048",
+    "answer": "Kurtlar Vadisi",
+    "forbidden": [
+      "Polat",
+      "mafya",
+      "konsey",
+      "Türkiye",
+      "Memati"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0049",
+    "answer": "Aşk-ı Memnu",
+    "forbidden": [
+      "Bihter",
+      "Behlül",
+      "yasak aşk",
+      "köşk",
+      "Final"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0050",
+    "answer": "Behzat Ç.",
+    "forbidden": [
+      "Ankara",
+      "komiser",
+      "cinayet",
+      "Harun",
+      "polisiye"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0051",
+    "answer": "Gibi",
+    "forbidden": [
+      "Yılmaz",
+      "İlkkan",
+      "absürt",
+      "Exxen",
+      "komedi"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0052",
+    "answer": "Recep İvedik",
+    "forbidden": [
+      "Şahan",
+      "komedi",
+      "kaba",
+      "film",
+      "karakter"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0053",
+    "answer": "Hababam Sınıfı",
+    "forbidden": [
+      "okul",
+      "İnek Şaban",
+      "Mahmut Hoca",
+      "sınıf",
+      "komedi"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0054",
+    "answer": "Babam ve Oğlum",
+    "forbidden": [
+      "Çağan Irmak",
+      "aile",
+      "dram",
+      "baba",
+      "çocuk"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0055",
+    "answer": "Vizontele",
+    "forbidden": [
+      "Yılmaz Erdoğan",
+      "televizyon",
+      "köy",
+      "Deli Emin",
+      "komedi"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0056",
+    "answer": "Masumlar Apartmanı",
+    "forbidden": [
+      "apartman",
+      "temizlik",
+      "Han",
+      "psikoloji",
+      "TRT"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0057",
+    "answer": "Gora",
+    "forbidden": [
+      "Cem Yılmaz",
+      "uzay",
+      "Arif",
+      "Robot",
+      "komedi"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0058",
+    "answer": "Arog",
+    "forbidden": [
+      "Cem Yılmaz",
+      "taş devri",
+      "Arif",
+      "komedi",
+      "zaman"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0059",
+    "answer": "Arif v 216",
+    "forbidden": [
+      "robot",
+      "Cem Yılmaz",
+      "1960",
+      "Arif",
+      "komedi"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0060",
+    "answer": "Kelebeğin Rüyası",
+    "forbidden": [
+      "şair",
+      "Zonguldak",
+      "verem",
+      "Kıvanç",
+      "şiir"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0061",
+    "answer": "Yeşil Yol",
+    "forbidden": [
+      "hapishane",
+      "mucize",
+      "Tom Hanks",
+      "fare",
+      "idam"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0062",
+    "answer": "Esaretin Bedeli",
+    "forbidden": [
+      "hapishane",
+      "Andy",
+      "Red",
+      "kaçış",
+      "umut"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0063",
+    "answer": "Gladyatör",
+    "forbidden": [
+      "Roma",
+      "arena",
+      "Maximus",
+      "imparator",
+      "intikam"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0064",
+    "answer": "Karayip Korsanları",
+    "forbidden": [
+      "Jack Sparrow",
+      "korsan",
+      "gemi",
+      "hazine",
+      "Karayip"
+    ],
+    "category": "movie-series",
+    "type": "film serisi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0065",
+    "answer": "Jurassic Park",
+    "forbidden": [
+      "dinozor",
+      "ada",
+      "park",
+      "T-Rex",
+      "Spielberg"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0066",
+    "answer": "E.T.",
+    "forbidden": [
+      "uzaylı",
+      "bisiklet",
+      "çocuk",
+      "telefon",
+      "Spielberg"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0067",
+    "answer": "Terminatör",
+    "forbidden": [
+      "robot",
+      "gelecek",
+      "Skynet",
+      "Arnold",
+      "Sarah Connor"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0068",
+    "answer": "Rocky",
+    "forbidden": [
+      "boks",
+      "Philadelphia",
+      "Adrian",
+      "Sylvester",
+      "ring"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0069",
+    "answer": "Rambo",
+    "forbidden": [
+      "asker",
+      "orman",
+      "Vietnam",
+      "Stallone",
+      "silah"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0070",
+    "answer": "Shrek",
+    "forbidden": [
+      "ogre",
+      "eşek",
+      "Fiona",
+      "masal",
+      "DreamWorks"
+    ],
+    "category": "movie-series",
+    "type": "animasyon",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0071",
+    "answer": "Toy Story",
+    "forbidden": [
+      "oyuncak",
+      "Woody",
+      "Buzz",
+      "Pixar",
+      "çocuk"
+    ],
+    "category": "movie-series",
+    "type": "animasyon",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0072",
+    "answer": "Buz Devri",
+    "forbidden": [
+      "mamut",
+      "Sid",
+      "Diego",
+      "buzul",
+      "animasyon"
+    ],
+    "category": "movie-series",
+    "type": "animasyon",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0073",
+    "answer": "Kayıp Balık Nemo",
+    "forbidden": [
+      "balık",
+      "okyanus",
+      "Dory",
+      "baba",
+      "Pixar"
+    ],
+    "category": "movie-series",
+    "type": "animasyon",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0074",
+    "answer": "Ratatuy",
+    "forbidden": [
+      "fare",
+      "aşçı",
+      "Paris",
+      "yemek",
+      "Pixar"
+    ],
+    "category": "movie-series",
+    "type": "animasyon",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0075",
+    "answer": "Coco",
+    "forbidden": [
+      "Meksika",
+      "ölüler günü",
+      "müzik",
+      "Miguel",
+      "Pixar"
+    ],
+    "category": "movie-series",
+    "type": "animasyon",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0076",
+    "answer": "Ruhların Kaçışı",
+    "forbidden": [
+      "Ghibli",
+      "Chihiro",
+      "hamam",
+      "ruh",
+      "anime"
+    ],
+    "category": "movie-series",
+    "type": "animasyon",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0077",
+    "answer": "Death Note",
+    "forbidden": [
+      "defter",
+      "Light",
+      "L",
+      "shinigami",
+      "anime"
+    ],
+    "category": "movie-series",
+    "type": "anime",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0078",
+    "answer": "Attack on Titan",
+    "forbidden": [
+      "dev",
+      "duvar",
+      "Eren",
+      "Mikasa",
+      "anime"
+    ],
+    "category": "movie-series",
+    "type": "anime",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0079",
+    "answer": "Naruto",
+    "forbidden": [
+      "ninja",
+      "Konoha",
+      "Sasuke",
+      "chakra",
+      "anime"
+    ],
+    "category": "movie-series",
+    "type": "anime",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0080",
+    "answer": "One Piece",
+    "forbidden": [
+      "korsan",
+      "Luffy",
+      "hazine",
+      "şapka",
+      "anime"
+    ],
+    "category": "movie-series",
+    "type": "anime",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0081",
+    "answer": "The Boys",
+    "forbidden": [
+      "süper kahraman",
+      "Homelander",
+      "Amazon",
+      "şiddet",
+      "Vought"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0082",
+    "answer": "House of the Dragon",
+    "forbidden": [
+      "ejderha",
+      "Targaryen",
+      "taht",
+      "HBO",
+      "Westeros"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0083",
+    "answer": "The Last of Us",
+    "forbidden": [
+      "Joel",
+      "Ellie",
+      "mantar",
+      "kıyamet",
+      "HBO"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0084",
+    "answer": "Arcane",
+    "forbidden": [
+      "League of Legends",
+      "Jinx",
+      "Vi",
+      "Piltover",
+      "Netflix"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0085",
+    "answer": "Sopranos",
+    "forbidden": [
+      "mafya",
+      "Tony",
+      "psikiyatrist",
+      "New Jersey",
+      "HBO"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0086",
+    "answer": "Mad Men",
+    "forbidden": [
+      "reklam",
+      "Don Draper",
+      "ofis",
+      "1960",
+      "AMC"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0087",
+    "answer": "True Detective",
+    "forbidden": [
+      "dedektif",
+      "cinayet",
+      "Louisiana",
+      "Rust",
+      "HBO"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0088",
+    "answer": "Fleabag",
+    "forbidden": [
+      "İngiliz",
+      "komedi",
+      "kamera",
+      "Phoebe",
+      "BBC"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0089",
+    "answer": "Succession",
+    "forbidden": [
+      "aile",
+      "medya",
+      "Roy",
+      "miras",
+      "HBO"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0090",
+    "answer": "Oppenheimer",
+    "forbidden": [
+      "atom bombası",
+      "Nolan",
+      "fizikçi",
+      "Manhattan",
+      "Cillian"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0091",
+    "answer": "Barbie",
+    "forbidden": [
+      "bebek",
+      "pembe",
+      "Ken",
+      "Greta Gerwig",
+      "Mattel"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0092",
+    "answer": "Dune",
+    "forbidden": [
+      "çöl",
+      "baharat",
+      "Arrakis",
+      "Paul",
+      "kum solucanı"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0093",
+    "answer": "John Wick",
+    "forbidden": [
+      "suikastçı",
+      "köpek",
+      "silah",
+      "Continental",
+      "Keanu"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0094",
+    "answer": "Parasite",
+    "forbidden": [
+      "Kore",
+      "aile",
+      "zengin",
+      "bodrum",
+      "Bong"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0095",
+    "answer": "Joker 2019",
+    "forbidden": [
+      "Arthur",
+      "Gotham",
+      "palyaço",
+      "dans",
+      "merdiven"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0096",
+    "answer": "La La Land",
+    "forbidden": [
+      "müzikal",
+      "Los Angeles",
+      "piyano",
+      "aşk",
+      "Ryan Gosling"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0097",
+    "answer": "Whiplash",
+    "forbidden": [
+      "davul",
+      "öğretmen",
+      "jazz",
+      "tempo",
+      "Fletcher"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0098",
+    "answer": "Her",
+    "forbidden": [
+      "yapay zeka",
+      "ses",
+      "aşk",
+      "Theodore",
+      "gelecek"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0099",
+    "answer": "Arrival",
+    "forbidden": [
+      "uzaylı",
+      "dil",
+      "iletişim",
+      "Amy Adams",
+      "zaman"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0100",
+    "answer": "The Prestige",
+    "forbidden": [
+      "sihirbaz",
+      "Nolan",
+      "Tesla",
+      "rekabet",
+      "numara"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0101",
+    "answer": "Memento",
+    "forbidden": [
+      "hafıza",
+      "dövme",
+      "Nolan",
+      "ters kurgu",
+      "fotoğraf"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0102",
+    "answer": "Se7en",
+    "forbidden": [
+      "seri katil",
+      "yedi günah",
+      "dedektif",
+      "kutu",
+      "Fincher"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0103",
+    "answer": "Zodiac",
+    "forbidden": [
+      "katil",
+      "şifre",
+      "gazete",
+      "Fincher",
+      "San Francisco"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0104",
+    "answer": "Gone Girl",
+    "forbidden": [
+      "kayıp",
+      "evlilik",
+      "Amy",
+      "Fincher",
+      "medya"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0105",
+    "answer": "The Social Network",
+    "forbidden": [
+      "Facebook",
+      "Zuckerberg",
+      "Harvard",
+      "kod",
+      "Fincher"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0106",
+    "answer": "Işın Kılıcı",
+    "forbidden": [
+      "Star Wars",
+      "Jedi",
+      "Sith",
+      "kılıç",
+      "güç"
+    ],
+    "category": "movie-series",
+    "type": "nesne",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0107",
+    "answer": "Sonsuzluk Eldiveni",
+    "forbidden": [
+      "Thanos",
+      "taş",
+      "Marvel",
+      "Avengers",
+      "parmak şıklatma"
+    ],
+    "category": "movie-series",
+    "type": "nesne",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0108",
+    "answer": "Tek Yüzük",
+    "forbidden": [
+      "Frodo",
+      "Sauron",
+      "Mordor",
+      "Yüzüklerin Efendisi",
+      "güç"
+    ],
+    "category": "movie-series",
+    "type": "nesne",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0109",
+    "answer": "DeLorean",
+    "forbidden": [
+      "Geleceğe Dönüş",
+      "araba",
+      "zaman",
+      "Marty",
+      "Doc"
+    ],
+    "category": "movie-series",
+    "type": "nesne",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0110",
+    "answer": "TARDIS",
+    "forbidden": [
+      "Doctor Who",
+      "telefon kulübesi",
+      "zaman",
+      "doktor",
+      "mavi"
+    ],
+    "category": "movie-series",
+    "type": "nesne",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0111",
+    "answer": "Central Perk",
+    "forbidden": [
+      "Friends",
+      "kafe",
+      "Rachel",
+      "koltuk",
+      "New York"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0112",
+    "answer": "Gotham City",
+    "forbidden": [
+      "Batman",
+      "Joker",
+      "şehir",
+      "DC",
+      "karanlık"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0113",
+    "answer": "Wakanda",
+    "forbidden": [
+      "Black Panther",
+      "Marvel",
+      "vibranium",
+      "Afrika",
+      "krallık"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0114",
+    "answer": "Pandora",
+    "forbidden": [
+      "Avatar",
+      "mavi",
+      "gezegen",
+      "Na vi",
+      "orman"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0115",
+    "answer": "Narnia",
+    "forbidden": [
+      "dolap",
+      "aslan",
+      "fantastik",
+      "çocuk",
+      "buz kraliçesi"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0116",
+    "answer": "Raccoon City",
+    "forbidden": [
+      "Resident Evil",
+      "zombi",
+      "şehir",
+      "virüs",
+      "Umbrella"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0117",
+    "answer": "Tatooine",
+    "forbidden": [
+      "Star Wars",
+      "çöl",
+      "Luke",
+      "gezegen",
+      "iki güneş"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0118",
+    "answer": "Bikini Bottom",
+    "forbidden": [
+      "SüngerBob",
+      "deniz",
+      "kasaba",
+      "Patrick",
+      "Squidward"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0119",
+    "answer": "Springfield",
+    "forbidden": [
+      "Simpsonlar",
+      "Homer",
+      "nükleer",
+      "kasaba",
+      "Bart"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0120",
+    "answer": "Krusty Krab",
+    "forbidden": [
+      "SüngerBob",
+      "restoran",
+      "yengeç",
+      "burger",
+      "Mr Krabs"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0121",
+    "answer": "Moe’s Tavern",
+    "forbidden": [
+      "Simpsonlar",
+      "bar",
+      "Homer",
+      "Moe",
+      "Springfield"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0122",
+    "answer": "Dunder Mifflin",
+    "forbidden": [
+      "The Office",
+      "kağıt",
+      "Michael",
+      "Scranton",
+      "şirket"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0123",
+    "answer": "Los Pollos Hermanos",
+    "forbidden": [
+      "Breaking Bad",
+      "tavuk",
+      "Gus",
+      "restoran",
+      "kartel"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0124",
+    "answer": "Monica’nın Dairesi",
+    "forbidden": [
+      "Friends",
+      "mor kapı",
+      "New York",
+      "komşu",
+      "Rachel"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0125",
+    "answer": "Dragonstone",
+    "forbidden": [
+      "Game of Thrones",
+      "Targaryen",
+      "ada",
+      "kale",
+      "ejderha"
+    ],
+    "category": "movie-series",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0126",
+    "answer": "Demogorgon",
+    "forbidden": [
+      "Stranger Things",
+      "canavar",
+      "Upside Down",
+      "Hawkins",
+      "ağız"
+    ],
+    "category": "movie-series",
+    "type": "yaratık",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0127",
+    "answer": "Baby Yoda",
+    "forbidden": [
+      "Grogu",
+      "Mandalorian",
+      "Star Wars",
+      "yeşil",
+      "bebek"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0128",
+    "answer": "Gandalf",
+    "forbidden": [
+      "büyücü",
+      "gri",
+      "Frodo",
+      "Orta Dünya",
+      "asa"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0129",
+    "answer": "Hermione Granger",
+    "forbidden": [
+      "Harry Potter",
+      "büyücü",
+      "zeki",
+      "Hogwarts",
+      "Ron"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0130",
+    "answer": "Voldemort",
+    "forbidden": [
+      "Harry Potter",
+      "kötü",
+      "burun",
+      "asa",
+      "hortkuluk"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0131",
+    "answer": "Thanos",
+    "forbidden": [
+      "Marvel",
+      "Avengers",
+      "taş",
+      "mor",
+      "parmak"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0132",
+    "answer": "Iron Man",
+    "forbidden": [
+      "Tony Stark",
+      "zırh",
+      "Marvel",
+      "Avengers",
+      "milyarder"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0133",
+    "answer": "Spider-Man",
+    "forbidden": [
+      "Peter Parker",
+      "örümcek",
+      "Marvel",
+      "ağ",
+      "New York"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0134",
+    "answer": "Homer Simpson",
+    "forbidden": [
+      "Simpsonlar",
+      "baba",
+      "donut",
+      "sarı",
+      "Springfield"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0135",
+    "answer": "SüngerBob",
+    "forbidden": [
+      "deniz",
+      "sünger",
+      "Patrick",
+      "Bikini Bottom",
+      "çizgi film"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0136",
+    "answer": "Bojack Horseman",
+    "forbidden": [
+      "at",
+      "Hollywood",
+      "Netflix",
+      "depresyon",
+      "animasyon"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0137",
+    "answer": "Rick Sanchez",
+    "forbidden": [
+      "Rick and Morty",
+      "dede",
+      "portal",
+      "bilim",
+      "alkol"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0138",
+    "answer": "Morty Smith",
+    "forbidden": [
+      "Rick and Morty",
+      "torun",
+      "panik",
+      "macera",
+      "çocuk"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0139",
+    "answer": "Saul Goodman",
+    "forbidden": [
+      "avukat",
+      "Breaking Bad",
+      "Better Call Saul",
+      "Jimmy",
+      "reklam"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0140",
+    "answer": "Gus Fring",
+    "forbidden": [
+      "Breaking Bad",
+      "tavuk",
+      "kartel",
+      "Los Pollos",
+      "soğukkanlı"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0141",
+    "answer": "Tony Soprano",
+    "forbidden": [
+      "mafya",
+      "Sopranos",
+      "New Jersey",
+      "terapi",
+      "aile"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0142",
+    "answer": "Don Draper",
+    "forbidden": [
+      "Mad Men",
+      "reklam",
+      "takım elbise",
+      "1960",
+      "ajans"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0143",
+    "answer": "Ragnar Lothbrok",
+    "forbidden": [
+      "Vikings",
+      "viking",
+      "savaşçı",
+      "Lagertha",
+      "İskandinav"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0144",
+    "answer": "Negan",
+    "forbidden": [
+      "The Walking Dead",
+      "Lucille",
+      "zombi",
+      "beyzbol sopası",
+      "lider"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0145",
+    "answer": "Daenerys Targaryen",
+    "forbidden": [
+      "Game of Thrones",
+      "ejderha",
+      "kraliçe",
+      "Targaryen",
+      "ateş"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0146",
+    "answer": "Tyrion Lannister",
+    "forbidden": [
+      "Game of Thrones",
+      "şarap",
+      "zeka",
+      "Lannister",
+      "cüce"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0147",
+    "answer": "Cersei Lannister",
+    "forbidden": [
+      "Game of Thrones",
+      "taht",
+      "kraliçe",
+      "kardeş",
+      "entrika"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0148",
+    "answer": "Arya Stark",
+    "forbidden": [
+      "Game of Thrones",
+      "iğne",
+      "yüzsüz adam",
+      "Stark",
+      "suikast"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0149",
+    "answer": "Ramiz Dayı",
+    "forbidden": [
+      "Ezel",
+      "dayı",
+      "intikam",
+      "söz",
+      "Kenan"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0150",
+    "answer": "Polat Alemdar",
+    "forbidden": [
+      "Kurtlar Vadisi",
+      "mafya",
+      "devlet",
+      "Memati",
+      "operasyon"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0151",
+    "answer": "Erdal Bakkal",
+    "forbidden": [
+      "Leyla ile Mecnun",
+      "bakkal",
+      "absürt",
+      "mahalle",
+      "çay"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0152",
+    "answer": "İsmail Abi",
+    "forbidden": [
+      "Leyla ile Mecnun",
+      "gemi",
+      "sarı saç",
+      "mahalle",
+      "beklemek"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0153",
+    "answer": "Bihter Ziyagil",
+    "forbidden": [
+      "Aşk-ı Memnu",
+      "Behlül",
+      "yasak aşk",
+      "köşk",
+      "final"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0154",
+    "answer": "Mahmut Hoca",
+    "forbidden": [
+      "Hababam Sınıfı",
+      "okul",
+      "disiplin",
+      "Kel Mahmut",
+      "öğretmen"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0155",
+    "answer": "İnek Şaban",
+    "forbidden": [
+      "Hababam Sınıfı",
+      "Kemal Sunal",
+      "sınıf",
+      "gülüş",
+      "öğrenci"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0156",
+    "answer": "Arif Işık",
+    "forbidden": [
+      "Gora",
+      "Cem Yılmaz",
+      "halıcı",
+      "uzay",
+      "komedi"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0157",
+    "answer": "Robot 216",
+    "forbidden": [
+      "Arif",
+      "robot",
+      "Cem Yılmaz",
+      "216",
+      "komedi"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0158",
+    "answer": "Christopher Nolan",
+    "forbidden": [
+      "Inception",
+      "Interstellar",
+      "yönetmen",
+      "rüya",
+      "zaman"
+    ],
+    "category": "movie-series",
+    "type": "yönetmen",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0159",
+    "answer": "Quentin Tarantino",
+    "forbidden": [
+      "Pulp Fiction",
+      "yönetmen",
+      "kan",
+      "diyalog",
+      "Kill Bill"
+    ],
+    "category": "movie-series",
+    "type": "yönetmen",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0160",
+    "answer": "Steven Spielberg",
+    "forbidden": [
+      "Jurassic Park",
+      "E.T.",
+      "yönetmen",
+      "köpekbalığı",
+      "sinema"
+    ],
+    "category": "movie-series",
+    "type": "yönetmen",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0161",
+    "answer": "Martin Scorsese",
+    "forbidden": [
+      "mafya",
+      "Goodfellas",
+      "yönetmen",
+      "Taxi Driver",
+      "sinema"
+    ],
+    "category": "movie-series",
+    "type": "yönetmen",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0162",
+    "answer": "Hayao Miyazaki",
+    "forbidden": [
+      "Ghibli",
+      "anime",
+      "Ruhların Kaçışı",
+      "yönetmen",
+      "Japonya"
+    ],
+    "category": "movie-series",
+    "type": "yönetmen",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0163",
+    "answer": "Pixar",
+    "forbidden": [
+      "animasyon",
+      "Toy Story",
+      "Disney",
+      "stüdyo",
+      "duygu"
+    ],
+    "category": "movie-series",
+    "type": "stüdyo",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0164",
+    "answer": "Studio Ghibli",
+    "forbidden": [
+      "anime",
+      "Miyazaki",
+      "Japonya",
+      "ruh",
+      "animasyon"
+    ],
+    "category": "movie-series",
+    "type": "stüdyo",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0165",
+    "answer": "Netflix",
+    "forbidden": [
+      "dizi",
+      "streaming",
+      "platform",
+      "kırmızı",
+      "online"
+    ],
+    "category": "movie-series",
+    "type": "platform",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0166",
+    "answer": "HBO",
+    "forbidden": [
+      "dizi",
+      "Game of Thrones",
+      "prestij",
+      "kanal",
+      "Succession"
+    ],
+    "category": "movie-series",
+    "type": "platform",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0167",
+    "answer": "Disney Plus",
+    "forbidden": [
+      "Marvel",
+      "Star Wars",
+      "platform",
+      "Disney",
+      "streaming"
+    ],
+    "category": "movie-series",
+    "type": "platform",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0168",
+    "answer": "Amazon Prime Video",
+    "forbidden": [
+      "The Boys",
+      "platform",
+      "streaming",
+      "Amazon",
+      "dizi"
+    ],
+    "category": "movie-series",
+    "type": "platform",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0169",
+    "answer": "Sitcom",
+    "forbidden": [
+      "komedi",
+      "durum",
+      "Friends",
+      "kahkaha",
+      "dizi"
+    ],
+    "category": "movie-series",
+    "type": "tür",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0170",
+    "answer": "Distopya",
+    "forbidden": [
+      "gelecek",
+      "karanlık",
+      "toplum",
+      "Black Mirror",
+      "baskı"
+    ],
+    "category": "movie-series",
+    "type": "tür",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0171",
+    "answer": "Mockumentary",
+    "forbidden": [
+      "sahte belgesel",
+      "The Office",
+      "kamera",
+      "komedi",
+      "röportaj"
+    ],
+    "category": "movie-series",
+    "type": "tür",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0172",
+    "answer": "Plot Twist",
+    "forbidden": [
+      "sürpriz",
+      "son",
+      "kurgu",
+      "ters köşe",
+      "hikaye"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0173",
+    "answer": "Cameo",
+    "forbidden": [
+      "kısa rol",
+      "ünlü",
+      "sahne",
+      "görünmek",
+      "film"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0174",
+    "answer": "Post-credit Scene",
+    "forbidden": [
+      "jenerik",
+      "Marvel",
+      "sonrası",
+      "sahne",
+      "ipucu"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0175",
+    "answer": "Cliffhanger",
+    "forbidden": [
+      "bölüm sonu",
+      "merak",
+      "devam",
+      "gerilim",
+      "dizi"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0176",
+    "answer": "Spin-off",
+    "forbidden": [
+      "yan hikaye",
+      "dizi",
+      "karakter",
+      "evren",
+      "devam"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0177",
+    "answer": "Reboot",
+    "forbidden": [
+      "yeniden başlatma",
+      "seri",
+      "film",
+      "eski",
+      "yeni"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0178",
+    "answer": "Prequel",
+    "forbidden": [
+      "öncesi",
+      "hikaye",
+      "devam",
+      "geçmiş",
+      "seri"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0179",
+    "answer": "Sequel",
+    "forbidden": [
+      "devam filmi",
+      "seri",
+      "ikinci",
+      "sonra",
+      "hikaye"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0180",
+    "answer": "Final Bölümü",
+    "forbidden": [
+      "son",
+      "dizi",
+      "kapanış",
+      "veda",
+      "sezon"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0181",
+    "answer": "Pilot Bölüm",
+    "forbidden": [
+      "ilk bölüm",
+      "dizi",
+      "başlangıç",
+      "deneme",
+      "tanıtım"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0182",
+    "answer": "Anti-kahraman",
+    "forbidden": [
+      "kahraman",
+      "kötü",
+      "ahlak",
+      "karakter",
+      "gri"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0183",
+    "answer": "Villain Arc",
+    "forbidden": [
+      "kötüye dönüş",
+      "karakter",
+      "hikaye",
+      "evrim",
+      "düşman"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0184",
+    "answer": "MacGuffin",
+    "forbidden": [
+      "nesne",
+      "hikaye",
+      "amaç",
+      "Hitchcock",
+      "arayış"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0185",
+    "answer": "Deus Ex Machina",
+    "forbidden": [
+      "ani çözüm",
+      "hikaye",
+      "kurtuluş",
+      "tesadüf",
+      "terim"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0186",
+    "answer": "Bottle Episode",
+    "forbidden": [
+      "tek mekan",
+      "dizi",
+      "ucuz",
+      "bölüm",
+      "karakter"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0187",
+    "answer": "Luke Skywalker",
+    "forbidden": [
+      "Star Wars",
+      "Jedi",
+      "Darth Vader",
+      "ışın kılıcı",
+      "güç"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0188",
+    "answer": "Han Solo",
+    "forbidden": [
+      "Star Wars",
+      "Millennium Falcon",
+      "Chewbacca",
+      "kaçakçı",
+      "Leia"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0189",
+    "answer": "Princess Leia",
+    "forbidden": [
+      "Star Wars",
+      "isyancı",
+      "Alderaan",
+      "Luke",
+      "saç modeli"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0190",
+    "answer": "Yoda",
+    "forbidden": [
+      "Jedi",
+      "yeşil",
+      "usta",
+      "Star Wars",
+      "güç"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0191",
+    "answer": "Severus Snape",
+    "forbidden": [
+      "Harry Potter",
+      "Slytherin",
+      "iksir",
+      "Always",
+      "Hogwarts"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0192",
+    "answer": "Albus Dumbledore",
+    "forbidden": [
+      "Harry Potter",
+      "müdür",
+      "Hogwarts",
+      "sakallı",
+      "asa"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0193",
+    "answer": "Sirius Black",
+    "forbidden": [
+      "Harry Potter",
+      "vaftiz baba",
+      "Azkaban",
+      "köpek",
+      "Black ailesi"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0194",
+    "answer": "Daft Punk Tron Legacy",
+    "forbidden": [
+      "Tron",
+      "müzik",
+      "elektronik",
+      "ışık motoru",
+      "Disney"
+    ],
+    "category": "movie-series",
+    "type": "film öğesi",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0195",
+    "answer": "Rorschach",
+    "forbidden": [
+      "Watchmen",
+      "maske",
+      "günlük",
+      "anti-kahraman",
+      "çizgi roman"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0196",
+    "answer": "V for Vendetta",
+    "forbidden": [
+      "maske",
+      "Guy Fawkes",
+      "devrim",
+      "Evey",
+      "distopya"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0197",
+    "answer": "Whovian",
+    "forbidden": [
+      "Doctor Who",
+      "TARDIS",
+      "zaman yolculuğu",
+      "doktor",
+      "fandom"
+    ],
+    "category": "movie-series",
+    "type": "terim",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0198",
+    "answer": "Dalek",
+    "forbidden": [
+      "Doctor Who",
+      "Exterminate",
+      "robot",
+      "uzaylı",
+      "doktor"
+    ],
+    "category": "movie-series",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0199",
+    "answer": "Kara Şövalye",
+    "forbidden": [
+      "Batman",
+      "Joker",
+      "Gotham",
+      "Christopher Nolan",
+      "DC"
+    ],
+    "category": "movie-series",
+    "type": "film",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-movie-series-0200",
+    "answer": "The Bear",
+    "forbidden": [
+      "Carmy",
+      "mutfak",
+      "şef",
+      "Chicago",
+      "dizi"
+    ],
+    "category": "movie-series",
+    "type": "dizi",
+    "difficulty": 5,
+    "language": "tr"
+  }
+]

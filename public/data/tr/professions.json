@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "tr-professions-0001",
+    "answer": "Doktor",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0002",
+    "answer": "Hemşire",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0003",
+    "answer": "Avukat",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0004",
+    "answer": "Hakim",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0005",
+    "answer": "Savcı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0006",
+    "answer": "Öğretmen",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0007",
+    "answer": "Akademisyen",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0008",
+    "answer": "Mühendis",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0009",
+    "answer": "Yazılımcı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0010",
+    "answer": "Tasarımcı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0011",
+    "answer": "Mimar",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0012",
+    "answer": "İç Mimar",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0013",
+    "answer": "Aşçı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0014",
+    "answer": "Garson",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0015",
+    "answer": "Barista",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0016",
+    "answer": "Pilot",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0017",
+    "answer": "Hostes",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0018",
+    "answer": "Polis",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0019",
+    "answer": "Asker",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0020",
+    "answer": "İtfaiyeci",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0021",
+    "answer": "Gazeteci",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0022",
+    "answer": "Editör",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0023",
+    "answer": "Yazar",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0024",
+    "answer": "Çevirmen",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0025",
+    "answer": "Psikolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0026",
+    "answer": "Diş Hekimi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0027",
+    "answer": "Veteriner",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0028",
+    "answer": "Eczacı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0029",
+    "answer": "Muhasebeci",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0030",
+    "answer": "Bankacı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0031",
+    "answer": "Ekonomist",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0032",
+    "answer": "Pazarlamacı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0033",
+    "answer": "Satış Temsilcisi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0034",
+    "answer": "İnsan Kaynakları Uzmanı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0035",
+    "answer": "Proje Yöneticisi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0036",
+    "answer": "Ürün Yöneticisi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0037",
+    "answer": "Veri Analisti",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0038",
+    "answer": "Veri Bilimci",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0039",
+    "answer": "Siber Güvenlik Uzmanı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0040",
+    "answer": "Sistem Yöneticisi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0041",
+    "answer": "Elektrikçi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0042",
+    "answer": "Tesisatçı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0043",
+    "answer": "Marangoz",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0044",
+    "answer": "Terzi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0045",
+    "answer": "Kuaför",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0046",
+    "answer": "Berber",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0047",
+    "answer": "Makyaj Artist",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0048",
+    "answer": "Fotoğrafçı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0049",
+    "answer": "Kameraman",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0050",
+    "answer": "Yönetmen",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0051",
+    "answer": "Oyuncu",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0052",
+    "answer": "Müzisyen",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0053",
+    "answer": "DJ",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0054",
+    "answer": "Sporcu",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0055",
+    "answer": "Antrenör",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0056",
+    "answer": "Hakem",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0057",
+    "answer": "Çiftçi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0058",
+    "answer": "Balıkçı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0059",
+    "answer": "Madenci",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0060",
+    "answer": "Şoför",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0061",
+    "answer": "Kurye",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0062",
+    "answer": "Kaptan",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0063",
+    "answer": "Arkeolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0064",
+    "answer": "Tarihçi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0065",
+    "answer": "Sosyolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0066",
+    "answer": "Antropolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0067",
+    "answer": "Biyolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0068",
+    "answer": "Kimyager",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0069",
+    "answer": "Fizikçi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0070",
+    "answer": "Astronom",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0071",
+    "answer": "Jeolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0072",
+    "answer": "Meteorolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0073",
+    "answer": "Diyetisyen",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0074",
+    "answer": "Fizyoterapist",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0075",
+    "answer": "Paramedik",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0076",
+    "answer": "Laborant",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0077",
+    "answer": "Radyolog",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0078",
+    "answer": "Noter",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0079",
+    "answer": "Danışman",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0080",
+    "answer": "Sigortacı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0081",
+    "answer": "Emlakçı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0082",
+    "answer": "Tur Rehberi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0083",
+    "answer": "Resepsiyonist",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0084",
+    "answer": "Güvenlik Görevlisi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0085",
+    "answer": "Temizlik Görevlisi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0086",
+    "answer": "Kasiyer",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0087",
+    "answer": "Depo Sorumlusu",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0088",
+    "answer": "Forklift Operatörü",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0089",
+    "answer": "Makine Operatörü",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0090",
+    "answer": "Kaynakçı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0091",
+    "answer": "Grafiker",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0092",
+    "answer": "Animatör",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0093",
+    "answer": "Oyun Geliştirici",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0094",
+    "answer": "UX Designer",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0095",
+    "answer": "UI Designer",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0096",
+    "answer": "DevOps Mühendisi",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0097",
+    "answer": "QA Tester",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0098",
+    "answer": "Scrum Master",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0099",
+    "answer": "Copywriter",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0100",
+    "answer": "Sosyal Medya Uzmanı",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0101",
+    "answer": "Influencer",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-professions-0102",
+    "answer": "Streamer",
+    "forbidden": [
+      "meslek",
+      "iş",
+      "çalışan",
+      "maaş",
+      "kariyer"
+    ],
+    "category": "professions",
+    "type": "meslek",
+    "difficulty": 1,
+    "language": "tr"
+  }
+]

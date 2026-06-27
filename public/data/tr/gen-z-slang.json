@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "tr-gen-z-slang-0001",
+    "answer": "Crush",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0002",
+    "answer": "Ghostlamak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0003",
+    "answer": "Stalklamak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0004",
+    "answer": "Ship’lemek",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0005",
+    "answer": "Red Flag",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0006",
+    "answer": "Green Flag",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0007",
+    "answer": "Toxic",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0008",
+    "answer": "Flex",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0009",
+    "answer": "Slay",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0010",
+    "answer": "Based",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0011",
+    "answer": "Cringe",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0012",
+    "answer": "NPC",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0013",
+    "answer": "Main Character",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0014",
+    "answer": "Delulu",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0015",
+    "answer": "Rizz",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0016",
+    "answer": "Situationship",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0017",
+    "answer": "Soft Launch",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0018",
+    "answer": "Hard Launch",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0019",
+    "answer": "Lowkey",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0020",
+    "answer": "Highkey",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0021",
+    "answer": "Mood",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0022",
+    "answer": "Vibe",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0023",
+    "answer": "No Cap",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0024",
+    "answer": "Cap",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0025",
+    "answer": "Sus",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0026",
+    "answer": "FOMO",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0027",
+    "answer": "JOMO",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0028",
+    "answer": "Glow Up",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0029",
+    "answer": "Pick Me",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0030",
+    "answer": "Simp",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0031",
+    "answer": "Stan",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0032",
+    "answer": "Tea",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0033",
+    "answer": "Spill the Tea",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0034",
+    "answer": "Receipts",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0035",
+    "answer": "Cancel",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0036",
+    "answer": "Ratio",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0037",
+    "answer": "Mid",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0038",
+    "answer": "GOAT",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0039",
+    "answer": "Bet",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0040",
+    "answer": "Periodt",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0041",
+    "answer": "Yass",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0042",
+    "answer": "İban At",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0043",
+    "answer": "Sal",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0044",
+    "answer": "Boş Yapma",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0045",
+    "answer": "Aşko",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0046",
+    "answer": "Kanka",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0047",
+    "answer": "Bro",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0048",
+    "answer": "Sis",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0049",
+    "answer": "Bestie",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0050",
+    "answer": "Bae",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0051",
+    "answer": "Pov",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0052",
+    "answer": "Core",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0053",
+    "answer": "Era",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0054",
+    "answer": "Lore",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0055",
+    "answer": "Canon Event",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0056",
+    "answer": "Side Eye",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0057",
+    "answer": "Bombastic Side Eye",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0058",
+    "answer": "Girl Math",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0059",
+    "answer": "Boy Math",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0060",
+    "answer": "Doomscroll",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0061",
+    "answer": "Brainrot",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0062",
+    "answer": "Touch Grass",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0063",
+    "answer": "Rent Free",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0064",
+    "answer": "It’s Giving",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0065",
+    "answer": "Ate",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0066",
+    "answer": "Left No Crumbs",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0067",
+    "answer": "Cooked",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0068",
+    "answer": "Let Him Cook",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0069",
+    "answer": "Skill Issue",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0070",
+    "answer": "Massive L",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0071",
+    "answer": "Big W",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0072",
+    "answer": "GG",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0073",
+    "answer": "EZ",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0074",
+    "answer": "AFK",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0075",
+    "answer": "IRL",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0076",
+    "answer": "DM",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0077",
+    "answer": "Story Atmak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0078",
+    "answer": "Reels",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0079",
+    "answer": "For You Page",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0080",
+    "answer": "Keşfet",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0081",
+    "answer": "Algoritma",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0082",
+    "answer": "Trend",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0083",
+    "answer": "Meme",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0084",
+    "answer": "Mizahşör",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0085",
+    "answer": "Flop",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0086",
+    "answer": "Peak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0087",
+    "answer": "Overrated",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0088",
+    "answer": "Underrated",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0089",
+    "answer": "Gatekeep",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0090",
+    "answer": "Gaslight",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0091",
+    "answer": "Girlboss",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0092",
+    "answer": "Mansplain",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0093",
+    "answer": "Benching",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0094",
+    "answer": "Orbiting",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0095",
+    "answer": "Breadcrumbing",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0096",
+    "answer": "Viral",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0097",
+    "answer": "Influencer",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0098",
+    "answer": "Streamer",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0099",
+    "answer": "Skibidi",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0100",
+    "answer": "Mod",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0101",
+    "answer": "Chat",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0102",
+    "answer": "Clip",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0103",
+    "answer": "Raid",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0104",
+    "answer": "Sub",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0105",
+    "answer": "Like Atmak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0106",
+    "answer": "Favlamak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0107",
+    "answer": "Repost",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0108",
+    "answer": "Quote Tweet",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0109",
+    "answer": "Thread",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0110",
+    "answer": "Mutelamak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0111",
+    "answer": "Blocklamak",
+    "forbidden": [
+      "argo",
+      "internet",
+      "sosyal medya",
+      "gençlik",
+      "terim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-gen-z-slang-0200",
+    "answer": "Fan Edit",
+    "forbidden": [
+      "video",
+      "müzik",
+      "karakter",
+      "sosyal medya",
+      "montaj"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr"
+  }
+]

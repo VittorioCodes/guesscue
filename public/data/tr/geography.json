@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "tr-geography-0001",
+    "answer": "Türkiye",
+    "forbidden": [
+      "Ankara",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0002",
+    "answer": "Almanya",
+    "forbidden": [
+      "Berlin",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0003",
+    "answer": "Fransa",
+    "forbidden": [
+      "Paris",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0004",
+    "answer": "İtalya",
+    "forbidden": [
+      "Roma",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0005",
+    "answer": "İspanya",
+    "forbidden": [
+      "Madrid",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0006",
+    "answer": "Portekiz",
+    "forbidden": [
+      "Lizbon",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0007",
+    "answer": "Yunanistan",
+    "forbidden": [
+      "Atina",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0008",
+    "answer": "Hollanda",
+    "forbidden": [
+      "Amsterdam",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0009",
+    "answer": "Belçika",
+    "forbidden": [
+      "Brüksel",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0010",
+    "answer": "İsviçre",
+    "forbidden": [
+      "Bern",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0011",
+    "answer": "Avusturya",
+    "forbidden": [
+      "Viyana",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0012",
+    "answer": "İngiltere",
+    "forbidden": [
+      "Londra",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0013",
+    "answer": "İrlanda",
+    "forbidden": [
+      "Dublin",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0014",
+    "answer": "Norveç",
+    "forbidden": [
+      "Oslo",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0015",
+    "answer": "İsveç",
+    "forbidden": [
+      "Stockholm",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0016",
+    "answer": "Finlandiya",
+    "forbidden": [
+      "Helsinki",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0017",
+    "answer": "Danimarka",
+    "forbidden": [
+      "Kopenhag",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0018",
+    "answer": "Polonya",
+    "forbidden": [
+      "Varşova",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0019",
+    "answer": "Çekya",
+    "forbidden": [
+      "Prag",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0020",
+    "answer": "Macaristan",
+    "forbidden": [
+      "Budapeşte",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0021",
+    "answer": "Romanya",
+    "forbidden": [
+      "Bükreş",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0022",
+    "answer": "Bulgaristan",
+    "forbidden": [
+      "Sofya",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0023",
+    "answer": "Rusya",
+    "forbidden": [
+      "Moskova",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0024",
+    "answer": "Ukrayna",
+    "forbidden": [
+      "Kiev",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0025",
+    "answer": "Gürcistan",
+    "forbidden": [
+      "Tiflis",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0026",
+    "answer": "Azerbaycan",
+    "forbidden": [
+      "Bakü",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0027",
+    "answer": "İran",
+    "forbidden": [
+      "Tahran",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0028",
+    "answer": "Irak",
+    "forbidden": [
+      "Bağdat",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0029",
+    "answer": "Suriye",
+    "forbidden": [
+      "Şam",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0030",
+    "answer": "Mısır",
+    "forbidden": [
+      "Kahire",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0031",
+    "answer": "Fas",
+    "forbidden": [
+      "Rabat",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0032",
+    "answer": "Tunus",
+    "forbidden": [
+      "Tunus",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0033",
+    "answer": "Güney Afrika",
+    "forbidden": [
+      "Pretoria",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0034",
+    "answer": "Nijerya",
+    "forbidden": [
+      "Abuja",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0035",
+    "answer": "Kenya",
+    "forbidden": [
+      "Nairobi",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0036",
+    "answer": "Etiyopya",
+    "forbidden": [
+      "Addis Ababa",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0037",
+    "answer": "Amerika Birleşik Devletleri",
+    "forbidden": [
+      "Washington",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0038",
+    "answer": "Kanada",
+    "forbidden": [
+      "Ottawa",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0039",
+    "answer": "Meksika",
+    "forbidden": [
+      "Mexico City",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0040",
+    "answer": "Brezilya",
+    "forbidden": [
+      "Brasilia",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0041",
+    "answer": "Arjantin",
+    "forbidden": [
+      "Buenos Aires",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0042",
+    "answer": "Şili",
+    "forbidden": [
+      "Santiago",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0043",
+    "answer": "Kolombiya",
+    "forbidden": [
+      "Bogota",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0044",
+    "answer": "Peru",
+    "forbidden": [
+      "Lima",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0045",
+    "answer": "Çin",
+    "forbidden": [
+      "Pekin",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0046",
+    "answer": "Japonya",
+    "forbidden": [
+      "Tokyo",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0047",
+    "answer": "Güney Kore",
+    "forbidden": [
+      "Seul",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0048",
+    "answer": "Hindistan",
+    "forbidden": [
+      "Yeni Delhi",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0049",
+    "answer": "Pakistan",
+    "forbidden": [
+      "İslamabad",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0050",
+    "answer": "Endonezya",
+    "forbidden": [
+      "Cakarta",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0051",
+    "answer": "Tayland",
+    "forbidden": [
+      "Bangkok",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0052",
+    "answer": "Vietnam",
+    "forbidden": [
+      "Hanoi",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0053",
+    "answer": "Avustralya",
+    "forbidden": [
+      "Canberra",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0054",
+    "answer": "Yeni Zelanda",
+    "forbidden": [
+      "Wellington",
+      "ülke",
+      "bayrak",
+      "başkent",
+      "harita"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0055",
+    "answer": "İstanbul",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0056",
+    "answer": "Ankara",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0057",
+    "answer": "İzmir",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0058",
+    "answer": "Bursa",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0059",
+    "answer": "Antalya",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0060",
+    "answer": "Konya",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0061",
+    "answer": "Adana",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0062",
+    "answer": "Gaziantep",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0063",
+    "answer": "Trabzon",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0064",
+    "answer": "Eskişehir",
+    "forbidden": [
+      "Türkiye",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0065",
+    "answer": "Paris",
+    "forbidden": [
+      "Fransa",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0066",
+    "answer": "Londra",
+    "forbidden": [
+      "İngiltere",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0067",
+    "answer": "Berlin",
+    "forbidden": [
+      "Almanya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0068",
+    "answer": "Roma",
+    "forbidden": [
+      "İtalya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0069",
+    "answer": "Madrid",
+    "forbidden": [
+      "İspanya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0070",
+    "answer": "Barselona",
+    "forbidden": [
+      "İspanya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0071",
+    "answer": "Amsterdam",
+    "forbidden": [
+      "Hollanda",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0072",
+    "answer": "Viyana",
+    "forbidden": [
+      "Avusturya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0073",
+    "answer": "Prag",
+    "forbidden": [
+      "Çekya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0074",
+    "answer": "Budapeşte",
+    "forbidden": [
+      "Macaristan",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0075",
+    "answer": "Atina",
+    "forbidden": [
+      "Yunanistan",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0076",
+    "answer": "New York",
+    "forbidden": [
+      "ABD",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0077",
+    "answer": "Los Angeles",
+    "forbidden": [
+      "ABD",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0078",
+    "answer": "San Francisco",
+    "forbidden": [
+      "ABD",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0079",
+    "answer": "Toronto",
+    "forbidden": [
+      "Kanada",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0080",
+    "answer": "Tokyo",
+    "forbidden": [
+      "Japonya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0081",
+    "answer": "Kyoto",
+    "forbidden": [
+      "Japonya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0082",
+    "answer": "Seul",
+    "forbidden": [
+      "Güney Kore",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0083",
+    "answer": "Pekin",
+    "forbidden": [
+      "Çin",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0084",
+    "answer": "Şanghay",
+    "forbidden": [
+      "Çin",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0085",
+    "answer": "Bangkok",
+    "forbidden": [
+      "Tayland",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0086",
+    "answer": "Dubai",
+    "forbidden": [
+      "BAE",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0087",
+    "answer": "Kahire",
+    "forbidden": [
+      "Mısır",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0088",
+    "answer": "Cape Town",
+    "forbidden": [
+      "Güney Afrika",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0089",
+    "answer": "Rio de Janeiro",
+    "forbidden": [
+      "Brezilya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0090",
+    "answer": "Buenos Aires",
+    "forbidden": [
+      "Arjantin",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0091",
+    "answer": "Sydney",
+    "forbidden": [
+      "Avustralya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0092",
+    "answer": "Melbourne",
+    "forbidden": [
+      "Avustralya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0093",
+    "answer": "Moskova",
+    "forbidden": [
+      "Rusya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0094",
+    "answer": "St. Petersburg",
+    "forbidden": [
+      "Rusya",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0095",
+    "answer": "Bakü",
+    "forbidden": [
+      "Azerbaycan",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0096",
+    "answer": "Tiflis",
+    "forbidden": [
+      "Gürcistan",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0097",
+    "answer": "Kudüs",
+    "forbidden": [
+      "İsrail",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0098",
+    "answer": "Mekke",
+    "forbidden": [
+      "Suudi Arabistan",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0099",
+    "answer": "Medine",
+    "forbidden": [
+      "Suudi Arabistan",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0100",
+    "answer": "Hong Kong",
+    "forbidden": [
+      "Çin",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0101",
+    "answer": "Singapur",
+    "forbidden": [
+      "Singapur",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0102",
+    "answer": "Lizbon",
+    "forbidden": [
+      "Portekiz",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0103",
+    "answer": "Dublin",
+    "forbidden": [
+      "İrlanda",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0104",
+    "answer": "Oslo",
+    "forbidden": [
+      "Norveç",
+      "şehir",
+      "nüfus",
+      "harita",
+      "merkez"
+    ],
+    "category": "geography",
+    "type": "şehir",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0105",
+    "answer": "Ekvator",
+    "forbidden": [
+      "sıfır enlem",
+      "dünya",
+      "çizgi",
+      "tropikal",
+      "yarım küre"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0106",
+    "answer": "Meridyen",
+    "forbidden": [
+      "boylam",
+      "Greenwich",
+      "zaman",
+      "dünya",
+      "çizgi"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0107",
+    "answer": "Kutup Noktası",
+    "forbidden": [
+      "kuzey",
+      "güney",
+      "buz",
+      "enlem",
+      "soğuk"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0108",
+    "answer": "Sahra Çölü",
+    "forbidden": [
+      "Afrika",
+      "kum",
+      "çöl",
+      "sıcak",
+      "kuzey"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0109",
+    "answer": "Amazon Nehri",
+    "forbidden": [
+      "Brezilya",
+      "orman",
+      "Güney Amerika",
+      "nehir",
+      "yağmur"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0110",
+    "answer": "Nil Nehri",
+    "forbidden": [
+      "Mısır",
+      "Afrika",
+      "nehir",
+      "delta",
+      "piramit"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0111",
+    "answer": "Everest",
+    "forbidden": [
+      "Himalaya",
+      "dağ",
+      "Nepal",
+      "zirve",
+      "yüksek"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0112",
+    "answer": "Alpler",
+    "forbidden": [
+      "Avrupa",
+      "dağ",
+      "İsviçre",
+      "kayak",
+      "zirve"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0113",
+    "answer": "And Dağları",
+    "forbidden": [
+      "Güney Amerika",
+      "dağ",
+      "Peru",
+      "Şili",
+      "uzun"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0114",
+    "answer": "Himalayalar",
+    "forbidden": [
+      "Everest",
+      "Nepal",
+      "Hindistan",
+      "dağ",
+      "Asya"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0115",
+    "answer": "Akdeniz",
+    "forbidden": [
+      "Türkiye",
+      "İtalya",
+      "deniz",
+      "iklim",
+      "güney"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0116",
+    "answer": "Karadeniz",
+    "forbidden": [
+      "Türkiye",
+      "kuzey",
+      "deniz",
+      "hamsi",
+      "kıyı"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0117",
+    "answer": "Ege Denizi",
+    "forbidden": [
+      "İzmir",
+      "Yunanistan",
+      "ada",
+      "deniz",
+      "kıyı"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0118",
+    "answer": "Pasifik Okyanusu",
+    "forbidden": [
+      "büyük",
+      "okyanus",
+      "Japonya",
+      "Amerika",
+      "ada"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0119",
+    "answer": "Atlantik Okyanusu",
+    "forbidden": [
+      "Amerika",
+      "Avrupa",
+      "okyanus",
+      "Portekiz",
+      "gemi"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0120",
+    "answer": "Hint Okyanusu",
+    "forbidden": [
+      "Hindistan",
+      "Afrika",
+      "okyanus",
+      "Maldivler",
+      "ada"
+    ],
+    "category": "geography",
+    "type": "coğrafi kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0121",
+    "answer": "Kızıldeniz",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0122",
+    "answer": "Boğaz",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0123",
+    "answer": "Ada",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0124",
+    "answer": "Yarımada",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0125",
+    "answer": "Delta",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0126",
+    "answer": "Volkan",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0127",
+    "answer": "Deprem",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0128",
+    "answer": "Fay Hattı",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0129",
+    "answer": "Muson",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0130",
+    "answer": "Tundra",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0131",
+    "answer": "Savan",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0132",
+    "answer": "Tropikal İklim",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0133",
+    "answer": "Kanyon",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0134",
+    "answer": "Fiyort",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0135",
+    "answer": "Vadi",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0136",
+    "answer": "Plato",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0137",
+    "answer": "Ova",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0138",
+    "answer": "Dağ",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0139",
+    "answer": "Nehir",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0140",
+    "answer": "Göl",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0141",
+    "answer": "Körfez",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0142",
+    "answer": "Başkent",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0143",
+    "answer": "Zaman Dilimi",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0144",
+    "answer": "Kıta",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0145",
+    "answer": "Avrupa Birliği",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0146",
+    "answer": "Schengen",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0147",
+    "answer": "Balkanlar",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0148",
+    "answer": "Kafkasya",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0149",
+    "answer": "Orta Doğu",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0150",
+    "answer": "İskandinavya",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0151",
+    "answer": "Anadolu",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0152",
+    "answer": "Mezopotamya",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0153",
+    "answer": "Silk Road",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0154",
+    "answer": "Antarktika",
+    "forbidden": [
+      "coğrafya",
+      "harita",
+      "doğa",
+      "bölge",
+      "yer"
+    ],
+    "category": "geography",
+    "type": "kavram",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0155",
+    "answer": "Tayga",
+    "forbidden": [
+      "iğne yapraklı",
+      "soğuk",
+      "orman",
+      "Sibirya",
+      "biyom"
+    ],
+    "category": "geography",
+    "type": "biyom",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0156",
+    "answer": "Step",
+    "forbidden": [
+      "bozkır",
+      "otlak",
+      "kurak",
+      "Asya",
+      "iklim"
+    ],
+    "category": "geography",
+    "type": "biyom",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0157",
+    "answer": "Maki",
+    "forbidden": [
+      "Akdeniz",
+      "çalılık",
+      "bitki",
+      "yaz kuraklığı",
+      "Ege"
+    ],
+    "category": "geography",
+    "type": "bitki örtüsü",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0158",
+    "answer": "Muson İklimi",
+    "forbidden": [
+      "yağmur",
+      "Hindistan",
+      "rüzgar",
+      "mevsim",
+      "Asya"
+    ],
+    "category": "geography",
+    "type": "iklim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0159",
+    "answer": "Kutup İklimi",
+    "forbidden": [
+      "buz",
+      "soğuk",
+      "Antarktika",
+      "kar",
+      "enlem"
+    ],
+    "category": "geography",
+    "type": "iklim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0160",
+    "answer": "Ekvatoral İklim",
+    "forbidden": [
+      "sıcak",
+      "yağmur",
+      "orman",
+      "ekvator",
+      "nem"
+    ],
+    "category": "geography",
+    "type": "iklim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0161",
+    "answer": "Akdeniz İklimi",
+    "forbidden": [
+      "yaz",
+      "kurak",
+      "kış",
+      "yağmur",
+      "zeytin"
+    ],
+    "category": "geography",
+    "type": "iklim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0162",
+    "answer": "Karasal İklim",
+    "forbidden": [
+      "iç bölge",
+      "kış",
+      "yaz",
+      "sıcaklık farkı",
+      "Anadolu"
+    ],
+    "category": "geography",
+    "type": "iklim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0163",
+    "answer": "Okyanusal İklim",
+    "forbidden": [
+      "ılıman",
+      "yağış",
+      "batı Avrupa",
+      "deniz",
+      "nem"
+    ],
+    "category": "geography",
+    "type": "iklim",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0164",
+    "answer": "Delta Ovası",
+    "forbidden": [
+      "akarsu",
+      "birikim",
+      "deniz",
+      "verimli",
+      "ağız"
+    ],
+    "category": "geography",
+    "type": "yer şekli",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0165",
+    "answer": "Peribacaları",
+    "forbidden": [
+      "Kapadokya",
+      "tüf",
+      "erozyon",
+      "Nevşehir",
+      "baca"
+    ],
+    "category": "geography",
+    "type": "yer şekli",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0166",
+    "answer": "Pamukkale Travertenleri",
+    "forbidden": [
+      "Denizli",
+      "beyaz",
+      "sıcak su",
+      "kalsiyum",
+      "teras"
+    ],
+    "category": "geography",
+    "type": "yer şekli",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0167",
+    "answer": "Kapadokya",
+    "forbidden": [
+      "Nevşehir",
+      "peribacası",
+      "balon",
+      "yeraltı şehri",
+      "tüf"
+    ],
+    "category": "geography",
+    "type": "bölge",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0168",
+    "answer": "Galapagos Adaları",
+    "forbidden": [
+      "Ekvador",
+      "Darwin",
+      "kaplumbağa",
+      "Pasifik",
+      "ada"
+    ],
+    "category": "geography",
+    "type": "ada",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0169",
+    "answer": "Madagaskar",
+    "forbidden": [
+      "ada",
+      "lemur",
+      "Afrika",
+      "Hint Okyanusu",
+      "ülke"
+    ],
+    "category": "geography",
+    "type": "ada",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0170",
+    "answer": "Grönland",
+    "forbidden": [
+      "buz",
+      "Danimarka",
+      "ada",
+      "Arktik",
+      "kutup"
+    ],
+    "category": "geography",
+    "type": "ada",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0171",
+    "answer": "Sicilya",
+    "forbidden": [
+      "İtalya",
+      "ada",
+      "Etna",
+      "Akdeniz",
+      "Palermo"
+    ],
+    "category": "geography",
+    "type": "ada",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0172",
+    "answer": "Kıbrıs",
+    "forbidden": [
+      "ada",
+      "Akdeniz",
+      "Lefkoşa",
+      "Türkiye",
+      "Rum"
+    ],
+    "category": "geography",
+    "type": "ada",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0173",
+    "answer": "Korsika",
+    "forbidden": [
+      "Fransa",
+      "ada",
+      "Akdeniz",
+      "Napolyon",
+      "Ajaccio"
+    ],
+    "category": "geography",
+    "type": "ada",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0174",
+    "answer": "Bali",
+    "forbidden": [
+      "Endonezya",
+      "ada",
+      "turizm",
+      "tapınak",
+      "plaj"
+    ],
+    "category": "geography",
+    "type": "ada",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0175",
+    "answer": "Maldivler",
+    "forbidden": [
+      "ada",
+      "Hint Okyanusu",
+      "turizm",
+      "mercankaya",
+      "tatil"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0176",
+    "answer": "Seyşeller",
+    "forbidden": [
+      "ada",
+      "Hint Okyanusu",
+      "turizm",
+      "Afrika",
+      "takımada"
+    ],
+    "category": "geography",
+    "type": "ülke",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0177",
+    "answer": "Kuzey Kutbu",
+    "forbidden": [
+      "Arktik",
+      "buz",
+      "enlem",
+      "ayı",
+      "kutup"
+    ],
+    "category": "geography",
+    "type": "bölge",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0178",
+    "answer": "Güney Kutbu",
+    "forbidden": [
+      "Antarktika",
+      "buz",
+      "penguen",
+      "kutup",
+      "kıta"
+    ],
+    "category": "geography",
+    "type": "bölge",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0179",
+    "answer": "Mariana Çukuru",
+    "forbidden": [
+      "Pasifik",
+      "okyanus",
+      "derinlik",
+      "çukur",
+      "Guam"
+    ],
+    "category": "geography",
+    "type": "yer şekli",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0180",
+    "answer": "Bering Boğazı",
+    "forbidden": [
+      "Rusya",
+      "Alaska",
+      "boğaz",
+      "Asya",
+      "Amerika"
+    ],
+    "category": "geography",
+    "type": "boğaz",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0181",
+    "answer": "Cebelitarık Boğazı",
+    "forbidden": [
+      "İspanya",
+      "Fas",
+      "Akdeniz",
+      "Atlantik",
+      "boğaz"
+    ],
+    "category": "geography",
+    "type": "boğaz",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0182",
+    "answer": "Süveyş Kanalı",
+    "forbidden": [
+      "Mısır",
+      "Kızıldeniz",
+      "Akdeniz",
+      "kanal",
+      "ticaret"
+    ],
+    "category": "geography",
+    "type": "kanal",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0183",
+    "answer": "Panama Kanalı",
+    "forbidden": [
+      "Atlantik",
+      "Pasifik",
+      "gemi",
+      "Orta Amerika",
+      "kanal"
+    ],
+    "category": "geography",
+    "type": "kanal",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0184",
+    "answer": "Ren Nehri",
+    "forbidden": [
+      "Almanya",
+      "Hollanda",
+      "Avrupa",
+      "nehir",
+      "ticaret"
+    ],
+    "category": "geography",
+    "type": "nehir",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0185",
+    "answer": "Tuna Nehri",
+    "forbidden": [
+      "Avrupa",
+      "Budapeşte",
+      "Viyana",
+      "Karadeniz",
+      "nehir"
+    ],
+    "category": "geography",
+    "type": "nehir",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0186",
+    "answer": "Fırat Nehri",
+    "forbidden": [
+      "Türkiye",
+      "Suriye",
+      "Irak",
+      "Mezopotamya",
+      "nehir"
+    ],
+    "category": "geography",
+    "type": "nehir",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0187",
+    "answer": "Dicle Nehri",
+    "forbidden": [
+      "Türkiye",
+      "Irak",
+      "Mezopotamya",
+      "nehir",
+      "Bağdat"
+    ],
+    "category": "geography",
+    "type": "nehir",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0188",
+    "answer": "Ganj Nehri",
+    "forbidden": [
+      "Hindistan",
+      "kutsal",
+      "Varanasi",
+      "nehir",
+      "delta"
+    ],
+    "category": "geography",
+    "type": "nehir",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0189",
+    "answer": "Volga Nehri",
+    "forbidden": [
+      "Rusya",
+      "Hazar",
+      "nehir",
+      "Avrupa",
+      "Moskova"
+    ],
+    "category": "geography",
+    "type": "nehir",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0190",
+    "answer": "Hazar Denizi",
+    "forbidden": [
+      "göl",
+      "Azerbaycan",
+      "İran",
+      "Rusya",
+      "tuzlu"
+    ],
+    "category": "geography",
+    "type": "su kütlesi",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0191",
+    "answer": "Baykal Gölü",
+    "forbidden": [
+      "Rusya",
+      "derin",
+      "Sibirya",
+      "göl",
+      "tatlı su"
+    ],
+    "category": "geography",
+    "type": "göl",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0192",
+    "answer": "Victoria Gölü",
+    "forbidden": [
+      "Afrika",
+      "Uganda",
+      "Tanzanya",
+      "Nil",
+      "göl"
+    ],
+    "category": "geography",
+    "type": "göl",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0193",
+    "answer": "Titicaca Gölü",
+    "forbidden": [
+      "Peru",
+      "Bolivya",
+      "And",
+      "yüksek",
+      "göl"
+    ],
+    "category": "geography",
+    "type": "göl",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0194",
+    "answer": "Büyük Set Resifi",
+    "forbidden": [
+      "Avustralya",
+      "mercan",
+      "okyanus",
+      "resif",
+      "Queensland"
+    ],
+    "category": "geography",
+    "type": "resif",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0195",
+    "answer": "Salar de Uyuni",
+    "forbidden": [
+      "Bolivya",
+      "tuz",
+      "ayna",
+      "çöl",
+      "And"
+    ],
+    "category": "geography",
+    "type": "yer şekli",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0196",
+    "answer": "Patagonya",
+    "forbidden": [
+      "Arjantin",
+      "Şili",
+      "güney",
+      "buzul",
+      "rüzgar"
+    ],
+    "category": "geography",
+    "type": "bölge",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0197",
+    "answer": "Sibirya",
+    "forbidden": [
+      "Rusya",
+      "soğuk",
+      "tayga",
+      "Asya",
+      "geniş"
+    ],
+    "category": "geography",
+    "type": "bölge",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0198",
+    "answer": "Sina Yarımadası",
+    "forbidden": [
+      "Mısır",
+      "Kızıldeniz",
+      "Süveyş",
+      "yarımada",
+      "çöl"
+    ],
+    "category": "geography",
+    "type": "yarımada",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0199",
+    "answer": "Arabistan Yarımadası",
+    "forbidden": [
+      "Suudi Arabistan",
+      "çöl",
+      "Mekke",
+      "Kızıldeniz",
+      "Basra"
+    ],
+    "category": "geography",
+    "type": "yarımada",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-geography-0200",
+    "answer": "Balkan Yarımadası",
+    "forbidden": [
+      "Güneydoğu Avrupa",
+      "Türkiye",
+      "Yunanistan",
+      "dağ",
+      "bölge"
+    ],
+    "category": "geography",
+    "type": "yarımada",
+    "difficulty": 5,
+    "language": "tr"
+  }
+]

@@ -1,0 +1,91 @@
+.app-shell { width: min(1180px, calc(100% - 28px)); margin: 0 auto; padding: 24px 0 52px; }
+.app-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 24px; }
+.app-header h1 { margin: 0; font-size: clamp(2.2rem, 6vw, 4rem); letter-spacing: -0.08em; }
+.eyebrow { margin: 0 0 8px; text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.72rem; color: var(--muted); font-weight: 800; }
+.setup-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.panel, .game-card, .score-card { background: color-mix(in srgb, var(--panel), transparent 3%); border: 1px solid var(--border); border-radius: 28px; padding: 22px; box-shadow: var(--shadow); }
+.hero-panel { background: linear-gradient(135deg, var(--panel-strong), var(--panel)); }
+.panel h2, .panel h3 { margin-top: 0; }
+.wide { grid-column: 1 / -1; }
+.choice-row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.choice, .ghost-button, .start-button, .category-card { border: 1px solid var(--border); border-radius: 18px; background: var(--panel); color: var(--text); padding: 12px 14px; transition: transform .15s ease, border-color .15s ease, background .15s ease; }
+.choice:hover, .category-card:hover, .ghost-button:hover { transform: translateY(-1px); border-color: color-mix(in srgb, var(--primary), var(--border)); }
+.selected { border-color: var(--primary); background: color-mix(in srgb, var(--primary), var(--panel) 82%); }
+.category-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.category-card { text-align: left; min-height: 126px; }
+.category-card strong { display: block; margin-bottom: 8px; }
+.category-card span { color: var(--muted); font-size: 0.92rem; line-height: 1.35; }
+.field { display: grid; gap: 8px; margin: 12px 0; color: var(--muted); font-weight: 700; }
+input, select { width: 100%; border: 1px solid var(--border); border-radius: 14px; padding: 12px 14px; background: var(--panel); color: var(--text); }
+.check { display: flex; gap: 10px; align-items: center; margin: 10px 0; color: var(--muted); font-weight: 700; }
+.check input { width: auto; }
+.start-button { border: 0; background: var(--primary); color: var(--primary-contrast); font-weight: 900; padding: 15px 18px; }
+.setup-grid > .start-button { grid-column: 1 / -1; font-size: 1.1rem; }
+.small-note { color: var(--muted); font-size: .9rem; }
+.error-note { color: var(--taboo); font-weight: 800; }
+.success-note { color: var(--correct); font-weight: 800; }
+.game-layout { display: grid; grid-template-columns: 1fr 280px; gap: 18px; align-items: start; }
+.game-main { display: grid; gap: 16px; }
+.round-bar, .game-footer, .score-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.round-bar h2 { margin: 0; }
+.timer { border-radius: 22px; padding: 12px 18px; background: var(--panel-strong); font-size: 2rem; font-weight: 950; font-variant-numeric: tabular-nums; }
+.timer-danger { color: var(--taboo); animation: pulse 1s infinite; }
+.game-card { min-height: 360px; display: grid; place-items: center; text-align: center; align-content: center; gap: 20px; }
+.game-card h2 { margin: 0; font-size: clamp(2.4rem, 8vw, 5rem); letter-spacing: -0.06em; }
+.forbidden-list { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+.chip { background: color-mix(in srgb, var(--primary), var(--panel) 82%); border: 1px solid color-mix(in srgb, var(--primary), transparent 55%); border-radius: 999px; padding: 10px 14px; font-weight: 800; }
+.card-meta { color: var(--muted); }
+.action-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.action { border: 0; border-radius: 22px; padding: 18px; font-weight: 950; color: #07120d; font-size: 1.08rem; }
+.correct { background: var(--correct); }
+.taboo { background: var(--taboo); color: white; }
+.pass { background: var(--pass); }
+.score-card h3 { margin-top: 0; }
+.score-list { display: grid; gap: 8px; }
+.score-row { border: 1px solid var(--border); border-radius: 16px; padding: 12px; }
+.score-row.active { background: color-mix(in srgb, var(--primary), var(--panel) 84%); border-color: var(--primary); }
+.summary-panel { max-width: 720px; margin: 0 auto; text-align: center; }
+.summary-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 20px 0; }
+.summary-grid span { border: 1px solid var(--border); border-radius: 16px; padding: 18px; font-weight: 900; }
+@keyframes pulse { 50% { transform: scale(1.04); } }
+@media (max-width: 840px) {
+  .setup-grid, .game-layout, .category-grid { grid-template-columns: 1fr; }
+  .app-header { align-items: flex-start; }
+  .action-grid { grid-template-columns: 1fr; }
+  .game-card { min-height: 300px; }
+}
+
+.live-players {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 18px 0;
+}
+.live-players .small-note {
+  flex-basis: 100%;
+  margin: 0 0 4px;
+}
+.live-players span {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 12px;
+  background: var(--surface-strong);
+  font-weight: 800;
+}
+.timer-display {
+  border-radius: 22px;
+  padding: 12px 18px;
+  background: var(--panel-strong);
+  font-size: 1.15rem;
+  font-weight: 950;
+}
+.waiting-panel {
+  min-height: 360px;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  align-content: center;
+  gap: 12px;
+}
+.category-card em { display: inline-flex; margin-top: 12px; padding: 4px 9px; border-radius: 999px; background: color-mix(in srgb, var(--primary), transparent 85%); color: var(--primary); font-style: normal; font-size: 0.78rem; font-weight: 800; }

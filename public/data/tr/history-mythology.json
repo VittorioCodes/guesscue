@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "tr-history-mythology-0001",
+    "answer": "Atatürk",
+    "forbidden": [
+      "Cumhuriyet",
+      "Kurtuluş Savaşı",
+      "Ankara",
+      "Mustafa Kemal",
+      "Türkiye"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0002",
+    "answer": "Fatih Sultan Mehmet",
+    "forbidden": [
+      "İstanbul",
+      "fetih",
+      "Osmanlı",
+      "1453",
+      "sultan"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0003",
+    "answer": "Kanuni Sultan Süleyman",
+    "forbidden": [
+      "Osmanlı",
+      "Muhteşem",
+      "hukuk",
+      "Hürrem",
+      "sultan"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0004",
+    "answer": "Osman Gazi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0005",
+    "answer": "Yavuz Sultan Selim",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0006",
+    "answer": "Napolyon",
+    "forbidden": [
+      "Fransa",
+      "Waterloo",
+      "imparator",
+      "Bonaparte",
+      "Avrupa"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0007",
+    "answer": "Julius Caesar",
+    "forbidden": [
+      "Roma",
+      "senato",
+      "Brütüs",
+      "Galya",
+      "imparator"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0008",
+    "answer": "Kleopatra",
+    "forbidden": [
+      "Mısır",
+      "Nil",
+      "Sezar",
+      "Antonius",
+      "kraliçe"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0009",
+    "answer": "Büyük İskender",
+    "forbidden": [
+      "Makedonya",
+      "Pers",
+      "fetih",
+      "İskenderiye",
+      "ordu"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0010",
+    "answer": "Cengiz Han",
+    "forbidden": [
+      "Moğol",
+      "han",
+      "bozkır",
+      "imparatorluk",
+      "atlı"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0011",
+    "answer": "Timur",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0012",
+    "answer": "Kraliçe Victoria",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0013",
+    "answer": "Winston Churchill",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0014",
+    "answer": "Mahatma Gandhi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0015",
+    "answer": "Martin Luther King",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0016",
+    "answer": "Nelson Mandela",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0017",
+    "answer": "Albert Einstein",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0018",
+    "answer": "Marie Curie",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0019",
+    "answer": "Nikola Tesla",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0020",
+    "answer": "Galileo",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0021",
+    "answer": "Leonardo da Vinci",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0022",
+    "answer": "Sokrates",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0023",
+    "answer": "Platon",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0024",
+    "answer": "Aristoteles",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0025",
+    "answer": "Homeros",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0026",
+    "answer": "Truva Savaşı",
+    "forbidden": [
+      "Helen",
+      "Akhalar",
+      "tahta at",
+      "Homeros",
+      "İlyada"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0027",
+    "answer": "Roma İmparatorluğu",
+    "forbidden": [
+      "Sezar",
+      "gladyatör",
+      "kolezyum",
+      "Akdeniz",
+      "Latin"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0028",
+    "answer": "Bizans İmparatorluğu",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0029",
+    "answer": "Osmanlı İmparatorluğu",
+    "forbidden": [
+      "sultan",
+      "İstanbul",
+      "devlet",
+      "imparatorluk",
+      "Türkiye"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0030",
+    "answer": "Selçuklu",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0031",
+    "answer": "Haçlı Seferleri",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0032",
+    "answer": "Rönesans",
+    "forbidden": [
+      "sanat",
+      "İtalya",
+      "Leonardo",
+      "yeniden doğuş",
+      "Avrupa"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0033",
+    "answer": "Reform",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0034",
+    "answer": "Fransız Devrimi",
+    "forbidden": [
+      "Bastille",
+      "giyotin",
+      "1789",
+      "halk",
+      "monarşi"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0035",
+    "answer": "Sanayi Devrimi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0036",
+    "answer": "Birinci Dünya Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0037",
+    "answer": "İkinci Dünya Savaşı",
+    "forbidden": [
+      "Hitler",
+      "Nazi",
+      "Müttefik",
+      "1939",
+      "Almanya"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0038",
+    "answer": "Soğuk Savaş",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0039",
+    "answer": "Berlin Duvarı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0040",
+    "answer": "Kurtuluş Savaşı",
+    "forbidden": [
+      "Atatürk",
+      "Anadolu",
+      "Yunan",
+      "Sakarya",
+      "Cumhuriyet"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0041",
+    "answer": "Çanakkale Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0042",
+    "answer": "Malazgirt Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0043",
+    "answer": "İstanbul’un Fethi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0044",
+    "answer": "Magna Carta",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0045",
+    "answer": "İpek Yolu",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0046",
+    "answer": "Mezopotamya",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0047",
+    "answer": "Sümerler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0048",
+    "answer": "Hititler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0049",
+    "answer": "Antik Mısır",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0050",
+    "answer": "Piramitler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0051",
+    "answer": "Zeus",
+    "forbidden": [
+      "Yunan",
+      "şimşek",
+      "Olimpos",
+      "tanrı",
+      "Hera"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0052",
+    "answer": "Hera",
+    "forbidden": [
+      "Zeus",
+      "Olimpos",
+      "evlilik",
+      "tanrıça",
+      "Yunan"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0053",
+    "answer": "Poseidon",
+    "forbidden": [
+      "deniz",
+      "üç dişli",
+      "Yunan",
+      "tanrı",
+      "Olimpos"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0054",
+    "answer": "Hades",
+    "forbidden": [
+      "yeraltı",
+      "ölüler",
+      "Persephone",
+      "Yunan",
+      "tanrı"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0055",
+    "answer": "Athena",
+    "forbidden": [
+      "bilgelik",
+      "savaş",
+      "baykuş",
+      "Atina",
+      "tanrıça"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0056",
+    "answer": "Ares",
+    "forbidden": [
+      "savaş",
+      "Yunan",
+      "tanrı",
+      "Olimpos",
+      "Afrodit"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0057",
+    "answer": "Afrodit",
+    "forbidden": [
+      "aşk",
+      "güzellik",
+      "Yunan",
+      "tanrıça",
+      "Venüs"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0058",
+    "answer": "Apollon",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0059",
+    "answer": "Artemis",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0060",
+    "answer": "Hermes",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 1,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0061",
+    "answer": "Dionysos",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0062",
+    "answer": "Herakles",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0063",
+    "answer": "Achilles",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0064",
+    "answer": "Odysseus",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0065",
+    "answer": "Medusa",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0066",
+    "answer": "Minotor",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0067",
+    "answer": "Pegasus",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0068",
+    "answer": "Thor",
+    "forbidden": [
+      "çekiç",
+      "Mjolnir",
+      "İskandinav",
+      "Odin",
+      "şimşek"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0069",
+    "answer": "Odin",
+    "forbidden": [
+      "İskandinav",
+      "Valhalla",
+      "tek göz",
+      "kuzgun",
+      "tanrı"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0070",
+    "answer": "Loki",
+    "forbidden": [
+      "hile",
+      "İskandinav",
+      "Thor",
+      "dev",
+      "kaos"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0071",
+    "answer": "Freya",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0072",
+    "answer": "Valhalla",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0073",
+    "answer": "Ragnarok",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0074",
+    "answer": "Anubis",
+    "forbidden": [
+      "çakal",
+      "Mısır",
+      "ölüm",
+      "mumya",
+      "tanrı"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0075",
+    "answer": "Ra",
+    "forbidden": [
+      "güneş",
+      "Mısır",
+      "tanrı",
+      "şahin",
+      "firavun"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0076",
+    "answer": "Osiris",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0077",
+    "answer": "İsis",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0078",
+    "answer": "Horus",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0079",
+    "answer": "Tengri",
+    "forbidden": [
+      "Türk",
+      "gök",
+      "tanrı",
+      "bozkır",
+      "inanç"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0080",
+    "answer": "Umay Ana",
+    "forbidden": [
+      "Türk",
+      "çocuk",
+      "koruyucu",
+      "tanrıça",
+      "mitoloji"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0081",
+    "answer": "Erlik",
+    "forbidden": [
+      "yeraltı",
+      "Türk",
+      "kötülük",
+      "mitoloji",
+      "ölüm"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0082",
+    "answer": "Bozkurt",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0083",
+    "answer": "Ergenekon",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0084",
+    "answer": "Şahmeran",
+    "forbidden": [
+      "yılan",
+      "efsane",
+      "Tarsus",
+      "kadın",
+      "mitoloji"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0085",
+    "answer": "Dede Korkut",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0086",
+    "answer": "Gılgamış",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0087",
+    "answer": "Prometheus",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0088",
+    "answer": "Pandora",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0089",
+    "answer": "Atlantis",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0090",
+    "answer": "Kral Arthur",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0091",
+    "answer": "Excalibur",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0092",
+    "answer": "Merlin",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0093",
+    "answer": "Robin Hood",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0094",
+    "answer": "Vikingler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0095",
+    "answer": "Samuray",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0096",
+    "answer": "Şövalye",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0097",
+    "answer": "Gladyatör",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0098",
+    "answer": "Spartalılar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0099",
+    "answer": "Aztekler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0100",
+    "answer": "Mayalar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0101",
+    "answer": "İnkalar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0102",
+    "answer": "Moğollar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0103",
+    "answer": "Hunlar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0104",
+    "answer": "Göktürkler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "kavram",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0105",
+    "answer": "Hitit Kralı Şuppiluliuma",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0106",
+    "answer": "Hammurabi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0107",
+    "answer": "Asurbanipal",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0108",
+    "answer": "Akad İmparatorluğu",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0109",
+    "answer": "Babil Kulesi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0110",
+    "answer": "Ziggurat",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0111",
+    "answer": "Kadeş Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0112",
+    "answer": "Kadeş Antlaşması",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0113",
+    "answer": "Pers İmparatorluğu",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0114",
+    "answer": "Kiros",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0115",
+    "answer": "Darius",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0116",
+    "answer": "Termopylae Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0117",
+    "answer": "Maraton Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0118",
+    "answer": "Peloponez Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0119",
+    "answer": "Sparta",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0120",
+    "answer": "Atina Demokrasisi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 2,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0121",
+    "answer": "Roma Cumhuriyeti",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0122",
+    "answer": "Pax Romana",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0123",
+    "answer": "Augustus",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0124",
+    "answer": "Neron",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0125",
+    "answer": "Konstantin",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0126",
+    "answer": "Justinianus",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0127",
+    "answer": "Ayasofya",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0128",
+    "answer": "Kavimler Göçü",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0129",
+    "answer": "Attila",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0130",
+    "answer": "Bumin Kağan",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0131",
+    "answer": "Bilge Kağan",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0132",
+    "answer": "Kül Tigin",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0133",
+    "answer": "Orhun Yazıtları",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0134",
+    "answer": "Manas Destanı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0135",
+    "answer": "Alp Er Tunga",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0136",
+    "answer": "Oğuz Kağan",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0137",
+    "answer": "Mete Han",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0138",
+    "answer": "Uygurlar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0139",
+    "answer": "Karahitaylar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0140",
+    "answer": "Gazneliler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0141",
+    "answer": "Alparslan",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0142",
+    "answer": "Melikşah",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0143",
+    "answer": "Nizamülmülk",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0144",
+    "answer": "Harezmi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0145",
+    "answer": "İbn Sina",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0146",
+    "answer": "Farabi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0147",
+    "answer": "Biruni",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0148",
+    "answer": "Uluğ Bey",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0149",
+    "answer": "Marco Polo",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0150",
+    "answer": "Coğrafi Keşifler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 3,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0151",
+    "answer": "Kristof Kolomb",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0152",
+    "answer": "Vasco da Gama",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0153",
+    "answer": "Macellan",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0154",
+    "answer": "Aziz Jeanne d’Arc",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0155",
+    "answer": "Yüz Yıl Savaşları",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0156",
+    "answer": "Gül Savaşları",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0157",
+    "answer": "Engizisyon",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0158",
+    "answer": "Aydınlanma Çağı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0159",
+    "answer": "Amerikan Devrimi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0160",
+    "answer": "George Washington",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0161",
+    "answer": "Abraham Lincoln",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0162",
+    "answer": "Bolşevik Devrimi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0163",
+    "answer": "Lenin",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0164",
+    "answer": "Stalin",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0165",
+    "answer": "Mao Zedong",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0166",
+    "answer": "Meiji Restorasyonu",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0167",
+    "answer": "Hiroşima",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0168",
+    "answer": "Küba Füze Krizi",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0169",
+    "answer": "Waterloo Savaşı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0170",
+    "answer": "Normandiya Çıkarması",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0171",
+    "answer": "D-Day",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0172",
+    "answer": "Pearl Harbor",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0173",
+    "answer": "Varşova Paktı",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0174",
+    "answer": "NATO",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0175",
+    "answer": "Avrupa Kömür Çelik Topluluğu",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 4,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0176",
+    "answer": "Kibele",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0177",
+    "answer": "Artemis Tapınağı",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0178",
+    "answer": "Gordion Düğümü",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0179",
+    "answer": "Frigler",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0180",
+    "answer": "Lidyalılar",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0181",
+    "answer": "Kral Midas",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0182",
+    "answer": "Krezüs",
+    "forbidden": [
+      "tarih",
+      "dönem",
+      "uygarlık",
+      "savaş",
+      "lider"
+    ],
+    "category": "history-mythology",
+    "type": "tarih",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0183",
+    "answer": "Amazonlar",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0184",
+    "answer": "Kybele",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0185",
+    "answer": "Hekate",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0186",
+    "answer": "Nemesis",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0187",
+    "answer": "Nike",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0188",
+    "answer": "Eros",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0189",
+    "answer": "Gaia",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0190",
+    "answer": "Kronos",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0191",
+    "answer": "Rhea",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0192",
+    "answer": "Persephone",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0193",
+    "answer": "Demeter",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0194",
+    "answer": "Hephaistos",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0195",
+    "answer": "Heimdall",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0196",
+    "answer": "Balder",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0197",
+    "answer": "Tyr",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0198",
+    "answer": "Fenrir",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0199",
+    "answer": "Jörmungandr",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  },
+  {
+    "id": "tr-history-mythology-0200",
+    "answer": "Yggdrasil",
+    "forbidden": [
+      "mitoloji",
+      "efsane",
+      "tanrı",
+      "antik",
+      "kült"
+    ],
+    "category": "history-mythology",
+    "type": "mitoloji",
+    "difficulty": 5,
+    "language": "tr"
+  }
+]
