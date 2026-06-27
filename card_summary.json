@@ -1,0 +1,438 @@
+{
+  "movie-series": {
+    "count": 200,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Game of Thrones",
+        8
+      ],
+      [
+        "Star Wars",
+        7
+      ],
+      [
+        "Breaking Bad",
+        6
+      ],
+      [
+        "Marvel",
+        6
+      ],
+      [
+        "GORA",
+        5
+      ],
+      [
+        "Yüzüklerin Efendisi",
+        4
+      ],
+      [
+        "Batman",
+        4
+      ],
+      [
+        "Friends",
+        3
+      ],
+      [
+        "Harry Potter",
+        3
+      ],
+      [
+        "The Office",
+        3
+      ],
+      [
+        "Leyla ile Mecnun",
+        3
+      ],
+      [
+        "Hababam Sınıfı",
+        3
+      ],
+      [
+        "SpongeBob SquarePants",
+        3
+      ],
+      [
+        "The Simpsons",
+        3
+      ],
+      [
+        "Avatar",
+        2
+      ],
+      [
+        "Ezel",
+        2
+      ],
+      [
+        "Kurtlar Vadisi",
+        2
+      ],
+      [
+        "Aşk-ı Memnu",
+        2
+      ],
+      [
+        "The Sopranos",
+        2
+      ],
+      [
+        "Rick and Morty",
+        2
+      ],
+      [
+        "Interstellar",
+        1
+      ],
+      [
+        "Inception",
+        1
+      ],
+      [
+        "The Matrix",
+        1
+      ],
+      [
+        "Stranger Things",
+        1
+      ],
+      [
+        "Sherlock",
+        1
+      ],
+      [
+        "Peaky Blinders",
+        1
+      ],
+      [
+        "La Casa de Papel",
+        1
+      ],
+      [
+        "Dark",
+        1
+      ],
+      [
+        "The Witcher",
+        1
+      ],
+      [
+        "Titanic",
+        1
+      ]
+    ]
+  },
+  "games": {
+    "count": 200,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Minecraft",
+        1
+      ],
+      [
+        "Counter-Strike 2",
+        1
+      ],
+      [
+        "Valorant",
+        1
+      ],
+      [
+        "League of Legends",
+        1
+      ],
+      [
+        "GTA V",
+        1
+      ],
+      [
+        "The Witcher 3",
+        1
+      ],
+      [
+        "Elden Ring",
+        1
+      ],
+      [
+        "Dark Souls",
+        1
+      ],
+      [
+        "Half-Life",
+        1
+      ],
+      [
+        "Portal",
+        1
+      ],
+      [
+        "The Last of Us",
+        1
+      ],
+      [
+        "God of War",
+        1
+      ],
+      [
+        "Red Dead Redemption 2",
+        1
+      ],
+      [
+        "Cyberpunk 2077",
+        1
+      ],
+      [
+        "Skyrim",
+        1
+      ],
+      [
+        "Zelda Breath of the Wild",
+        1
+      ],
+      [
+        "Mario",
+        1
+      ],
+      [
+        "Sonic",
+        1
+      ],
+      [
+        "Lara Croft",
+        1
+      ],
+      [
+        "Master Chief",
+        1
+      ],
+      [
+        "Kratos",
+        1
+      ],
+      [
+        "Geralt",
+        1
+      ],
+      [
+        "Ezio Auditore",
+        1
+      ],
+      [
+        "CJ",
+        1
+      ],
+      [
+        "Agent 47",
+        1
+      ],
+      [
+        "Pikachu",
+        1
+      ],
+      [
+        "Creeper",
+        1
+      ],
+      [
+        "Enderman",
+        1
+      ],
+      [
+        "City 17",
+        1
+      ],
+      [
+        "Los Santos",
+        1
+      ]
+    ]
+  },
+  "geography": {
+    "count": 200,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Coğrafya",
+        200
+      ]
+    ]
+  },
+  "professions": {
+    "count": 102,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Meslekler",
+        102
+      ]
+    ]
+  },
+  "animals": {
+    "count": 100,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Hayvanlar",
+        100
+      ]
+    ]
+  },
+  "gen-z-slang": {
+    "count": 112,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Slang",
+        112
+      ]
+    ]
+  },
+  "history-mythology": {
+    "count": 200,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Atatürk",
+        1
+      ],
+      [
+        "Fatih Sultan Mehmet",
+        1
+      ],
+      [
+        "Kanuni Sultan Süleyman",
+        1
+      ],
+      [
+        "Osman Gazi",
+        1
+      ],
+      [
+        "Yavuz Sultan Selim",
+        1
+      ],
+      [
+        "Napolyon",
+        1
+      ],
+      [
+        "Julius Caesar",
+        1
+      ],
+      [
+        "Kleopatra",
+        1
+      ],
+      [
+        "Büyük İskender",
+        1
+      ],
+      [
+        "Cengiz Han",
+        1
+      ],
+      [
+        "Timur",
+        1
+      ],
+      [
+        "Kraliçe Victoria",
+        1
+      ],
+      [
+        "Winston Churchill",
+        1
+      ],
+      [
+        "Mahatma Gandhi",
+        1
+      ],
+      [
+        "Martin Luther King",
+        1
+      ],
+      [
+        "Nelson Mandela",
+        1
+      ],
+      [
+        "Albert Einstein",
+        1
+      ],
+      [
+        "Marie Curie",
+        1
+      ],
+      [
+        "Nikola Tesla",
+        1
+      ],
+      [
+        "Galileo",
+        1
+      ],
+      [
+        "Leonardo da Vinci",
+        1
+      ],
+      [
+        "Sokrates",
+        1
+      ],
+      [
+        "Platon",
+        1
+      ],
+      [
+        "Aristoteles",
+        1
+      ],
+      [
+        "Homeros",
+        1
+      ],
+      [
+        "Truva Savaşı",
+        1
+      ],
+      [
+        "Roma İmparatorluğu",
+        1
+      ],
+      [
+        "Bizans İmparatorluğu",
+        1
+      ],
+      [
+        "Osmanlı İmparatorluğu",
+        1
+      ],
+      [
+        "Selçuklu",
+        1
+      ]
+    ]
+  },
+  "general": {
+    "count": 108,
+    "duplicates": [],
+    "placeholders": [],
+    "source_counts": [
+      [
+        "Günlük Yaşam",
+        108
+      ]
+    ]
+  }
+}

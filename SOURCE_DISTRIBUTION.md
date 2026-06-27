@@ -1,0 +1,707 @@
+# Film / Dizi mevcut ürün/evren listesi
+
+- Breaking Bad: 6
+- Marvel: 6
+- Game of Thrones: 5
+- Star Wars: 5
+- GORA: 5
+- Doctor Who: 5
+- Better Call Saul: 5
+- Yüzüklerin Efendisi: 4
+- Batman: 4
+- The Sopranos: 4
+- Succession: 4
+- Friends: 3
+- Harry Potter: 3
+- The Office: 3
+- Sherlock: 3
+- Leyla ile Mecnun: 3
+- Hababam Sınıfı: 3
+- SpongeBob SquarePants: 3
+- The Simpsons: 3
+- The Bear: 3
+- The Silence of the Lambs: 3
+- The Wire: 3
+- Avatar: The Last Airbender: 3
+- Peaky Blinders: 2
+- Avatar: 2
+- Ezel: 2
+- Kurtlar Vadisi: 2
+- Aşk-ı Memnu: 2
+- Fleabag: 2
+- Twin Peaks: 2
+- Rick and Morty: 2
+- The Crown: 2
+- Mr. Robot: 2
+- Severance: 2
+- Ted Lasso: 2
+- The Expanse: 2
+- Battlestar Galactica: 2
+- Blade Runner: 2
+- Alien: 2
+- Mad Max: 2
+- The Truman Show: 2
+- No Country for Old Men: 2
+- There Will Be Blood: 2
+- Everything Everywhere All at Once: 2
+- The Grand Budapest Hotel: 2
+- Get Out: 2
+- The Handmaid’s Tale: 2
+- The Queen’s Gambit: 2
+- The Usual Suspects: 2
+- Back to the Future: 2
+- Narcos: 2
+- Şahsiyet: 2
+- House M.D.: 2
+- Dexter: 2
+- Community: 2
+- The Good Place: 2
+- Interstellar: 1
+- Inception: 1
+- The Matrix: 1
+- Stranger Things: 1
+- La Casa de Papel: 1
+- Dark: 1
+- The Witcher: 1
+- Titanic: 1
+- Pulp Fiction: 1
+- Fight Club: 1
+- Forrest Gump: 1
+- The Godfather: 1
+- Jon Snow: 1
+- Eleven: 1
+- Rick Grimes: 1
+- The Walking Dead: 1
+- Black Mirror: 1
+- Westworld: 1
+- Lost: 1
+- How I Met Your Mother: 1
+- Prison Break: 1
+- Squid Game: 1
+- Wednesday: 1
+- Chernobyl: 1
+- Behzat Ç.: 1
+- Gibi: 1
+- Recep İvedik: 1
+- Babam ve Oğlum: 1
+- Vizontele: 1
+- Masumlar Apartmanı: 1
+- Kelebeğin Rüyası: 1
+- Yeşil Yol: 1
+- Esaretin Bedeli: 1
+- Gladyatör: 1
+- Karayip Korsanları: 1
+- Jurassic Park: 1
+- E.T.: 1
+- Terminatör: 1
+- Rocky: 1
+- Rambo: 1
+- Shrek: 1
+- Toy Story: 1
+- Buz Devri: 1
+- Kayıp Balık Nemo: 1
+- Ratatuy: 1
+- Coco: 1
+- Ruhların Kaçışı: 1
+- Death Note: 1
+- Attack on Titan: 1
+- Naruto: 1
+- One Piece: 1
+- The Boys: 1
+- The Last of Us: 1
+- Arcane: 1
+- Mad Men: 1
+- True Detective: 1
+- Oppenheimer: 1
+- Barbie: 1
+- Dune: 1
+- John Wick: 1
+- Parasite: 1
+- The Departed: 1
+- La La Land: 1
+- Whiplash: 1
+- Her: 1
+- Arrival: 1
+- The Prestige: 1
+- Memento: 1
+- Se7en: 1
+- Zodiac: 1
+- Gone Girl: 1
+- The Social Network: 1
+- DeLorean: 1
+- TARDIS: 1
+- Narnia: 1
+- Raccoon City: 1
+- Fargo: 1
+- Demogorgon: 1
+- Hermione Granger: 1
+- Bojack Horseman: 1
+- Don Draper: 1
+- Ragnar Lothbrok: 1
+- Negan: 1
+- Christopher Nolan: 1
+- Quentin Tarantino: 1
+- Steven Spielberg: 1
+- Martin Scorsese: 1
+- Hayao Miyazaki: 1
+- Pixar: 1
+- Studio Ghibli: 1
+- Netflix: 1
+- HBO: 1
+- Disney Plus: 1
+- Amazon Prime Video: 1
+- Sitcom: 1
+- Distopya: 1
+- Mockumentary: 1
+- Plot Twist: 1
+- Cameo: 1
+- Post-credit Scene: 1
+- Cliffhanger: 1
+- Spin-off: 1
+- Reboot: 1
+- Prequel: 1
+- Sequel: 1
+- Final Bölümü: 1
+- Pilot Bölüm: 1
+- Anti-kahraman: 1
+- Villain Arc: 1
+- MacGuffin: 1
+- Deus Ex Machina: 1
+- Bottle Episode: 1
+- Schindler’s List: 1
+- The Pianist: 1
+- 12 Angry Men: 1
+- Goodfellas: 1
+- Daft Punk Tron Legacy: 1
+- Rorschach: 1
+- V for Vendetta: 1
+- Whovian: 1
+- Dalek: 1
+- BoJack Horseman: 1
+- The Thing: 1
+- Moonlight: 1
+- Midsommar: 1
+- Hereditary: 1
+- The Lighthouse: 1
+- Oldboy: 1
+- Memories of Murder: 1
+- Amélie: 1
+- Pan’s Labyrinth: 1
+- Children of Men: 1
+- 12 Monkeys: 1
+- Mindhunter: 1
+- Indiana Jones: 1
+- Hannibal: 1
+- Bir Başkadır: 1
+- Kış Uykusu: 1
+- Bir Zamanlar Anadolu’da: 1
+- Aile Arasında: 1
+- Kötü Kedi Şerafettin: 1
+- Prens: 1
+- Kuvvetli Bir Alkış: 1
+- Kızılcık Şerbeti: 1
+- Yalı Çapkını: 1
+
+# Oyun mevcut ürün/evren listesi
+
+- Elden Ring: 8
+- Death Stranding: 7
+- Alan Wake: 7
+- Minecraft: 5
+- League of Legends: 5
+- Portal: 5
+- Valorant: 4
+- Half-Life: 4
+- Mario: 4
+- Overwatch: 4
+- Resident Evil: 4
+- Mass Effect: 4
+- Fallout: 4
+- Counter-Strike: 4
+- GTA V: 3
+- Dark Souls: 3
+- Skyrim: 3
+- Silent Hill: 3
+- Final Fantasy: 3
+- Celeste: 3
+- Undertale: 3
+- Disco Elysium: 3
+- BioShock: 3
+- Bloodborne: 3
+- Doom: 3
+- Baldur’s Gate: 3
+- The Witcher: 3
+- Zelda: 3
+- Cyberpunk 2077: 2
+- Persona 5: 2
+- Hollow Knight: 2
+- Cuphead: 2
+- Far Cry: 2
+- Sekiro: 2
+- Red Dead Redemption: 2
+- Metal Gear: 2
+- Monster Hunter: 2
+- Metroid: 2
+- NieR Automata: 2
+- Devil May Cry: 2
+- The Walking Dead Game: 2
+- Counter-Strike 2: 1
+- The Witcher 3: 1
+- The Last of Us: 1
+- God of War: 1
+- Red Dead Redemption 2: 1
+- Zelda Breath of the Wild: 1
+- Sonic: 1
+- Lara Croft: 1
+- Master Chief: 1
+- Kratos: 1
+- Geralt: 1
+- Ezio Auditore: 1
+- CJ: 1
+- Agent 47: 1
+- Pikachu: 1
+- Creeper: 1
+- Enderman: 1
+- City 17: 1
+- Los Santos: 1
+- Night City: 1
+- Hyrule: 1
+- Rapture: 1
+- Aperture Science: 1
+- Dust2: 1
+- Summoner’s Rift: 1
+- Bind: 1
+- Nuke: 1
+- Mirage: 1
+- Lootbox: 1
+- Battle Pass: 1
+- NPC: 1
+- Boss Fight: 1
+- Speedrun: 1
+- Roguelike: 1
+- Metroidvania: 1
+- Open World: 1
+- RPG: 1
+- MOBA: 1
+- FPS: 1
+- Steam: 1
+- Epic Games Store: 1
+- PlayStation: 1
+- Xbox: 1
+- Nintendo Switch: 1
+- Fortnite: 1
+- PUBG: 1
+- Apex Legends: 1
+- Dota 2: 1
+- World of Warcraft: 1
+- Diablo: 1
+- Metal Gear Solid: 1
+- Baldur’s Gate 3: 1
+- Stardew Valley: 1
+- Terraria: 1
+- Among Us: 1
+- Fall Guys: 1
+- Rocket League: 1
+- FIFA: 1
+- EA Sports FC: 1
+- Forza Horizon: 1
+- Need for Speed: 1
+- Hades: 1
+- Dragon Age: 1
+- Assassin’s Creed: 1
+- Call of Duty: 1
+- Battlefield: 1
+- Rainbow Six Siege: 1
+- Escape from Tarkov: 1
+- Helldivers 2: 1
+- Palworld: 1
+- Sims: 1
+- Civilization: 1
+- Age of Empires: 1
+- Total War: 1
+- Clash of Clans: 1
+- Brawl Stars: 1
+- Genshin Impact: 1
+- Roblox: 1
+- Tetris: 1
+- Pac-Man: 1
+- Mortal Kombat: 1
+- Tekken: 1
+- Street Fighter: 1
+- Quake: 1
+- Wolfenstein: 1
+- No Man’s Sky: 1
+- Subnautica: 1
+- Dead by Daylight: 1
+- Phasmophobia: 1
+- Lethal Company: 1
+- Sea of Thieves: 1
+- Team Fortress 2: 1
+- Left 4 Dead: 1
+- Dying Light: 1
+- Euro Truck Simulator: 1
+- Football Manager: 1
+- Hearthstone: 1
+- Yu-Gi-Oh Master Duel: 1
+- Slay the Spire: 1
+- Balatro: 1
+- Vampire Survivors: 1
+- Factorio: 1
+- Satisfactory: 1
+- Cities Skylines: 1
+- RimWorld: 1
+- Kerbal Space Program: 1
+- Outer Wilds: 1
+- Firewatch: 1
+- Life is Strange: 1
+- Detroit Become Human: 1
+- Heavy Rain: 1
+- Ghost of Tsushima: 1
+- Horizon Zero Dawn: 1
+- Uncharted: 1
+- Spider-Man 2: 1
+- Returnal: 1
+- Control: 1
+- Max Payne: 1
+- Bully: 1
+- L.A. Noire: 1
+- Mafia: 1
+- Watch Dogs: 1
+- Just Cause: 1
+- Hitbox: 1
+- Cooldown: 1
+- DPS: 1
+- Tank: 1
+- Healer: 1
+- Aggro: 1
+- Kiting: 1
+- Gank: 1
+- Last Hit: 1
+- Mana: 1
+- Stamina: 1
+- Crafting: 1
+- Quick Time Event: 1
+- Permadeath: 1
+- Fog of War: 1
+- Minimap: 1
+- Checkpoint: 1
+- New Game Plus: 1
+- Skill Tree: 1
+- Side Quest: 1
+- Raid: 1
+- Dungeon: 1
+- PvP: 1
+- PvE: 1
+- Aim Assist: 1
+- Recoil: 1
+- Spray Pattern: 1
+- Economy Round: 1
+- Clutch: 1
+- Ace: 1
+- No Scope: 1
+- Headshot: 1
+- Backstab: 1
+- Stealth: 1
+- Save Point: 1
+- Inventory: 1
+- Mount: 1
+- Fast Travel: 1
+- Dialogue Tree: 1
+- Morality System: 1
+- Procedural Generation: 1
+- Ray Tracing: 1
+- Frame Rate: 1
+- Input Lag: 1
+- Matchmaking: 1
+- Ranked Mode: 1
+- Season Pass: 1
+- DLC: 1
+- Commander Keen: 1
+- Kirby: 1
+- Star Fox: 1
+- F-Zero: 1
+- Bayonetta: 1
+
+# Bu sürümde eklenen kart dağılımı
+
+## movie-series — 100 yeni kart
+- Doctor Who: 5
+- Better Call Saul: 5
+- Succession: 3
+- Avatar: The Last Airbender: 3
+- The Sopranos: 2
+- The Wire: 2
+- Severance: 2
+- Ted Lasso: 2
+- The Expanse: 2
+- Battlestar Galactica: 2
+- Blade Runner: 2
+- Alien: 2
+- Mad Max: 2
+- The Truman Show: 2
+- No Country for Old Men: 2
+- There Will Be Blood: 2
+- Everything Everywhere All at Once: 2
+- The Grand Budapest Hotel: 2
+- Get Out: 2
+- The Handmaid’s Tale: 2
+- The Queen’s Gambit: 2
+- The Silence of the Lambs: 2
+- The Usual Suspects: 2
+- Back to the Future: 2
+- Narcos: 2
+- Şahsiyet: 2
+- House M.D.: 2
+- Dexter: 2
+- Community: 2
+- The Good Place: 2
+- Sherlock: 2
+- The Bear: 1
+- Twin Peaks: 1
+- Mr. Robot: 1
+- BoJack Horseman: 1
+- The Thing: 1
+- Moonlight: 1
+- Midsommar: 1
+- Hereditary: 1
+- The Lighthouse: 1
+- Oldboy: 1
+- Memories of Murder: 1
+- Amélie: 1
+- Pan’s Labyrinth: 1
+- Children of Men: 1
+- 12 Monkeys: 1
+- Mindhunter: 1
+- Indiana Jones: 1
+- Hannibal: 1
+- Bir Başkadır: 1
+- Kış Uykusu: 1
+- Bir Zamanlar Anadolu’da: 1
+- Aile Arasında: 1
+- Kötü Kedi Şerafettin: 1
+- Prens: 1
+- Kuvvetli Bir Alkış: 1
+- Kızılcık Şerbeti: 1
+- Yalı Çapkını: 1
+- The Crown: 1
+- Fleabag: 1
+- Peaky Blinders: 1
+
+## games — 113 yeni kart
+- Elden Ring: 7
+- Alan Wake: 6
+- Death Stranding: 6
+- Portal: 4
+- Fallout: 4
+- League of Legends: 4
+- Counter-Strike: 4
+- Minecraft: 4
+- Baldur’s Gate: 3
+- Half-Life: 3
+- The Witcher: 3
+- Zelda: 3
+- Mario: 3
+- Valorant: 3
+- Mass Effect: 3
+- Resident Evil: 3
+- Overwatch: 3
+- Red Dead Redemption: 2
+- Skyrim: 2
+- Undertale: 2
+- GTA V: 2
+- BioShock: 2
+- Doom: 2
+- Silent Hill: 2
+- Metal Gear: 2
+- Final Fantasy: 2
+- Monster Hunter: 2
+- Metroid: 2
+- Dark Souls: 2
+- Bloodborne: 2
+- NieR Automata: 2
+- Devil May Cry: 2
+- The Walking Dead Game: 2
+- Disco Elysium: 2
+- Celeste: 2
+- Cyberpunk 2077: 1
+- Hollow Knight: 1
+- Far Cry: 1
+- Commander Keen: 1
+- Persona 5: 1
+- Kirby: 1
+- Star Fox: 1
+- F-Zero: 1
+- Sekiro: 1
+- Bayonetta: 1
+- Cuphead: 1
+
+## geography — 101 yeni kart
+- Coğrafi Kavram: 8
+- Türkiye: 5
+- İtalya: 3
+- ABD: 3
+- Japonya: 2
+- Vietnam: 2
+- Ürdün: 2
+- Fas: 2
+- Mısır: 2
+- Tanzanya: 2
+- İzlanda: 2
+- İngiltere: 2
+- Fransa: 2
+- Almanya: 2
+- Polonya: 2
+- Şili: 2
+- Peru: 2
+- Kanada: 2
+- Kolombiya: 2
+- Güney Kore: 1
+- Tayvan: 1
+- Filipinler: 1
+- Endonezya: 1
+- Tayland: 1
+- Malezya: 1
+- Katar: 1
+- Birleşik Arap Emirlikleri: 1
+- Suudi Arabistan: 1
+- İran: 1
+- Irak: 1
+- Lübnan: 1
+- Nijerya: 1
+- Kenya: 1
+- Afrika: 1
+- Finlandiya: 1
+- İsveç: 1
+- Danimarka: 1
+- İskoçya: 1
+- Romanya: 1
+- Sırbistan: 1
+- Bosna-Hersek: 1
+- Hırvatistan: 1
+- Letonya: 1
+- Estonya: 1
+- Litvanya: 1
+- Doğa: 1
+- Ekvador: 1
+- Bolivya: 1
+- Meksika: 1
+- Kanada/ABD: 1
+- Küba: 1
+- Dominik Cumhuriyeti: 1
+- Uruguay: 1
+- Kuzey Makedonya: 1
+- Arnavutluk: 1
+- Kosova: 1
+- Slovenya: 1
+- Slovakya: 1
+- Lüksemburg: 1
+- Andorra: 1
+- Monako: 1
+- San Marino: 1
+- Lihtenştayn: 1
+- Mauritius: 1
+- Fiji: 1
+- Samoa: 1
+- Tonga: 1
+- Mikronezya: 1
+- Tuvalu: 1
+- Bhutan: 1
+- Nepal: 1
+
+## professions — 103 yeni kart
+- Sağlık: 13
+- Medya: 8
+- Mühendislik: 8
+- Yazılım: 8
+- Pazarlama: 6
+- Tasarım: 6
+- Bilim: 5
+- Finans: 5
+- Yeme İçme: 5
+- İş: 4
+- Oyun: 4
+- Güvenlik: 4
+- Veri: 4
+- Hukuk: 3
+- Ulaşım: 3
+- Ticaret: 2
+- Etkinlik: 2
+- Sanat: 2
+- Tarım: 2
+- Spor: 2
+- Hukuk/Sağlık: 1
+- Turizm: 1
+- Doğa: 1
+- Yapay Zeka: 1
+- Teknoloji: 1
+- Kamu: 1
+- Espor: 1
+
+## animals — 104 yeni kart
+- Memeliler: 30
+- Kuşlar: 24
+- Balıklar: 14
+- Deniz Canlıları: 13
+- Böcekler: 7
+- Sürüngenler: 6
+- Eklembacaklı: 5
+- Amfibiler: 4
+- Mikro Canlı: 1
+
+## gen-z-slang — 102 yeni kart
+- İnternet Argosu: 42
+- Oyun Argosu: 28
+- Sosyal Medya: 22
+- İlişki Argosu: 10
+
+## history-mythology — 100 yeni kart
+- Antik Mısır: 12
+- Modern Tarih: 11
+- Osmanlı: 8
+- Mezopotamya: 7
+- Hint Mitolojisi: 5
+- Japon Mitolojisi: 5
+- Antik Yunan: 4
+- Modern Düşünce: 4
+- Bilim Tarihi: 4
+- Roma: 3
+- Anadolu: 3
+- İslam Tarihi: 3
+- Çin Mitolojisi: 3
+- Slav Mitolojisi: 3
+- Kelt Mitolojisi: 3
+- Antik Tarih: 2
+- Pers: 2
+- Aztek Mitolojisi: 2
+- İnka Mitolojisi: 2
+- Afrika Mitolojisi: 2
+- Amerika Mitolojisi: 2
+- Pers Mitolojisi: 2
+- Türk Tarihi: 1
+- İran/Türk Tarihi: 1
+- Orta Asya: 1
+- Güney Asya: 1
+- Maya Mitolojisi: 1
+- Karayip Mitolojisi: 1
+- Fransız Devrimi: 1
+- Napolyon Savaşları: 1
+
+## general — 102 yeni kart
+- Teknoloji: 24
+- İş: 15
+- Seyahat: 9
+- Dijital Araç: 6
+- Alışveriş: 6
+- Yemek: 6
+- Dijital: 5
+- Günlük Yaşam: 4
+- İçecek: 4
+- Spor: 4
+- Verimlilik: 4
+- Güvenlik: 3
+- Ulaşım: 3
+- Sağlık: 3
+- Ev: 2
+- Aktivite: 2
+- Mutfak: 1
+- Medya: 1

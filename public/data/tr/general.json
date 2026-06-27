@@ -3,1620 +3,3360 @@
     "id": "tr-general-0001",
     "answer": "Telefon",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "arama",
+      "ekran",
+      "batarya",
+      "uygulama",
+      "cep"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0002",
     "answer": "Bilgisayar",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "klavye",
+      "ekran",
+      "işlemci",
+      "program",
+      "masaüstü"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0003",
     "answer": "İnternet",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "web",
+      "bağlantı",
+      "site",
+      "modem",
+      "online"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0004",
     "answer": "Kahve",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "kafein",
+      "fincan",
+      "espresso",
+      "çekirdek",
+      "sabah"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0005",
     "answer": "Çay",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "demlik",
+      "bardak",
+      "Rize",
+      "sıcak",
+      "şeker"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0006",
     "answer": "Pizza",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "hamur",
+      "peynir",
+      "dilim",
+      "fırın",
+      "sucuk"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0007",
     "answer": "Hamburger",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "köfte",
+      "ekmek",
+      "patates",
+      "sos",
+      "fast food"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0008",
     "answer": "Makarna",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "spagetti",
+      "sos",
+      "tencere",
+      "İtalyan",
+      "haşlamak"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0009",
     "answer": "Kitap",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "sayfa",
+      "okumak",
+      "roman",
+      "kapak",
+      "yazar"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0010",
     "answer": "Kalem",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "yazmak",
+      "uç",
+      "mürekkep",
+      "defter",
+      "çizmek"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0011",
     "answer": "Defter",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "sayfa",
+      "not",
+      "okul",
+      "çizgili",
+      "kapak"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0012",
     "answer": "Okul",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "sınıf",
+      "öğretmen",
+      "ders",
+      "öğrenci",
+      "zil"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0013",
     "answer": "Üniversite",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "kampüs",
+      "fakülte",
+      "öğrenci",
+      "bölüm",
+      "vize"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0014",
     "answer": "Sınav",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "soru",
+      "not",
+      "test",
+      "stres",
+      "süre"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0015",
     "answer": "Tatil",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "deniz",
+      "otel",
+      "dinlenmek",
+      "valiz",
+      "izin"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0016",
     "answer": "Otobüs",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "durak",
+      "bilet",
+      "şoför",
+      "yolcu",
+      "şehirlerarası"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0017",
     "answer": "Metro",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "ray",
+      "istasyon",
+      "vagon",
+      "yeraltı",
+      "turnike"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0018",
     "answer": "Uçak",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "pilot",
+      "havaalanı",
+      "kanat",
+      "bilet",
+      "uçuş"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0019",
     "answer": "Tren",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "ray",
+      "vagon",
+      "istasyon",
+      "lokomotif",
+      "yolculuk"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0020",
     "answer": "Bisiklet",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "pedal",
+      "tekerlek",
+      "sele",
+      "zincir",
+      "sürmek"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0021",
     "answer": "Araba",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "direksiyon",
+      "motor",
+      "lastik",
+      "trafik",
+      "benzin"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0022",
     "answer": "Ev",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "oda",
+      "kapı",
+      "salon",
+      "kira",
+      "aile"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0023",
     "answer": "Apartman",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "daire",
+      "asansör",
+      "komşu",
+      "kat",
+      "bina"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0024",
     "answer": "Balkon",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "manzara",
+      "çiçek",
+      "korkuluk",
+      "ev",
+      "dışarı"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0025",
     "answer": "Mutfak",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "ocak",
+      "yemek",
+      "tezgah",
+      "buzdolabı",
+      "tencere"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0026",
     "answer": "Buzdolabı",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "soğuk",
+      "yiyecek",
+      "raf",
+      "mutfak",
+      "dondurucu"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0027",
     "answer": "Çamaşır Makinesi",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "kıyafet",
+      "deterjan",
+      "yıkamak",
+      "program",
+      "tambur"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0028",
     "answer": "Televizyon",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "ekran",
+      "kumanda",
+      "kanal",
+      "dizi",
+      "yayın"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0029",
     "answer": "Kumanda",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "tuş",
+      "televizyon",
+      "kanal",
+      "pil",
+      "ses"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0030",
     "answer": "Kulaklık",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "müzik",
+      "ses",
+      "kablosuz",
+      "mikrofon",
+      "kulak"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0031",
     "answer": "Şarj Aleti",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "kablo",
+      "telefon",
+      "batarya",
+      "priz",
+      "adaptör"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0032",
     "answer": "Klavye",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "tuş",
+      "yazmak",
+      "bilgisayar",
+      "mekanik",
+      "space"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0033",
     "answer": "Mouse",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "imleç",
+      "tıklamak",
+      "bilgisayar",
+      "scroll",
+      "fare"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0034",
     "answer": "Masa",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "sandalye",
+      "çalışmak",
+      "tahta",
+      "ayak",
+      "üst"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0035",
     "answer": "Sandalye",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "oturmak",
+      "masa",
+      "ayak",
+      "sırtlık",
+      "mobilya"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0036",
     "answer": "Koltuk",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "oturmak",
+      "salon",
+      "yumuşak",
+      "kanepe",
+      "televizyon"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0037",
     "answer": "Yatak",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "uyku",
+      "yastık",
+      "çarşaf",
+      "oda",
+      "rahat"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0038",
     "answer": "Yastık",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "baş",
+      "uyku",
+      "yumuşak",
+      "kılıf",
+      "yatak"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0039",
     "answer": "Battaniye",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "sıcak",
+      "örtü",
+      "uyku",
+      "soğuk",
+      "yün"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0040",
     "answer": "Saat",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "zaman",
+      "kol",
+      "akrep",
+      "yelkovan",
+      "alarm"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0041",
     "answer": "Takvim",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "gün",
+      "ay",
+      "yıl",
+      "tarih",
+      "duvar"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0042",
     "answer": "Cüzdan",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "para",
+      "kart",
+      "kimlik",
+      "cep",
+      "deri"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0043",
     "answer": "Anahtar",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "kapı",
+      "kilit",
+      "açmak",
+      "metal",
+      "ev"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0044",
     "answer": "Gözlük",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "cam",
+      "numara",
+      "görmek",
+      "çerçeve",
+      "güneş"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0045",
     "answer": "Şemsiye",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "yağmur",
+      "açmak",
+      "ıslanmak",
+      "sap",
+      "rüzgar"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0046",
     "answer": "Yağmur",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "bulut",
+      "ıslanmak",
+      "damla",
+      "şemsiye",
+      "hava"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0047",
     "answer": "Kar",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "beyaz",
+      "soğuk",
+      "kış",
+      "tanecik",
+      "kayak"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0048",
     "answer": "Güneş",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "sıcak",
+      "ışık",
+      "gündüz",
+      "yıldız",
+      "gözlük"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0049",
     "answer": "Ay",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "gece",
+      "uydu",
+      "hilal",
+      "gökyüzü",
+      "dolunay"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0050",
     "answer": "Yıldız",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "gökyüzü",
+      "parlamak",
+      "gece",
+      "takımyıldız",
+      "uzay"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0051",
     "answer": "Deniz",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "su",
+      "dalga",
+      "tuz",
+      "plaj",
+      "mavi"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0052",
     "answer": "Plaj",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "kum",
+      "deniz",
+      "güneş",
+      "şezlong",
+      "tatil"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0053",
     "answer": "Dağ",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "yüksek",
+      "zirve",
+      "tırmanmak",
+      "kar",
+      "doğa"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0054",
     "answer": "Orman",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "ağaç",
+      "yeşil",
+      "doğa",
+      "kamp",
+      "yürüyüş"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0055",
     "answer": "Park",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "ağaç",
+      "bank",
+      "çocuk",
+      "oyun alanı",
+      "yürüyüş"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0056",
     "answer": "Restoran",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "menü",
+      "garson",
+      "yemek",
+      "rezervasyon",
+      "masa"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0057",
     "answer": "Market",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "alışveriş",
+      "raf",
+      "sepet",
+      "kasa",
+      "ürün"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0058",
     "answer": "Hastane",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "doktor",
+      "hasta",
+      "acil",
+      "hemşire",
+      "tedavi"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0059",
     "answer": "Kütüphane",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "kitap",
+      "sessizlik",
+      "raf",
+      "ödünç",
+      "okuma"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0060",
     "answer": "Sinema",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "film",
+      "perde",
+      "patlamış mısır",
+      "salon",
+      "bilet"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0061",
     "answer": "Tiyatro",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Tiyatro kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0062",
     "answer": "Konser",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Konser kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0063",
     "answer": "Müze",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Müze kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0064",
     "answer": "Spor Salonu",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Spor Salonu kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0065",
     "answer": "Futbol",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Futbol kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0066",
     "answer": "Basketbol",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Basketbol kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0067",
     "answer": "Voleybol",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Voleybol kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0068",
     "answer": "Tenis",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Tenis kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0069",
     "answer": "Yüzme",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Yüzme kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0070",
     "answer": "Koşu",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Koşu kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0071",
     "answer": "Satranç",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Satranç kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0072",
     "answer": "Müzik",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Müzik kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0073",
     "answer": "Gitar",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Gitar kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0074",
     "answer": "Piyano",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Piyano kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0075",
     "answer": "Davul",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Davul kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0076",
     "answer": "Resim",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Resim kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0077",
     "answer": "Fotoğraf",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Fotoğraf kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0078",
     "answer": "Video",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Video kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0079",
     "answer": "Podcast",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Podcast kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0080",
     "answer": "Haber",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Haber kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0081",
     "answer": "Gazete",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Gazete kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0082",
     "answer": "Dergi",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Dergi kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0083",
     "answer": "Para",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Para kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0084",
     "answer": "Kredi Kartı",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Kredi Kartı kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0085",
     "answer": "Banka",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Banka kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0086",
     "answer": "Fatura",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Fatura kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0087",
     "answer": "Kira",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Kira kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0088",
     "answer": "Alışveriş",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Alışveriş kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0089",
     "answer": "İndirim",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "İndirim kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0090",
     "answer": "Kargo",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Kargo kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0091",
     "answer": "Paket",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Paket kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0092",
     "answer": "Hediye",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Hediye kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0093",
     "answer": "Doğum Günü",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Doğum Günü kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0094",
     "answer": "Düğün",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Düğün kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0095",
     "answer": "Mezuniyet",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Mezuniyet kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0096",
     "answer": "Toplantı",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Toplantı kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0097",
     "answer": "Sunum",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Sunum kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0098",
     "answer": "Proje",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Proje kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0099",
     "answer": "Plan",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Plan kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0100",
     "answer": "Liste",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Liste kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0101",
     "answer": "Alarm",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Alarm kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0102",
     "answer": "Rüya",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Rüya kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0103",
     "answer": "Uyku",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Uyku kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0104",
     "answer": "Sabah",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Sabah kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0105",
     "answer": "Gece",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Gece kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0106",
     "answer": "Hafta Sonu",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Hafta Sonu kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0107",
     "answer": "Pazartesi",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Pazartesi kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
   },
   {
     "id": "tr-general-0108",
     "answer": "Cuma",
     "forbidden": [
-      "genel",
-      "günlük",
-      "eşya",
-      "hayat",
-      "kavram"
+      "Cuma kullanımı",
+      "günlük hayat",
+      "pratik eşya",
+      "alışkanlık",
+      "ihtiyaç"
     ],
     "category": "general",
     "type": "genel",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Günlük Yaşam"
+  },
+  {
+    "id": "tr-general-0109",
+    "answer": "Air Fryer",
+    "forbidden": [
+      "sıcak hava",
+      "patates",
+      "yağsız kızartma",
+      "mutfak",
+      "sepet"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Mutfak"
+  },
+  {
+    "id": "tr-general-0110",
+    "answer": "Akıllı Saat",
+    "forbidden": [
+      "bilek",
+      "adım sayar",
+      "nabız",
+      "bildirim",
+      "ekran"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0111",
+    "answer": "Powerbank",
+    "forbidden": [
+      "taşınabilir şarj",
+      "batarya",
+      "USB",
+      "telefon",
+      "kablo"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0112",
+    "answer": "Bluetooth Hoparlör",
+    "forbidden": [
+      "kablosuz ses",
+      "müzik",
+      "batarya",
+      "eşleştirme",
+      "bas"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0113",
+    "answer": "E-kitap Okuyucu",
+    "forbidden": [
+      "mürekkep ekran",
+      "Kindle",
+      "sayfa",
+      "şarj",
+      "kitap"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0114",
+    "answer": "Robot Süpürge",
+    "forbidden": [
+      "harita çıkarma",
+      "toz haznesi",
+      "şarj istasyonu",
+      "ev",
+      "temizlik"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Ev"
+  },
+  {
+    "id": "tr-general-0115",
+    "answer": "Akıllı Ampul",
+    "forbidden": [
+      "renk değiştirme",
+      "Wi-Fi",
+      "uygulama",
+      "ışık",
+      "oda"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Ev"
+  },
+  {
+    "id": "tr-general-0116",
+    "answer": "Termos",
+    "forbidden": [
+      "sıcak tutmak",
+      "çelik",
+      "kapak",
+      "çay",
+      "kahve"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Günlük Yaşam"
+  },
+  {
+    "id": "tr-general-0117",
+    "answer": "Matara",
+    "forbidden": [
+      "su şişesi",
+      "spor",
+      "kapak",
+      "taşımak",
+      "plastik"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Günlük Yaşam"
+  },
+  {
+    "id": "tr-general-0118",
+    "answer": "Notion",
+    "forbidden": [
+      "not almak",
+      "veritabanı",
+      "sayfa",
+      "workspace",
+      "plan"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital Araç"
+  },
+  {
+    "id": "tr-general-0119",
+    "answer": "Trello",
+    "forbidden": [
+      "kart",
+      "pano",
+      "liste",
+      "proje",
+      "görev"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital Araç"
+  },
+  {
+    "id": "tr-general-0120",
+    "answer": "Google Drive",
+    "forbidden": [
+      "bulut",
+      "dosya",
+      "paylaşım",
+      "depolama",
+      "klasör"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital Araç"
+  },
+  {
+    "id": "tr-general-0121",
+    "answer": "Discord",
+    "forbidden": [
+      "sunucu",
+      "ses kanalı",
+      "chat",
+      "bot",
+      "oyuncu"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital Araç"
+  },
+  {
+    "id": "tr-general-0122",
+    "answer": "WhatsApp",
+    "forbidden": [
+      "mesaj",
+      "grup",
+      "mavi tik",
+      "ses kaydı",
+      "telefon"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital Araç"
+  },
+  {
+    "id": "tr-general-0123",
+    "answer": "Telegram",
+    "forbidden": [
+      "kanal",
+      "bot",
+      "gizli sohbet",
+      "sticker",
+      "mesaj"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital Araç"
+  },
+  {
+    "id": "tr-general-0124",
+    "answer": "QR Kod",
+    "forbidden": [
+      "kare barkod",
+      "kamera",
+      "link",
+      "tarama",
+      "menü"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0125",
+    "answer": "Newsletter",
+    "forbidden": [
+      "e-posta",
+      "abonelik",
+      "bülten",
+      "gelen kutusu",
+      "yazı"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Medya"
+  },
+  {
+    "id": "tr-general-0126",
+    "answer": "Online Alışveriş",
+    "forbidden": [
+      "sepet",
+      "kargo",
+      "indirim",
+      "ödeme",
+      "e-ticaret"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Alışveriş"
+  },
+  {
+    "id": "tr-general-0127",
+    "answer": "Sepet",
+    "forbidden": [
+      "ürün eklemek",
+      "checkout",
+      "market",
+      "alışveriş",
+      "fiyat"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Alışveriş"
+  },
+  {
+    "id": "tr-general-0128",
+    "answer": "Kupon Kodu",
+    "forbidden": [
+      "indirim",
+      "kampanya",
+      "checkout",
+      "harf",
+      "alışveriş"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Alışveriş"
+  },
+  {
+    "id": "tr-general-0129",
+    "answer": "Kargo Takip",
+    "forbidden": [
+      "paket",
+      "takip numarası",
+      "kurye",
+      "teslimat",
+      "şube"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Alışveriş"
+  },
+  {
+    "id": "tr-general-0130",
+    "answer": "İade",
+    "forbidden": [
+      "ürün geri vermek",
+      "fiş",
+      "para",
+      "değişim",
+      "mağaza"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Alışveriş"
+  },
+  {
+    "id": "tr-general-0131",
+    "answer": "Garanti Belgesi",
+    "forbidden": [
+      "servis",
+      "tamir",
+      "fatura",
+      "süre",
+      "ürün"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Alışveriş"
+  },
+  {
+    "id": "tr-general-0132",
+    "answer": "Abonelik",
+    "forbidden": [
+      "aylık ödeme",
+      "iptal",
+      "plan",
+      "üyelik",
+      "yenileme"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital"
+  },
+  {
+    "id": "tr-general-0133",
+    "answer": "Şifre Yöneticisi",
+    "forbidden": [
+      "parola",
+      "kasa",
+      "otomatik doldurma",
+      "güvenlik",
+      "master key"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Güvenlik"
+  },
+  {
+    "id": "tr-general-0134",
+    "answer": "İki Aşamalı Doğrulama",
+    "forbidden": [
+      "kod",
+      "SMS",
+      "authenticator",
+      "güvenlik",
+      "giriş"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Güvenlik"
+  },
+  {
+    "id": "tr-general-0135",
+    "answer": "VPN",
+    "forbidden": [
+      "IP gizleme",
+      "sunucu",
+      "şifreli bağlantı",
+      "ülke",
+      "internet"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Güvenlik"
+  },
+  {
+    "id": "tr-general-0136",
+    "answer": "Bulut Depolama",
+    "forbidden": [
+      "dosya",
+      "senkronizasyon",
+      "yedek",
+      "internet",
+      "alan"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0137",
+    "answer": "USB-C",
+    "forbidden": [
+      "kablo",
+      "şarj",
+      "ters takma",
+      "port",
+      "telefon"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0138",
+    "answer": "HDMI",
+    "forbidden": [
+      "görüntü kablosu",
+      "televizyon",
+      "monitör",
+      "ses",
+      "port"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0139",
+    "answer": "SSD",
+    "forbidden": [
+      "hızlı disk",
+      "depolama",
+      "NVMe",
+      "bilgisayar",
+      "okuma yazma"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0140",
+    "answer": "RAM",
+    "forbidden": [
+      "bellek",
+      "bilgisayar",
+      "GB",
+      "çoklu görev",
+      "modül"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0141",
+    "answer": "Monitör",
+    "forbidden": [
+      "ekran",
+      "yenileme hızı",
+      "piksel",
+      "masaüstü",
+      "HDMI"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0142",
+    "answer": "Router",
+    "forbidden": [
+      "Wi-Fi",
+      "modem",
+      "internet",
+      "ağ",
+      "sinyal"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0143",
+    "answer": "Fiber İnternet",
+    "forbidden": [
+      "hız",
+      "kablo",
+      "ping",
+      "download",
+      "altyapı"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0144",
+    "answer": "Toplu Taşıma Kartı",
+    "forbidden": [
+      "bakiye",
+      "turnike",
+      "otobüs",
+      "metro",
+      "basmak"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Ulaşım"
+  },
+  {
+    "id": "tr-general-0145",
+    "answer": "Navigasyon",
+    "forbidden": [
+      "rota",
+      "harita",
+      "GPS",
+      "trafik",
+      "yol tarifi"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Ulaşım"
+  },
+  {
+    "id": "tr-general-0146",
+    "answer": "Elektrikli Scooter",
+    "forbidden": [
+      "kiralama",
+      "batarya",
+      "kask",
+      "şehir",
+      "uygulama"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Ulaşım"
+  },
+  {
+    "id": "tr-general-0147",
+    "answer": "Biniş Kartı",
+    "forbidden": [
+      "uçak",
+      "kapı",
+      "koltuk",
+      "QR",
+      "check-in"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0148",
+    "answer": "Pasaport",
+    "forbidden": [
+      "yurt dışı",
+      "vize",
+      "kimlik",
+      "sınır",
+      "damga"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0149",
+    "answer": "Valiz",
+    "forbidden": [
+      "tekerlek",
+      "bagaj",
+      "seyahat",
+      "fermuar",
+      "havaalanı"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0150",
+    "answer": "Hostel",
+    "forbidden": [
+      "ranza",
+      "ortak oda",
+      "gezgin",
+      "ucuz",
+      "konaklama"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0151",
+    "answer": "Rezervasyon",
+    "forbidden": [
+      "tarih",
+      "otel",
+      "masa",
+      "onay",
+      "iptal"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0152",
+    "answer": "Check-in",
+    "forbidden": [
+      "giriş yapmak",
+      "otel",
+      "uçak",
+      "saat",
+      "resepsiyon"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0153",
+    "answer": "Jet Lag",
+    "forbidden": [
+      "saat farkı",
+      "uyku",
+      "uçuş",
+      "yorgunluk",
+      "zaman dilimi"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0154",
+    "answer": "Kamp",
+    "forbidden": [
+      "çadır",
+      "ateş",
+      "doğa",
+      "uyku tulumu",
+      "orman"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Aktivite"
+  },
+  {
+    "id": "tr-general-0155",
+    "answer": "Piknik",
+    "forbidden": [
+      "örtü",
+      "sepet",
+      "park",
+      "yiyecek",
+      "açık hava"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Aktivite"
+  },
+  {
+    "id": "tr-general-0156",
+    "answer": "Barbekü",
+    "forbidden": [
+      "ızgara",
+      "kömür",
+      "et",
+      "duman",
+      "mangal"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Yemek"
+  },
+  {
+    "id": "tr-general-0157",
+    "answer": "Sushi",
+    "forbidden": [
+      "pirinç",
+      "nori",
+      "somon",
+      "wasabi",
+      "Japon"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Yemek"
+  },
+  {
+    "id": "tr-general-0158",
+    "answer": "Ramen",
+    "forbidden": [
+      "erişte",
+      "çorba",
+      "Japon",
+      "yumurta",
+      "et suyu"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Yemek"
+  },
+  {
+    "id": "tr-general-0159",
+    "answer": "Taco",
+    "forbidden": [
+      "tortilla",
+      "Meksika",
+      "salsa",
+      "et",
+      "lime"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Yemek"
+  },
+  {
+    "id": "tr-general-0160",
+    "answer": "Falafel",
+    "forbidden": [
+      "nohut",
+      "kızartma",
+      "Orta Doğu",
+      "dürüm",
+      "tahin"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Yemek"
+  },
+  {
+    "id": "tr-general-0161",
+    "answer": "Humus",
+    "forbidden": [
+      "nohut",
+      "tahin",
+      "limon",
+      "meze",
+      "zeytinyağı"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Yemek"
+  },
+  {
+    "id": "tr-general-0162",
+    "answer": "Latte",
+    "forbidden": [
+      "espresso",
+      "süt köpüğü",
+      "kahve",
+      "bardak",
+      "barista"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İçecek"
+  },
+  {
+    "id": "tr-general-0163",
+    "answer": "Cold Brew",
+    "forbidden": [
+      "soğuk kahve",
+      "demleme",
+      "buz",
+      "kafein",
+      "şişe"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İçecek"
+  },
+  {
+    "id": "tr-general-0164",
+    "answer": "Matcha",
+    "forbidden": [
+      "yeşil çay",
+      "toz",
+      "Japon",
+      "latte",
+      "çırpma"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İçecek"
+  },
+  {
+    "id": "tr-general-0165",
+    "answer": "Smoothie",
+    "forbidden": [
+      "meyve",
+      "blender",
+      "içecek",
+      "yoğurt",
+      "pipet"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İçecek"
+  },
+  {
+    "id": "tr-general-0166",
+    "answer": "Meditasyon",
+    "forbidden": [
+      "nefes",
+      "zihin",
+      "sessizlik",
+      "odak",
+      "rahatlama"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sağlık"
+  },
+  {
+    "id": "tr-general-0167",
+    "answer": "Yoga",
+    "forbidden": [
+      "mat",
+      "esneme",
+      "poz",
+      "nefes",
+      "denge"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Spor"
+  },
+  {
+    "id": "tr-general-0168",
+    "answer": "Pilates",
+    "forbidden": [
+      "core",
+      "reformer",
+      "mat",
+      "esneme",
+      "kontrol"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Spor"
+  },
+  {
+    "id": "tr-general-0169",
+    "answer": "CrossFit",
+    "forbidden": [
+      "wod",
+      "halter",
+      "box",
+      "yüksek tempo",
+      "antrenman"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Spor"
+  },
+  {
+    "id": "tr-general-0170",
+    "answer": "Maraton",
+    "forbidden": [
+      "42 kilometre",
+      "koşu",
+      "parkur",
+      "bitirme",
+      "dayanıklılık"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Spor"
+  },
+  {
+    "id": "tr-general-0171",
+    "answer": "Diyet",
+    "forbidden": [
+      "kalori",
+      "beslenme",
+      "kilo",
+      "liste",
+      "öğün"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sağlık"
+  },
+  {
+    "id": "tr-general-0172",
+    "answer": "Uyku Düzeni",
+    "forbidden": [
+      "saat",
+      "melatonin",
+      "dinlenme",
+      "gece",
+      "alışkanlık"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sağlık"
+  },
+  {
+    "id": "tr-general-0173",
+    "answer": "Pomodoro Tekniği",
+    "forbidden": [
+      "25 dakika",
+      "mola",
+      "odak",
+      "zamanlayıcı",
+      "verimlilik"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Verimlilik"
+  },
+  {
+    "id": "tr-general-0174",
+    "answer": "Bullet Journal",
+    "forbidden": [
+      "noktalı defter",
+      "habit tracker",
+      "liste",
+      "plan",
+      "analog"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Verimlilik"
+  },
+  {
+    "id": "tr-general-0175",
+    "answer": "Mind Map",
+    "forbidden": [
+      "zihin haritası",
+      "dal",
+      "fikir",
+      "bağlantı",
+      "not"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Verimlilik"
+  },
+  {
+    "id": "tr-general-0176",
+    "answer": "Beyin Fırtınası",
+    "forbidden": [
+      "fikir üretmek",
+      "toplantı",
+      "yaratıcılık",
+      "öneri",
+      "liste"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Verimlilik"
+  },
+  {
+    "id": "tr-general-0177",
+    "answer": "Deadline",
+    "forbidden": [
+      "son tarih",
+      "teslim",
+      "proje",
+      "zaman",
+      "baskı"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0178",
+    "answer": "Brief",
+    "forbidden": [
+      "özet talimat",
+      "müşteri",
+      "tasarım",
+      "beklenti",
+      "proje"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0179",
+    "answer": "Sunum Slaytı",
+    "forbidden": [
+      "PowerPoint",
+      "başlık",
+      "grafik",
+      "konuşma",
+      "sayfa"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0180",
+    "answer": "CV",
+    "forbidden": [
+      "özgeçmiş",
+      "iş başvurusu",
+      "deneyim",
+      "yetenek",
+      "referans"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0181",
+    "answer": "Mülakat",
+    "forbidden": [
+      "iş görüşmesi",
+      "soru",
+      "aday",
+      "İK",
+      "cevap"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0182",
+    "answer": "Networking",
+    "forbidden": [
+      "bağ kurmak",
+      "etkinlik",
+      "kartvizit",
+      "LinkedIn",
+      "tanışma"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0183",
+    "answer": "Freelance",
+    "forbidden": [
+      "serbest çalışma",
+      "müşteri",
+      "proje",
+      "fatura",
+      "uzaktan"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0184",
+    "answer": "Home Office",
+    "forbidden": [
+      "evden çalışma",
+      "masa",
+      "kamera",
+      "toplantı",
+      "uzaktan"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0185",
+    "answer": "Coworking",
+    "forbidden": [
+      "ortak ofis",
+      "masa",
+      "girişimci",
+      "internet",
+      "kahve"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0186",
+    "answer": "Startup",
+    "forbidden": [
+      "girişim",
+      "yatırım",
+      "kurucu",
+      "ürün",
+      "büyüme"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0187",
+    "answer": "Pitch Deck",
+    "forbidden": [
+      "yatırım sunumu",
+      "slayt",
+      "girişim",
+      "pazar",
+      "finans"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0188",
+    "answer": "MVP",
+    "forbidden": [
+      "minimum ürün",
+      "prototip",
+      "startup",
+      "erken sürüm",
+      "test"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0189",
+    "answer": "Roadmap",
+    "forbidden": [
+      "yol haritası",
+      "özellik",
+      "takvim",
+      "ürün",
+      "plan"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0190",
+    "answer": "Feedback",
+    "forbidden": [
+      "geri bildirim",
+      "yorum",
+      "iyileştirme",
+      "kullanıcı",
+      "eleştiri"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0191",
+    "answer": "Bug Report",
+    "forbidden": [
+      "hata bildirimi",
+      "adım",
+      "ekran görüntüsü",
+      "yazılım",
+      "çözüm"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0192",
+    "answer": "Patch Note",
+    "forbidden": [
+      "güncelleme notu",
+      "sürüm",
+      "düzeltme",
+      "oyun",
+      "değişiklik"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0193",
+    "answer": "Changelog",
+    "forbidden": [
+      "değişiklik listesi",
+      "sürüm",
+      "commit",
+      "release",
+      "not"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0194",
+    "answer": "Open Source",
+    "forbidden": [
+      "açık kaynak",
+      "GitHub",
+      "lisans",
+      "katkı",
+      "kod"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0195",
+    "answer": "Pull Request",
+    "forbidden": [
+      "GitHub",
+      "kod inceleme",
+      "branch",
+      "merge",
+      "commit"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0196",
+    "answer": "Issue",
+    "forbidden": [
+      "hata kaydı",
+      "GitHub",
+      "etiket",
+      "yorum",
+      "takip"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0197",
+    "answer": "Commit",
+    "forbidden": [
+      "kod değişikliği",
+      "git",
+      "mesaj",
+      "versiyon",
+      "repository"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0198",
+    "answer": "Branch",
+    "forbidden": [
+      "git dalı",
+      "feature",
+      "merge",
+      "main",
+      "kod"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0199",
+    "answer": "Deploy",
+    "forbidden": [
+      "yayına almak",
+      "sunucu",
+      "build",
+      "site",
+      "otomasyon"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0200",
+    "answer": "Rollback",
+    "forbidden": [
+      "geri almak",
+      "sürüm",
+      "hata",
+      "deploy",
+      "kurtarma"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0201",
+    "answer": "Ekran Görüntüsü",
+    "forbidden": [
+      "screenshot",
+      "telefon",
+      "kısayol",
+      "fotoğraf",
+      "ekran"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Teknoloji"
+  },
+  {
+    "id": "tr-general-0202",
+    "answer": "Sesli Mesaj",
+    "forbidden": [
+      "mikrofon",
+      "WhatsApp",
+      "dinlemek",
+      "göndermek",
+      "sohbet"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital"
+  },
+  {
+    "id": "tr-general-0203",
+    "answer": "Takvim Daveti",
+    "forbidden": [
+      "meeting",
+      "saat",
+      "katılımcı",
+      "Google Calendar",
+      "etkinlik"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İş"
+  },
+  {
+    "id": "tr-general-0204",
+    "answer": "Online Bilet",
+    "forbidden": [
+      "QR",
+      "konser",
+      "uçak",
+      "satın alma",
+      "giriş"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0205",
+    "answer": "Koltuk Seçimi",
+    "forbidden": [
+      "sinema",
+      "uçak",
+      "numara",
+      "rezervasyon",
+      "yer"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Seyahat"
+  },
+  {
+    "id": "tr-general-0206",
+    "answer": "Bildirim Sessize Alma",
+    "forbidden": [
+      "rahatsız etmeyin",
+      "telefon",
+      "uyarı",
+      "uygulama",
+      "odak"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Dijital"
+  },
+  {
+    "id": "tr-general-0207",
+    "answer": "Karanlık Mod",
+    "forbidden": [
+      "ekran",
+      "gece",
+      "tema",
+      "siyah",
+      "göz yorgunluğu"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital"
+  },
+  {
+    "id": "tr-general-0208",
+    "answer": "Otomatik Düzeltme",
+    "forbidden": [
+      "klavye",
+      "yazım",
+      "telefon",
+      "hata",
+      "öneri"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Dijital"
+  },
+  {
+    "id": "tr-general-0209",
+    "answer": "Kayıp Eşya",
+    "forbidden": [
+      "unutmak",
+      "çanta",
+      "bulmak",
+      "danışma",
+      "ilan"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Günlük Yaşam"
+  },
+  {
+    "id": "tr-general-0210",
+    "answer": "Ev Anahtarı",
+    "forbidden": [
+      "kapı",
+      "kilit",
+      "cebe koymak",
+      "yedek",
+      "apartman"
+    ],
+    "category": "general",
+    "type": "genel",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Günlük Yaşam"
   }
 ]

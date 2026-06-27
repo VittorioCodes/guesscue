@@ -103,13 +103,15 @@ export async function fetchRoom(roomCode) {
   if (!supabase) return null;
   const normalizedRoomCode = normalizeRoomCode(roomCode);
 
-  const [{ data: room, error: roomError }, { data: players, error: playersError }] = await Promise.all([
+  const [{ data: room, error: roomError }, { data: players, error: playersError }, { data: usedCards, error: usedCardsError }] = await Promise.all([
     supabase.from('rooms').select('room_code, created_by, settings, state, locked, created_at').eq('room_code', normalizedRoomCode).maybeSingle(),
-    supabase.from('room_players').select('user_id, name, score, current_round, connected, joined_at, updated_at, last_seen').eq('room_code', normalizedRoomCode)
+    supabase.from('room_players').select('user_id, name, score, current_round, connected, joined_at, updated_at, last_seen').eq('room_code', normalizedRoomCode),
+    supabase.from('room_used_cards').select('card_id, user_id, created_at').eq('room_code', normalizedRoomCode)
   ]);
 
   if (roomError) throw roomError;
   if (playersError) throw playersError;
+  if (usedCardsError) throw usedCardsError;
   if (!room) return null;
 
   return {
@@ -119,7 +121,8 @@ export async function fetchRoom(roomCode) {
     state: room.state || defaultRoomState(),
     locked: room.locked,
     createdAt: room.created_at,
-    players: mapPlayers(players)
+    players: mapPlayers(players),
+    usedCards: (usedCards || []).reduce((acc, row) => { acc[row.card_id] = { userId: row.user_id, createdAt: row.created_at }; return acc; }, {})
   };
 }
 
@@ -213,6 +216,7 @@ export function subscribeRoom(roomCode, callback) {
     .on('postgres_changes', { event: '*', schema: 'public', table: 'rooms', filter: `room_code=eq.${normalizedRoomCode}` }, refresh)
     .on('postgres_changes', { event: '*', schema: 'public', table: 'room_players', filter: `room_code=eq.${normalizedRoomCode}` }, refresh)
     .on('postgres_changes', { event: '*', schema: 'public', table: 'room_events', filter: `room_code=eq.${normalizedRoomCode}` }, refresh)
+    .on('postgres_changes', { event: '*', schema: 'public', table: 'room_used_cards', filter: `room_code=eq.${normalizedRoomCode}` }, refresh)
     .subscribe();
 
   return () => {
@@ -277,6 +281,20 @@ export async function finishRoomGame(roomCode) {
   return updateRoomState(roomCode, { phase: 'results', started: true });
 }
 
+
+export async function markRoomCardUsed(roomCode, cardId) {
+  const supabase = getSupabaseClient();
+  const normalizedRoomCode = normalizeRoomCode(roomCode);
+  if (!supabase || !normalizedRoomCode || !cardId) return;
+  const user = await ensureAnonymousUser();
+  const { error } = await supabase.from('room_used_cards').insert({
+    room_code: normalizedRoomCode,
+    card_id: cardId,
+    user_id: user.id
+  });
+  if (error && error.code !== '23505') throw error;
+}
+
 export async function publishGameEvent(roomCode, event) {
   const supabase = getSupabaseClient();
   const normalizedRoomCode = normalizeRoomCode(roomCode);
@@ -313,11 +331,6 @@ export async function publishGameEvent(roomCode, event) {
   }
 
   if (event.cardId) {
-    const { error: cardError } = await supabase.from('room_used_cards').insert({
-      room_code: normalizedRoomCode,
-      card_id: event.cardId,
-      user_id: user.id
-    });
-    if (cardError && cardError.code !== '23505') throw cardError;
+    await markRoomCardUsed(normalizedRoomCode, event.cardId);
   }
 }

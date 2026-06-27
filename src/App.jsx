@@ -18,6 +18,7 @@ import {
   isSupabaseConfigured,
   joinRoom,
   leaveRoom,
+  markRoomCardUsed,
   publishGameEvent,
   startRoomGame,
   subscribeRoom,
@@ -80,6 +81,19 @@ function sortPlayersForTurns(players) {
   });
 }
 
+function findPlayableCardIndex(deck, startIndex, usedCardIds = new Set(), excludeCardId = '') {
+  if (!deck.length) return 0;
+  const normalizedStart = ((Number(startIndex) || 0) % deck.length + deck.length) % deck.length;
+  for (let offset = 0; offset < deck.length; offset += 1) {
+    const index = (normalizedStart + offset) % deck.length;
+    const card = deck[index];
+    if (!card) continue;
+    if (card.id === excludeCardId) continue;
+    if (!usedCardIds.has(card.id)) return index;
+  }
+  return normalizedStart;
+}
+
 export default function App() {
   const [theme, setTheme] = useState(() => loadPreferences().theme || 'light');
   const [settings, setSettings] = useState(() => ({ ...DEFAULT_SETTINGS, ...loadPreferences().settings }));
@@ -99,6 +113,7 @@ export default function App() {
   const [liveRoomData, setLiveRoomData] = useState(null);
   const [currentUserId, setCurrentUserId] = useState('');
   const [categoryCounts, setCategoryCounts] = useState({});
+  const [localUsedCardIds, setLocalUsedCardIds] = useState(() => new Set());
   const lastLiveTurnKey = useRef('');
   const lastAutoAdvanceKey = useRef('');
 
@@ -141,7 +156,19 @@ export default function App() {
     };
   }, [settings.liveEnabled, settings.roomCode, currentUserId]);
 
-  const currentCard = deck[cardIndex % Math.max(deck.length, 1)];
+  const liveUsedCardIds = useMemo(() => new Set(Object.keys(liveRoomData?.usedCards || {})), [liveRoomData?.usedCards]);
+  const effectiveUsedCardIds = useMemo(() => {
+    const combined = new Set(localUsedCardIds);
+    if (settings.liveEnabled) {
+      liveUsedCardIds.forEach((id) => combined.add(id));
+    }
+    return combined;
+  }, [localUsedCardIds, settings.liveEnabled, liveUsedCardIds]);
+  const currentCardIndex = useMemo(
+    () => findPlayableCardIndex(deck, cardIndex, effectiveUsedCardIds),
+    [deck, cardIndex, effectiveUsedCardIds]
+  );
+  const currentCard = deck[currentCardIndex % Math.max(deck.length, 1)];
   const category = CATEGORIES.find((item) => item.id === settings.category);
   const totalRounds = maxRounds(settings);
   const liveConfigured = isSupabaseConfigured();
@@ -204,11 +231,12 @@ export default function App() {
         setRoundStats({ correct: 0, taboo: 0, pass: 0 });
         setPassLeft(passesPerRound(settings));
         setTimerKey((value) => value + 1);
+        setCardIndex((value) => findPlayableCardIndex(deck, value + 1, effectiveUsedCardIds, currentCard?.id));
       }
       setRunning(isMyLiveTurn);
       setScreen('game');
     }
-  }, [isLiveMode, cards.length, liveState.phase, liveState.round, liveState.turnIndex, liveState.turnId, isMyLiveTurn, settings, activeLivePlayer?.id]);
+  }, [isLiveMode, cards.length, liveState.phase, liveState.round, liveState.turnIndex, liveState.turnId, isMyLiveTurn, settings, activeLivePlayer?.id, deck, effectiveUsedCardIds, currentCard?.id]);
 
   useEffect(() => {
     if (!isLiveMode || !isHost) return;
@@ -279,6 +307,7 @@ export default function App() {
     setCards(loaded);
     setDeck(shuffled);
     setCardIndex(0);
+    setLocalUsedCardIds(new Set());
     setTeams(createTeams(nextSettings));
     setActiveTeamIndex(0);
     setRound(1);
@@ -333,6 +362,10 @@ export default function App() {
       setTeams((current) => current.map((team, index) => index === activeTeamIndex ? { ...team, score: nextScore } : team));
     }
 
+    if (currentCard?.id) {
+      setLocalUsedCardIds((current) => new Set([...current, currentCard.id]));
+    }
+
     if (settings.liveEnabled && settings.roomCode && isSupabaseConfigured()) {
       try {
         await publishGameEvent(settings.roomCode, { action, cardId: currentCard?.id, delta, score: nextScore, round });
@@ -341,11 +374,26 @@ export default function App() {
         setError(err.message || 'Canlı skor güncellenemedi.');
       }
     }
-    setCardIndex((value) => value + 1);
+    const nextUsed = new Set(effectiveUsedCardIds);
+    if (currentCard?.id) nextUsed.add(currentCard.id);
+    setCardIndex(findPlayableCardIndex(deck, currentCardIndex + 1, nextUsed, currentCard?.id));
   }
 
   async function finishRound() {
     setRunning(false);
+    if (currentCard?.id) {
+      if (isLiveMode && isMyLiveTurn) {
+        try {
+          await markRoomCardUsed(settings.roomCode, currentCard.id);
+        } catch (err) {
+          console.warn('Current card could not be marked as used:', err);
+        }
+      }
+      setLocalUsedCardIds((current) => new Set([...current, currentCard.id]));
+      const nextUsed = new Set(effectiveUsedCardIds);
+      nextUsed.add(currentCard.id);
+      setCardIndex(findPlayableCardIndex(deck, currentCardIndex + 1, nextUsed, currentCard.id));
+    }
     if (isLiveMode) {
       await updateRoomState(settings.roomCode, { phase: 'summary' });
       return;
@@ -381,6 +429,7 @@ export default function App() {
     setRoundStats({ correct: 0, taboo: 0, pass: 0 });
     setPassLeft(passesPerRound(settings));
     setTimerKey((value) => value + 1);
+    setCardIndex((value) => findPlayableCardIndex(deck, value + 1, localUsedCardIds, currentCard?.id));
     setRunning(true);
     setScreen('game');
   }

@@ -169,4 +169,11 @@ begin
   ) then
     execute 'alter publication supabase_realtime add table public.room_events';
   end if;
+
+  if not exists (
+    select 1 from pg_publication_tables
+    where pubname = 'supabase_realtime' and schemaname = 'public' and tablename = 'room_used_cards'
+  ) then
+    execute 'alter publication supabase_realtime add table public.room_used_cards';
+  end if;
 end $$;

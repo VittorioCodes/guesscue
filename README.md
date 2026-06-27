@@ -162,3 +162,9 @@ Presence behavior:
 - Leaving the lobby/game marks the player as disconnected.
 - Abruptly closed tabs are removed from the active turn list after roughly 35 seconds.
 - In live rooms, only the host or the current narrator can advance to the next narrator turn.
+
+## Latest live-room/card notes
+
+- Live rooms now share `room_used_cards` across all players. The currently visible card is also marked as used when a turn ends, so the next narrator/turn starts from a fresh available card.
+- If you already created the Supabase schema before this update, re-run `supabase.schema.sql` in Supabase SQL Editor so `room_used_cards` is included in realtime publications.
+- Category counts are loaded dynamically from the JSON files. The full distribution audit is available in `card_distribution_summary.json`.

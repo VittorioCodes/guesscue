@@ -12,7 +12,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Minecraft"
   },
   {
     "id": "tr-games-0002",
@@ -27,7 +28,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Counter-Strike 2"
   },
   {
     "id": "tr-games-0003",
@@ -42,7 +44,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Valorant"
   },
   {
     "id": "tr-games-0004",
@@ -57,7 +60,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "League of Legends"
   },
   {
     "id": "tr-games-0005",
@@ -72,7 +76,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "GTA V"
   },
   {
     "id": "tr-games-0006",
@@ -87,7 +92,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "The Witcher 3"
   },
   {
     "id": "tr-games-0007",
@@ -102,7 +108,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Elden Ring"
   },
   {
     "id": "tr-games-0008",
@@ -117,7 +124,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dark Souls"
   },
   {
     "id": "tr-games-0009",
@@ -132,7 +140,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Half-Life"
   },
   {
     "id": "tr-games-0010",
@@ -147,7 +156,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Portal"
   },
   {
     "id": "tr-games-0011",
@@ -162,7 +172,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "The Last of Us"
   },
   {
     "id": "tr-games-0012",
@@ -177,7 +188,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "God of War"
   },
   {
     "id": "tr-games-0013",
@@ -192,7 +204,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Red Dead Redemption 2"
   },
   {
     "id": "tr-games-0014",
@@ -207,7 +220,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Cyberpunk 2077"
   },
   {
     "id": "tr-games-0015",
@@ -222,7 +236,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Skyrim"
   },
   {
     "id": "tr-games-0016",
@@ -237,7 +252,8 @@
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Zelda Breath of the Wild"
   },
   {
     "id": "tr-games-0017",
@@ -252,7 +268,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Mario"
   },
   {
     "id": "tr-games-0018",
@@ -267,7 +284,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Sonic"
   },
   {
     "id": "tr-games-0019",
@@ -282,7 +300,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Lara Croft"
   },
   {
     "id": "tr-games-0020",
@@ -297,7 +316,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Master Chief"
   },
   {
     "id": "tr-games-0021",
@@ -312,7 +332,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Kratos"
   },
   {
     "id": "tr-games-0022",
@@ -327,7 +348,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Geralt"
   },
   {
     "id": "tr-games-0023",
@@ -342,7 +364,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Ezio Auditore"
   },
   {
     "id": "tr-games-0024",
@@ -357,7 +380,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "CJ"
   },
   {
     "id": "tr-games-0025",
@@ -372,7 +396,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Agent 47"
   },
   {
     "id": "tr-games-0026",
@@ -387,7 +412,8 @@
     "category": "games",
     "type": "karakter",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Pikachu"
   },
   {
     "id": "tr-games-0027",
@@ -402,7 +428,8 @@
     "category": "games",
     "type": "yaratık",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Creeper"
   },
   {
     "id": "tr-games-0028",
@@ -417,7 +444,8 @@
     "category": "games",
     "type": "yaratık",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Enderman"
   },
   {
     "id": "tr-games-0029",
@@ -432,7 +460,8 @@
     "category": "games",
     "type": "mekan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "City 17"
   },
   {
     "id": "tr-games-0030",
@@ -447,7 +476,8 @@
     "category": "games",
     "type": "mekan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Los Santos"
   },
   {
     "id": "tr-games-0031",
@@ -462,7 +492,8 @@
     "category": "games",
     "type": "mekan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Night City"
   },
   {
     "id": "tr-games-0032",
@@ -477,7 +508,8 @@
     "category": "games",
     "type": "mekan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hyrule"
   },
   {
     "id": "tr-games-0033",
@@ -492,7 +524,8 @@
     "category": "games",
     "type": "mekan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Rapture"
   },
   {
     "id": "tr-games-0034",
@@ -507,7 +540,8 @@
     "category": "games",
     "type": "mekan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Aperture Science"
   },
   {
     "id": "tr-games-0035",
@@ -522,7 +556,8 @@
     "category": "games",
     "type": "harita",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dust2"
   },
   {
     "id": "tr-games-0036",
@@ -537,7 +572,8 @@
     "category": "games",
     "type": "harita",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Summoner’s Rift"
   },
   {
     "id": "tr-games-0037",
@@ -552,7 +588,8 @@
     "category": "games",
     "type": "harita",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Bind"
   },
   {
     "id": "tr-games-0038",
@@ -567,7 +604,8 @@
     "category": "games",
     "type": "harita",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Nuke"
   },
   {
     "id": "tr-games-0039",
@@ -582,7 +620,8 @@
     "category": "games",
     "type": "harita",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Mirage"
   },
   {
     "id": "tr-games-0040",
@@ -597,7 +636,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Lootbox"
   },
   {
     "id": "tr-games-0041",
@@ -612,7 +652,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Battle Pass"
   },
   {
     "id": "tr-games-0042",
@@ -627,7 +668,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "NPC"
   },
   {
     "id": "tr-games-0043",
@@ -642,7 +684,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Boss Fight"
   },
   {
     "id": "tr-games-0044",
@@ -657,7 +700,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Speedrun"
   },
   {
     "id": "tr-games-0045",
@@ -672,7 +716,8 @@
     "category": "games",
     "type": "tür",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Roguelike"
   },
   {
     "id": "tr-games-0046",
@@ -687,7 +732,8 @@
     "category": "games",
     "type": "tür",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Metroidvania"
   },
   {
     "id": "tr-games-0047",
@@ -702,7 +748,8 @@
     "category": "games",
     "type": "tür",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Open World"
   },
   {
     "id": "tr-games-0048",
@@ -717,7 +764,8 @@
     "category": "games",
     "type": "tür",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "RPG"
   },
   {
     "id": "tr-games-0049",
@@ -732,7 +780,8 @@
     "category": "games",
     "type": "tür",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "MOBA"
   },
   {
     "id": "tr-games-0050",
@@ -747,7 +796,8 @@
     "category": "games",
     "type": "tür",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "FPS"
   },
   {
     "id": "tr-games-0051",
@@ -762,7 +812,8 @@
     "category": "games",
     "type": "platform",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Steam"
   },
   {
     "id": "tr-games-0052",
@@ -777,7 +828,8 @@
     "category": "games",
     "type": "platform",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Epic Games Store"
   },
   {
     "id": "tr-games-0053",
@@ -792,7 +844,8 @@
     "category": "games",
     "type": "platform",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "PlayStation"
   },
   {
     "id": "tr-games-0054",
@@ -807,7 +860,8 @@
     "category": "games",
     "type": "platform",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Xbox"
   },
   {
     "id": "tr-games-0055",
@@ -822,1462 +876,1560 @@
     "category": "games",
     "type": "platform",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Nintendo Switch"
   },
   {
     "id": "tr-games-0056",
     "answer": "Fortnite",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "battle royale",
+      "inşa",
+      "Epic Games",
+      "skin",
+      "ada"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Fortnite"
   },
   {
     "id": "tr-games-0057",
     "answer": "PUBG",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "battle royale",
+      "çember",
+      "Erangel",
+      "tava",
+      "loot"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "PUBG"
   },
   {
     "id": "tr-games-0058",
     "answer": "Apex Legends",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "legend",
+      "Respawn",
+      "battle royale",
+      "ping",
+      "Titanfall"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Apex Legends"
   },
   {
     "id": "tr-games-0059",
     "answer": "Overwatch",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "hero shooter",
+      "Blizzard",
+      "payload",
+      "ultimate",
+      "Tracer"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Overwatch"
   },
   {
     "id": "tr-games-0060",
     "answer": "Dota 2",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "MOBA",
+      "Ancient",
+      "Valve",
+      "kahraman",
+      "lane"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dota 2"
   },
   {
     "id": "tr-games-0061",
     "answer": "World of Warcraft",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "MMO",
+      "Azeroth",
+      "Blizzard",
+      "raid",
+      "Horde"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "World of Warcraft"
   },
   {
     "id": "tr-games-0062",
     "answer": "Diablo",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Blizzard",
+      "cehennem",
+      "loot",
+      "dungeon",
+      "Sanctuary"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Diablo"
   },
   {
     "id": "tr-games-0063",
     "answer": "Resident Evil",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "zombi",
+      "Umbrella",
+      "Raccoon City",
+      "survival horror",
+      "Capcom"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Resident Evil"
   },
   {
     "id": "tr-games-0064",
     "answer": "Silent Hill",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "sis",
+      "psikolojik korku",
+      "Konami",
+      "kasaba",
+      "Pyramid Head"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Silent Hill"
   },
   {
     "id": "tr-games-0065",
     "answer": "Metal Gear Solid",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Snake",
+      "gizlilik",
+      "Kojima",
+      "nükleer",
+      "kutu"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Metal Gear Solid"
   },
   {
     "id": "tr-games-0066",
     "answer": "Final Fantasy",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "JRPG",
+      "Chocobo",
+      "Square Enix",
+      "summon",
+      "Cloud"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Final Fantasy"
   },
   {
     "id": "tr-games-0067",
     "answer": "Persona 5",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Phantom Thieves",
+      "Tokyo",
+      "JRPG",
+      "maske",
+      "saray"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Persona 5"
   },
   {
     "id": "tr-games-0068",
     "answer": "Baldur’s Gate 3",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "D&D",
+      "zar",
+      "Larian",
+      "Faerun",
+      "parti"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Baldur’s Gate 3"
   },
   {
     "id": "tr-games-0069",
     "answer": "Stardew Valley",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "çiftlik",
+      "köy",
+      "mahsul",
+      "Pelican Town",
+      "balık"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Stardew Valley"
   },
   {
     "id": "tr-games-0070",
     "answer": "Terraria",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "2D",
+      "kazmak",
+      "boss",
+      "crafting",
+      "sandbox"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Terraria"
   },
   {
     "id": "tr-games-0071",
     "answer": "Among Us",
     "forbidden": [
-      "oyun",
-      "karakter",
+      "impostor",
       "görev",
-      "harita",
-      "oyuncu"
+      "uzay gemisi",
+      "sus",
+      "toplantı"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Among Us"
   },
   {
     "id": "tr-games-0072",
     "answer": "Fall Guys",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "parkur",
+      "bean",
+      "yarış",
+      "eleme",
+      "renkli"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Fall Guys"
   },
   {
     "id": "tr-games-0073",
     "answer": "Rocket League",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "araba",
+      "futbol",
+      "boost",
+      "arena",
+      "Psyonix"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Rocket League"
   },
   {
     "id": "tr-games-0074",
     "answer": "FIFA",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "futbol",
+      "EA",
+      "Ultimate Team",
+      "lisans",
+      "maç"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "FIFA"
   },
   {
     "id": "tr-games-0075",
     "answer": "EA Sports FC",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "futbol",
+      "EA",
+      "Ultimate Team",
+      "kart",
+      "kariyer"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "EA Sports FC"
   },
   {
     "id": "tr-games-0076",
     "answer": "Forza Horizon",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "yarış",
+      "açık dünya",
+      "festival",
+      "araba",
+      "Xbox"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Forza Horizon"
   },
   {
     "id": "tr-games-0077",
     "answer": "Need for Speed",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "yarış",
+      "polis",
+      "modifiye",
+      "drift",
+      "EA"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Need for Speed"
   },
   {
     "id": "tr-games-0078",
     "answer": "Hades",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "roguelike",
+      "Zagreus",
+      "yeraltı",
+      "Supergiant",
+      "Olimpos"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hades"
   },
   {
     "id": "tr-games-0079",
     "answer": "Celeste",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "platform",
+      "dağ",
+      "Madeline",
+      "zıplama",
+      "piksel"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Celeste"
   },
   {
     "id": "tr-games-0080",
     "answer": "Hollow Knight",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "metroidvania",
+      "Hallownest",
+      "böcek",
+      "nail",
+      "boss"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hollow Knight"
   },
   {
     "id": "tr-games-0081",
     "answer": "Cuphead",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "çizgi film",
+      "boss",
+      "kupa",
+      "run and gun",
+      "1930"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Cuphead"
   },
   {
     "id": "tr-games-0082",
     "answer": "Undertale",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Sans",
+      "canavar",
+      "merhamet",
+      "Toby Fox",
+      "yeraltı"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Undertale"
   },
   {
     "id": "tr-games-0083",
     "answer": "Disco Elysium",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "dedektif",
+      "Revachol",
+      "zar",
+      "diyalog",
+      "amnezi"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Disco Elysium"
   },
   {
     "id": "tr-games-0084",
     "answer": "BioShock",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Rapture",
+      "Big Daddy",
+      "plazmid",
+      "denizaltı",
+      "Irrational"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "BioShock"
   },
   {
     "id": "tr-games-0085",
     "answer": "Mass Effect",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Shepard",
+      "uzay",
+      "Reaper",
+      "BioWare",
+      "Normandy"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Mass Effect"
   },
   {
     "id": "tr-games-0086",
     "answer": "Dragon Age",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "BioWare",
+      "Thedas",
+      "ejderha",
+      "parti",
+      "fantastik"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dragon Age"
   },
   {
     "id": "tr-games-0087",
     "answer": "Far Cry",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Ubisoft",
+      "açık dünya",
+      "ada",
+      "kötü adam",
+      "FPS"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Far Cry"
   },
   {
     "id": "tr-games-0088",
     "answer": "Assassin’s Creed",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Ubisoft",
+      "suikastçı",
+      "gizlilik",
+      "tarihi",
+      "Animus"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Assassin’s Creed"
   },
   {
     "id": "tr-games-0089",
     "answer": "Call of Duty",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "FPS",
+      "Activision",
+      "savaş",
+      "multiplayer",
+      "zombi"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Call of Duty"
   },
   {
     "id": "tr-games-0090",
     "answer": "Battlefield",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "savaş",
+      "araç",
+      "Conquest",
+      "DICE",
+      "yıkım"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Battlefield"
   },
   {
     "id": "tr-games-0091",
     "answer": "Rainbow Six Siege",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "taktik",
+      "operatör",
+      "rehine",
+      "duvar kırma",
+      "Ubisoft"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Rainbow Six Siege"
   },
   {
     "id": "tr-games-0092",
     "answer": "Escape from Tarkov",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "extraction",
+      "loot",
+      "hardcore",
+      "PMC",
+      "Rusya"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Escape from Tarkov"
   },
   {
     "id": "tr-games-0093",
     "answer": "Helldivers 2",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "co-op",
+      "demokrasi",
+      "uzaylı",
+      "friendly fire",
+      "Super Earth"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Helldivers 2"
   },
   {
     "id": "tr-games-0094",
     "answer": "Palworld",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "yaratık",
+      "Pal",
+      "hayatta kalma",
+      "silah",
+      "toplama"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Palworld"
   },
   {
     "id": "tr-games-0095",
     "answer": "Sims",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "simülasyon",
+      "ev",
+      "Simlish",
+      "Maxis",
+      "hayat"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Sims"
   },
   {
     "id": "tr-games-0096",
     "answer": "Civilization",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "strateji",
+      "tur bazlı",
+      "lider",
+      "medeniyet",
+      "Sid Meier"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Civilization"
   },
   {
     "id": "tr-games-0097",
     "answer": "Age of Empires",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "RTS",
+      "tarih",
+      "köylü",
+      "çağ atlama",
+      "Microsoft"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Age of Empires"
   },
   {
     "id": "tr-games-0098",
     "answer": "Total War",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "strateji",
+      "ordu",
+      "savaş alanı",
+      "tarih",
+      "Creative Assembly"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Total War"
   },
   {
     "id": "tr-games-0099",
     "answer": "Clash of Clans",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "köy",
+      "klan",
+      "saldırı",
+      "Supercell",
+      "duvar"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Clash of Clans"
   },
   {
     "id": "tr-games-0100",
     "answer": "Brawl Stars",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Supercell",
+      "brawler",
+      "3v3",
+      "elmas",
+      "arena"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Brawl Stars"
   },
   {
     "id": "tr-games-0101",
     "answer": "Genshin Impact",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Teyvat",
+      "gacha",
+      "element",
+      "Paimon",
+      "Hoyoverse"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Genshin Impact"
   },
   {
     "id": "tr-games-0102",
     "answer": "Roblox",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "platform",
+      "oyun yapmak",
+      "avatar",
+      "Robux",
+      "sunucu"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Roblox"
   },
   {
     "id": "tr-games-0103",
     "answer": "Tetris",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "blok",
+      "düşen parçalar",
+      "çizgi",
+      "puzzle",
+      "Sovyet"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Tetris"
   },
   {
     "id": "tr-games-0104",
     "answer": "Pac-Man",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "labirent",
+      "hayalet",
+      "sarı",
+      "arcade",
+      "nokta"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Pac-Man"
   },
   {
     "id": "tr-games-0105",
     "answer": "Mortal Kombat",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "fatality",
+      "dövüş",
+      "Scorpion",
+      "Sub-Zero",
+      "NetherRealm"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Mortal Kombat"
   },
   {
     "id": "tr-games-0106",
     "answer": "Tekken",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "dövüş",
+      "Mishima",
+      "King",
+      "arcade",
+      "combo"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Tekken"
   },
   {
     "id": "tr-games-0107",
     "answer": "Street Fighter",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Hadouken",
+      "Ryu",
+      "Ken",
+      "Capcom",
+      "dövüş"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Street Fighter"
   },
   {
     "id": "tr-games-0108",
     "answer": "Sekiro",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "samuray",
+      "parry",
+      "FromSoftware",
+      "prostetik",
+      "Ashina"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Sekiro"
   },
   {
     "id": "tr-games-0109",
     "answer": "Bloodborne",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "avcı",
+      "Yharnam",
+      "gotik",
+      "FromSoftware",
+      "kan"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Bloodborne"
   },
   {
     "id": "tr-games-0110",
     "answer": "Doom",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "şeytan",
+      "Doom Slayer",
+      "FPS",
+      "id Software",
+      "Mars"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Doom"
   },
   {
     "id": "tr-games-0111",
     "answer": "Quake",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "arena",
+      "id Software",
+      "rocket jump",
+      "FPS",
+      "çok oyunculu"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Quake"
   },
   {
     "id": "tr-games-0112",
     "answer": "Wolfenstein",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Naziler",
+      "B.J. Blazkowicz",
+      "alternatif tarih",
+      "FPS",
+      "id"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Wolfenstein"
   },
   {
     "id": "tr-games-0113",
     "answer": "No Man’s Sky",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "gezegen",
+      "uzay",
+      "prosedürel",
+      "Hello Games",
+      "keşif"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "No Man’s Sky"
   },
   {
     "id": "tr-games-0114",
     "answer": "Subnautica",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "okyanus",
+      "hayatta kalma",
+      "uzay gemisi",
+      "dalış",
+      "Leviathan"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Subnautica"
   },
   {
     "id": "tr-games-0115",
     "answer": "Dead by Daylight",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "katil",
+      "survivor",
+      "jeneratör",
+      "korku",
+      "kaçış"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dead by Daylight"
   },
   {
     "id": "tr-games-0116",
     "answer": "Phasmophobia",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "hayalet",
+      "mikrofon",
+      "ekipman",
+      "co-op",
+      "kanıt"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Phasmophobia"
   },
   {
     "id": "tr-games-0117",
     "answer": "Lethal Company",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "hurda",
+      "ay",
+      "canavar",
+      "co-op",
+      "şirket"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Lethal Company"
   },
   {
     "id": "tr-games-0118",
     "answer": "Sea of Thieves",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "korsan",
+      "gemi",
+      "hazine",
+      "Rare",
+      "deniz"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Sea of Thieves"
   },
   {
     "id": "tr-games-0119",
     "answer": "Team Fortress 2",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "sınıf",
+      "Valve",
+      "şapka",
+      "RED BLU",
+      "cartoon FPS"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Team Fortress 2"
   },
   {
     "id": "tr-games-0120",
     "answer": "Left 4 Dead",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "zombi",
+      "co-op",
+      "Valve",
+      "safe room",
+      "special infected"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Left 4 Dead"
   },
   {
     "id": "tr-games-0121",
     "answer": "Dying Light",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "parkur",
+      "zombi",
+      "gece",
+      "Techland",
+      "açık dünya"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dying Light"
   },
   {
     "id": "tr-games-0122",
     "answer": "Euro Truck Simulator",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "tır",
+      "Avrupa",
+      "lojistik",
+      "direksiyon",
+      "SCS"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Euro Truck Simulator"
   },
   {
     "id": "tr-games-0123",
     "answer": "Football Manager",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "teknik direktör",
+      "transfer",
+      "taktik",
+      "veritabanı",
+      "kulüp"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Football Manager"
   },
   {
     "id": "tr-games-0124",
     "answer": "Hearthstone",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "kart",
+      "Blizzard",
+      "mana",
+      "Warcraft",
+      "deck"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hearthstone"
   },
   {
     "id": "tr-games-0125",
     "answer": "Yu-Gi-Oh Master Duel",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "kart",
+      "düello",
+      "Konami",
+      "destek",
+      "canavar"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Yu-Gi-Oh Master Duel"
   },
   {
     "id": "tr-games-0126",
     "answer": "Slay the Spire",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "deckbuilding",
+      "roguelike",
+      "kule",
+      "kart",
+      "relic"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slay the Spire"
   },
   {
     "id": "tr-games-0127",
     "answer": "Balatro",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "poker",
+      "joker",
+      "deckbuilding",
+      "çarpan",
+      "kart"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Balatro"
   },
   {
     "id": "tr-games-0128",
     "answer": "Vampire Survivors",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "otomatik saldırı",
+      "dalga",
+      "roguelite",
+      "piksel",
+      "hayatta kalma"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Vampire Survivors"
   },
   {
     "id": "tr-games-0129",
     "answer": "Factorio",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "fabrika",
+      "otomasyon",
+      "konveyör",
+      "uzaylı",
+      "üretim"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Factorio"
   },
   {
     "id": "tr-games-0130",
     "answer": "Satisfactory",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "fabrika",
+      "3D",
+      "konveyör",
+      "gezegen",
+      "Coffee Stain"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Satisfactory"
   },
   {
     "id": "tr-games-0131",
     "answer": "Cities Skylines",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "şehir kurma",
+      "trafik",
+      "imar",
+      "belediye",
+      "simülasyon"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Cities Skylines"
   },
   {
     "id": "tr-games-0132",
     "answer": "RimWorld",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "koloni",
+      "hikaye anlatıcı",
+      "hayatta kalma",
+      "pawn",
+      "gezegen"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "RimWorld"
   },
   {
     "id": "tr-games-0133",
     "answer": "Kerbal Space Program",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "roket",
+      "uzay",
+      "Kerbal",
+      "fizik",
+      "yörünge"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Kerbal Space Program"
   },
   {
     "id": "tr-games-0134",
     "answer": "Outer Wilds",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "zaman döngüsü",
+      "uzay",
+      "keşif",
+      "gezegen",
+      "kamp ateşi"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Outer Wilds"
   },
   {
     "id": "tr-games-0135",
     "answer": "Firewatch",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "orman",
+      "gözetleme kulesi",
+      "Delilah",
+      "Wyoming",
+      "hikaye"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Firewatch"
   },
   {
     "id": "tr-games-0136",
     "answer": "Life is Strange",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Max",
+      "zamanı geri alma",
+      "fotoğraf",
+      "Arcadia Bay",
+      "hikaye"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Life is Strange"
   },
   {
     "id": "tr-games-0137",
     "answer": "Detroit Become Human",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "android",
+      "Quantic Dream",
+      "seçim",
+      "Kara",
+      "Connor"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Detroit Become Human"
   },
   {
     "id": "tr-games-0138",
     "answer": "Heavy Rain",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "origami katili",
+      "QTE",
+      "Quantic Dream",
+      "yağmur",
+      "dedektif"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Heavy Rain"
   },
   {
     "id": "tr-games-0139",
     "answer": "Death Stranding",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "kargo",
+      "Kojima",
+      "BB",
+      "BT",
+      "yürüyüş"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Death Stranding"
   },
   {
     "id": "tr-games-0140",
     "answer": "Ghost of Tsushima",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "samuray",
+      "Jin Sakai",
+      "Moğol",
+      "Tsushima",
+      "Sucker Punch"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Ghost of Tsushima"
   },
   {
     "id": "tr-games-0141",
     "answer": "Horizon Zero Dawn",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Aloy",
+      "robot dinozor",
+      "ok",
+      "açık dünya",
+      "PlayStation"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Horizon Zero Dawn"
   },
   {
     "id": "tr-games-0142",
     "answer": "Uncharted",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Nathan Drake",
+      "hazine",
+      "tırmanış",
+      "Naughty Dog",
+      "macera"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Uncharted"
   },
   {
     "id": "tr-games-0143",
     "answer": "Spider-Man 2",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "örümcek ağı",
+      "New York",
+      "Peter",
+      "Miles",
+      "Insomniac"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Spider-Man 2"
   },
   {
     "id": "tr-games-0144",
     "answer": "Returnal",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "roguelike",
+      "Selene",
+      "uzay",
+      "döngü",
+      "PS5"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Returnal"
   },
   {
     "id": "tr-games-0145",
     "answer": "Alan Wake",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "yazar",
+      "fener",
+      "karanlık",
+      "Bright Falls",
+      "Remedy"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Alan Wake"
   },
   {
     "id": "tr-games-0146",
     "answer": "Control",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Federal Bureau",
+      "Jesse Faden",
+      "telekinezi",
+      "Remedy",
+      "Oldest House"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Control"
   },
   {
     "id": "tr-games-0147",
     "answer": "Max Payne",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "bullet time",
+      "intikam",
+      "noir",
+      "Remedy",
+      "ağrı kesici"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Max Payne"
   },
   {
     "id": "tr-games-0148",
     "answer": "Bully",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "okul",
+      "Rockstar",
+      "Jimmy",
+      "Bullworth",
+      "yaramaz"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Bully"
   },
   {
     "id": "tr-games-0149",
     "answer": "L.A. Noire",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "dedektif",
+      "Los Angeles",
+      "sorgu",
+      "Rockstar",
+      "yüz ifadesi"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "L.A. Noire"
   },
   {
     "id": "tr-games-0150",
     "answer": "Mafia",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "gangster",
+      "aile",
+      "Lost Heaven",
+      "suç",
+      "2K"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 3,
-    "language": "tr"
+    "language": "tr",
+    "source": "Mafia"
   },
   {
     "id": "tr-games-0151",
     "answer": "Watch Dogs",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "hack",
+      "ctOS",
+      "Chicago",
+      "Ubisoft",
+      "telefon"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Watch Dogs"
   },
   {
     "id": "tr-games-0152",
     "answer": "Just Cause",
     "forbidden": [
-      "oyun",
-      "karakter",
-      "görev",
-      "harita",
-      "oyuncu"
+      "Rico",
+      "kanca",
+      "patlama",
+      "açık dünya",
+      "diktatör"
     ],
     "category": "games",
     "type": "oyun",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Just Cause"
   },
   {
     "id": "tr-games-0153",
@@ -2292,7 +2444,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hitbox"
   },
   {
     "id": "tr-games-0154",
@@ -2307,7 +2460,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Cooldown"
   },
   {
     "id": "tr-games-0155",
@@ -2322,7 +2476,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "DPS"
   },
   {
     "id": "tr-games-0156",
@@ -2337,7 +2492,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Tank"
   },
   {
     "id": "tr-games-0157",
@@ -2352,7 +2508,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Healer"
   },
   {
     "id": "tr-games-0158",
@@ -2367,7 +2524,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Aggro"
   },
   {
     "id": "tr-games-0159",
@@ -2382,7 +2540,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Kiting"
   },
   {
     "id": "tr-games-0160",
@@ -2397,7 +2556,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Gank"
   },
   {
     "id": "tr-games-0161",
@@ -2412,7 +2572,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Last Hit"
   },
   {
     "id": "tr-games-0162",
@@ -2427,7 +2588,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Mana"
   },
   {
     "id": "tr-games-0163",
@@ -2442,7 +2604,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Stamina"
   },
   {
     "id": "tr-games-0164",
@@ -2457,7 +2620,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Crafting"
   },
   {
     "id": "tr-games-0165",
@@ -2472,7 +2636,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Quick Time Event"
   },
   {
     "id": "tr-games-0166",
@@ -2487,7 +2652,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Permadeath"
   },
   {
     "id": "tr-games-0167",
@@ -2502,7 +2668,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Fog of War"
   },
   {
     "id": "tr-games-0168",
@@ -2517,7 +2684,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Minimap"
   },
   {
     "id": "tr-games-0169",
@@ -2532,7 +2700,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Checkpoint"
   },
   {
     "id": "tr-games-0170",
@@ -2547,7 +2716,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "New Game Plus"
   },
   {
     "id": "tr-games-0171",
@@ -2562,7 +2732,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Skill Tree"
   },
   {
     "id": "tr-games-0172",
@@ -2577,7 +2748,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Side Quest"
   },
   {
     "id": "tr-games-0173",
@@ -2592,7 +2764,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Raid"
   },
   {
     "id": "tr-games-0174",
@@ -2607,7 +2780,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dungeon"
   },
   {
     "id": "tr-games-0175",
@@ -2622,7 +2796,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 4,
-    "language": "tr"
+    "language": "tr",
+    "source": "PvP"
   },
   {
     "id": "tr-games-0176",
@@ -2637,7 +2812,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "PvE"
   },
   {
     "id": "tr-games-0177",
@@ -2652,7 +2828,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Aim Assist"
   },
   {
     "id": "tr-games-0178",
@@ -2667,7 +2844,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Recoil"
   },
   {
     "id": "tr-games-0179",
@@ -2682,7 +2860,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Spray Pattern"
   },
   {
     "id": "tr-games-0180",
@@ -2697,7 +2876,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Economy Round"
   },
   {
     "id": "tr-games-0181",
@@ -2712,7 +2892,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Clutch"
   },
   {
     "id": "tr-games-0182",
@@ -2727,7 +2908,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Ace"
   },
   {
     "id": "tr-games-0183",
@@ -2742,7 +2924,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "No Scope"
   },
   {
     "id": "tr-games-0184",
@@ -2757,7 +2940,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Headshot"
   },
   {
     "id": "tr-games-0185",
@@ -2772,7 +2956,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Backstab"
   },
   {
     "id": "tr-games-0186",
@@ -2787,7 +2972,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Stealth"
   },
   {
     "id": "tr-games-0187",
@@ -2802,7 +2988,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Save Point"
   },
   {
     "id": "tr-games-0188",
@@ -2817,7 +3004,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Inventory"
   },
   {
     "id": "tr-games-0189",
@@ -2832,7 +3020,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Mount"
   },
   {
     "id": "tr-games-0190",
@@ -2847,7 +3036,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Fast Travel"
   },
   {
     "id": "tr-games-0191",
@@ -2862,7 +3052,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Dialogue Tree"
   },
   {
     "id": "tr-games-0192",
@@ -2877,7 +3068,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Morality System"
   },
   {
     "id": "tr-games-0193",
@@ -2892,7 +3084,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Procedural Generation"
   },
   {
     "id": "tr-games-0194",
@@ -2907,7 +3100,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Ray Tracing"
   },
   {
     "id": "tr-games-0195",
@@ -2922,7 +3116,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Frame Rate"
   },
   {
     "id": "tr-games-0196",
@@ -2937,7 +3132,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Input Lag"
   },
   {
     "id": "tr-games-0197",
@@ -2952,7 +3148,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Matchmaking"
   },
   {
     "id": "tr-games-0198",
@@ -2967,7 +3164,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Ranked Mode"
   },
   {
     "id": "tr-games-0199",
@@ -2982,7 +3180,8 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "Season Pass"
   },
   {
     "id": "tr-games-0200",
@@ -2997,6 +3196,1815 @@
     "category": "games",
     "type": "terim",
     "difficulty": 5,
-    "language": "tr"
+    "language": "tr",
+    "source": "DLC"
+  },
+  {
+    "id": "tr-games-0201",
+    "answer": "Malenia",
+    "forbidden": [
+      "Elden Ring",
+      "Scarlet Rot",
+      "Blade of Miquella",
+      "Waterfowl Dance",
+      "Haligtree"
+    ],
+    "category": "games",
+    "type": "boss",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Elden Ring"
+  },
+  {
+    "id": "tr-games-0202",
+    "answer": "Tarnished",
+    "forbidden": [
+      "Elden Ring",
+      "Lands Between",
+      "Grace",
+      "rune",
+      "Elden Lord"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Elden Ring"
+  },
+  {
+    "id": "tr-games-0203",
+    "answer": "Roundtable Hold",
+    "forbidden": [
+      "Elden Ring",
+      "güvenli merkez",
+      "Smithing Master Hewg",
+      "Fia",
+      "Grace"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Elden Ring"
+  },
+  {
+    "id": "tr-games-0204",
+    "answer": "Alan Wake 2",
+    "forbidden": [
+      "yazar",
+      "karanlık varlık",
+      "Saga Anderson",
+      "Bright Falls",
+      "Remedy"
+    ],
+    "category": "games",
+    "type": "oyun",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Alan Wake"
+  },
+  {
+    "id": "tr-games-0205",
+    "answer": "Bright Falls",
+    "forbidden": [
+      "Alan Wake",
+      "kasaba",
+      "Cauldron Lake",
+      "Washington",
+      "gece"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Alan Wake"
+  },
+  {
+    "id": "tr-games-0206",
+    "answer": "Clicker",
+    "forbidden": [
+      "Alan Wake",
+      "ışık anahtarı",
+      "Thomas Zane",
+      "karanlık",
+      "hikaye"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Alan Wake"
+  },
+  {
+    "id": "tr-games-0207",
+    "answer": "Sam Porter Bridges",
+    "forbidden": [
+      "Death Stranding",
+      "kargo",
+      "BB",
+      "Timefall",
+      "köprü kurmak"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Death Stranding"
+  },
+  {
+    "id": "tr-games-0208",
+    "answer": "BB Pod",
+    "forbidden": [
+      "Death Stranding",
+      "bebek",
+      "tarayıcı",
+      "BT",
+      "kapsül"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Death Stranding"
+  },
+  {
+    "id": "tr-games-0209",
+    "answer": "Timefall",
+    "forbidden": [
+      "Death Stranding",
+      "yağmur",
+      "yaşlandırmak",
+      "BT",
+      "kıyamet"
+    ],
+    "category": "games",
+    "type": "kavram",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Death Stranding"
+  },
+  {
+    "id": "tr-games-0210",
+    "answer": "Baldur’s Gate",
+    "forbidden": [
+      "D&D",
+      "Faerun",
+      "zar",
+      "parti",
+      "Larian"
+    ],
+    "category": "games",
+    "type": "oyun",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Baldur’s Gate"
+  },
+  {
+    "id": "tr-games-0211",
+    "answer": "Shadowheart",
+    "forbidden": [
+      "Baldur’s Gate 3",
+      "Shar",
+      "cleric",
+      "artifact",
+      "parti"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Baldur’s Gate"
+  },
+  {
+    "id": "tr-games-0212",
+    "answer": "Astarion",
+    "forbidden": [
+      "Baldur’s Gate 3",
+      "vampir",
+      "rogue",
+      "Cazador",
+      "parti"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Baldur’s Gate"
+  },
+  {
+    "id": "tr-games-0213",
+    "answer": "GLaDOS",
+    "forbidden": [
+      "Portal",
+      "yapay zeka",
+      "test odası",
+      "cake",
+      "Aperture"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Portal"
+  },
+  {
+    "id": "tr-games-0214",
+    "answer": "Companion Cube",
+    "forbidden": [
+      "Portal",
+      "küp",
+      "kalp",
+      "test odası",
+      "Aperture"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Portal"
+  },
+  {
+    "id": "tr-games-0215",
+    "answer": "Gordon Freeman",
+    "forbidden": [
+      "Half-Life",
+      "levye",
+      "MIT",
+      "HEV suit",
+      "Black Mesa"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Half-Life"
+  },
+  {
+    "id": "tr-games-0216",
+    "answer": "Alyx Vance",
+    "forbidden": [
+      "Half-Life 2",
+      "Direniş",
+      "City 17",
+      "Eli",
+      "Valve"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Half-Life"
+  },
+  {
+    "id": "tr-games-0217",
+    "answer": "Vortigaunt",
+    "forbidden": [
+      "Half-Life",
+      "Xen",
+      "uzaylı",
+      "enerji",
+      "Direniş"
+    ],
+    "category": "games",
+    "type": "ırk",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Half-Life"
+  },
+  {
+    "id": "tr-games-0218",
+    "answer": "Yennefer",
+    "forbidden": [
+      "The Witcher",
+      "büyücü",
+      "Vengerberg",
+      "Geralt",
+      "leylak"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "The Witcher"
+  },
+  {
+    "id": "tr-games-0219",
+    "answer": "Ciri",
+    "forbidden": [
+      "The Witcher",
+      "Elder Blood",
+      "Geralt",
+      "zaman",
+      "kırlangıç"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "The Witcher"
+  },
+  {
+    "id": "tr-games-0220",
+    "answer": "Kaer Morhen",
+    "forbidden": [
+      "The Witcher",
+      "witcher kalesi",
+      "Kurt Okulu",
+      "Vesemir",
+      "dağ"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "The Witcher"
+  },
+  {
+    "id": "tr-games-0221",
+    "answer": "Arthur Morgan",
+    "forbidden": [
+      "Red Dead Redemption 2",
+      "Van der Linde",
+      "kovboy",
+      "günlük",
+      "outlaw"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Red Dead Redemption"
+  },
+  {
+    "id": "tr-games-0222",
+    "answer": "Dutch van der Linde",
+    "forbidden": [
+      "RDR2",
+      "çete lideri",
+      "plan",
+      "Tahiti",
+      "ihanet"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Red Dead Redemption"
+  },
+  {
+    "id": "tr-games-0223",
+    "answer": "Johnny Silverhand",
+    "forbidden": [
+      "Cyberpunk",
+      "Keanu",
+      "rockerboy",
+      "Arasaka",
+      "çip"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Cyberpunk 2077"
+  },
+  {
+    "id": "tr-games-0224",
+    "answer": "Dogmeat",
+    "forbidden": [
+      "Fallout",
+      "köpek",
+      "yoldaş",
+      "wasteland",
+      "Vault"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Fallout"
+  },
+  {
+    "id": "tr-games-0225",
+    "answer": "Vault Boy",
+    "forbidden": [
+      "Fallout",
+      "maskot",
+      "pip-boy",
+      "sarı saç",
+      "SPECIAL"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Fallout"
+  },
+  {
+    "id": "tr-games-0226",
+    "answer": "Nuka-Cola",
+    "forbidden": [
+      "Fallout",
+      "kola",
+      "şişe kapağı",
+      "wasteland",
+      "Quantum"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Fallout"
+  },
+  {
+    "id": "tr-games-0227",
+    "answer": "Vault 111",
+    "forbidden": [
+      "Fallout 4",
+      "kriyo",
+      "sığınak",
+      "Sole Survivor",
+      "Boston"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Fallout"
+  },
+  {
+    "id": "tr-games-0228",
+    "answer": "Dovahkiin",
+    "forbidden": [
+      "Skyrim",
+      "Dragonborn",
+      "ejderha dili",
+      "fus ro dah",
+      "Nord"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Skyrim"
+  },
+  {
+    "id": "tr-games-0229",
+    "answer": "Whiterun",
+    "forbidden": [
+      "Skyrim",
+      "Jarl Balgruuf",
+      "Dragonsreach",
+      "pazar",
+      "şehir"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Skyrim"
+  },
+  {
+    "id": "tr-games-0230",
+    "answer": "Rupee",
+    "forbidden": [
+      "Zelda",
+      "para birimi",
+      "yeşil taş",
+      "Hyrule",
+      "sandık"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Zelda"
+  },
+  {
+    "id": "tr-games-0231",
+    "answer": "Master Sword",
+    "forbidden": [
+      "Zelda",
+      "Link",
+      "kutsal kılıç",
+      "Hyrule",
+      "Ganon"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Zelda"
+  },
+  {
+    "id": "tr-games-0232",
+    "answer": "Korok",
+    "forbidden": [
+      "Zelda",
+      "tohum",
+      "orman ruhu",
+      "Hyrule",
+      "saklanmak"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Zelda"
+  },
+  {
+    "id": "tr-games-0233",
+    "answer": "Princess Peach",
+    "forbidden": [
+      "Mario",
+      "prenses",
+      "Mushroom Kingdom",
+      "Bowser",
+      "şato"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Mario"
+  },
+  {
+    "id": "tr-games-0234",
+    "answer": "Bowser",
+    "forbidden": [
+      "Mario",
+      "kaplumbağa kral",
+      "Peach",
+      "ateş",
+      "şato"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Mario"
+  },
+  {
+    "id": "tr-games-0235",
+    "answer": "Yoshi",
+    "forbidden": [
+      "Mario",
+      "dinozor",
+      "yumurta",
+      "yeşil",
+      "dil"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Mario"
+  },
+  {
+    "id": "tr-games-0236",
+    "answer": "Hornet",
+    "forbidden": [
+      "Hollow Knight",
+      "iğne",
+      "Hallownest",
+      "Silksong",
+      "boss"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Hollow Knight"
+  },
+  {
+    "id": "tr-games-0237",
+    "answer": "Sans",
+    "forbidden": [
+      "Undertale",
+      "iskelet",
+      "mavi ceket",
+      "Megalo Strike",
+      "kötü son"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Undertale"
+  },
+  {
+    "id": "tr-games-0238",
+    "answer": "Papyrus",
+    "forbidden": [
+      "Undertale",
+      "iskelet",
+      "spagetti",
+      "bulmaca",
+      "kardeş"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Undertale"
+  },
+  {
+    "id": "tr-games-0239",
+    "answer": "Jinx",
+    "forbidden": [
+      "League of Legends",
+      "roket",
+      "çılgın",
+      "Piltover",
+      "Arcane"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "League of Legends"
+  },
+  {
+    "id": "tr-games-0240",
+    "answer": "Yasuo",
+    "forbidden": [
+      "League of Legends",
+      "rüzgar",
+      "samuray",
+      "kılıç",
+      "feed"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "League of Legends"
+  },
+  {
+    "id": "tr-games-0241",
+    "answer": "Teemo",
+    "forbidden": [
+      "League of Legends",
+      "mantar",
+      "yordle",
+      "zehir",
+      "üst koridor"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "League of Legends"
+  },
+  {
+    "id": "tr-games-0242",
+    "answer": "Baron Nashor",
+    "forbidden": [
+      "LoL",
+      "nehir",
+      "mor canavar",
+      "buff",
+      "pit"
+    ],
+    "category": "games",
+    "type": "canavar",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "League of Legends"
+  },
+  {
+    "id": "tr-games-0243",
+    "answer": "Spike",
+    "forbidden": [
+      "Valorant",
+      "bomba",
+      "kurmak",
+      "site",
+      "defuse"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Valorant"
+  },
+  {
+    "id": "tr-games-0244",
+    "answer": "Jett",
+    "forbidden": [
+      "Valorant",
+      "dash",
+      "rüzgar",
+      "duelist",
+      "Kore"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Valorant"
+  },
+  {
+    "id": "tr-games-0245",
+    "answer": "Omen",
+    "forbidden": [
+      "Valorant",
+      "smoke",
+      "teleport",
+      "gölge",
+      "controller"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Valorant"
+  },
+  {
+    "id": "tr-games-0246",
+    "answer": "Awp",
+    "forbidden": [
+      "Counter-Strike",
+      "sniper",
+      "tek vuruş",
+      "ekonomi",
+      "scope"
+    ],
+    "category": "games",
+    "type": "silah",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Counter-Strike"
+  },
+  {
+    "id": "tr-games-0247",
+    "answer": "Deagle",
+    "forbidden": [
+      "Counter-Strike",
+      "tabanca",
+      "headshot",
+      "eco",
+      "tek kurşun"
+    ],
+    "category": "games",
+    "type": "silah",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Counter-Strike"
+  },
+  {
+    "id": "tr-games-0248",
+    "answer": "Inferno",
+    "forbidden": [
+      "Counter-Strike",
+      "banana",
+      "B site",
+      "İtalya",
+      "harita"
+    ],
+    "category": "games",
+    "type": "harita",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Counter-Strike"
+  },
+  {
+    "id": "tr-games-0249",
+    "answer": "Zeus x27",
+    "forbidden": [
+      "Counter-Strike",
+      "taser",
+      "yakın mesafe",
+      "tek kullanım",
+      "şok"
+    ],
+    "category": "games",
+    "type": "silah",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Counter-Strike"
+  },
+  {
+    "id": "tr-games-0250",
+    "answer": "Herobrine",
+    "forbidden": [
+      "Minecraft",
+      "efsane",
+      "beyaz göz",
+      "Steve",
+      "maden"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Minecraft"
+  },
+  {
+    "id": "tr-games-0251",
+    "answer": "Nether",
+    "forbidden": [
+      "Minecraft",
+      "cehennem",
+      "portal",
+      "ghast",
+      "blaze"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Minecraft"
+  },
+  {
+    "id": "tr-games-0252",
+    "answer": "Redstone",
+    "forbidden": [
+      "Minecraft",
+      "devre",
+      "kızıl toz",
+      "mekanizma",
+      "piston"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Minecraft"
+  },
+  {
+    "id": "tr-games-0253",
+    "answer": "Ender Dragon",
+    "forbidden": [
+      "Minecraft",
+      "final boss",
+      "End",
+      "kristal",
+      "ejderha"
+    ],
+    "category": "games",
+    "type": "boss",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Minecraft"
+  },
+  {
+    "id": "tr-games-0254",
+    "answer": "Trevor Philips",
+    "forbidden": [
+      "GTA V",
+      "kaos",
+      "Los Santos",
+      "Michael",
+      "uçak pisti"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "GTA V"
+  },
+  {
+    "id": "tr-games-0255",
+    "answer": "Franklin Clinton",
+    "forbidden": [
+      "GTA V",
+      "Los Santos",
+      "Lamar",
+      "sürüş",
+      "gang"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "GTA V"
+  },
+  {
+    "id": "tr-games-0256",
+    "answer": "Vaas Montenegro",
+    "forbidden": [
+      "Far Cry 3",
+      "delilik",
+      "ada",
+      "korsan",
+      "monolog"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Far Cry"
+  },
+  {
+    "id": "tr-games-0257",
+    "answer": "Big Daddy",
+    "forbidden": [
+      "BioShock",
+      "Rapture",
+      "matkap",
+      "Little Sister",
+      "dalış kıyafeti"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "BioShock"
+  },
+  {
+    "id": "tr-games-0258",
+    "answer": "Little Sister",
+    "forbidden": [
+      "BioShock",
+      "ADAM",
+      "Rapture",
+      "Big Daddy",
+      "kız çocuğu"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "BioShock"
+  },
+  {
+    "id": "tr-games-0259",
+    "answer": "Commander Shepard",
+    "forbidden": [
+      "Mass Effect",
+      "Normandy",
+      "Spectre",
+      "Reaper",
+      "komutan"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Mass Effect"
+  },
+  {
+    "id": "tr-games-0260",
+    "answer": "Reaper",
+    "forbidden": [
+      "Mass Effect",
+      "dev makine",
+      "hasat",
+      "galaksi",
+      "Shepard"
+    ],
+    "category": "games",
+    "type": "ırk",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Mass Effect"
+  },
+  {
+    "id": "tr-games-0261",
+    "answer": "Mordin Solus",
+    "forbidden": [
+      "Mass Effect",
+      "salarian",
+      "doktor",
+      "genophage",
+      "şarkı"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Mass Effect"
+  },
+  {
+    "id": "tr-games-0262",
+    "answer": "Commander Keen",
+    "forbidden": [
+      "id Software",
+      "platform",
+      "çocuk",
+      "raygun",
+      "eski oyun"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Commander Keen"
+  },
+  {
+    "id": "tr-games-0263",
+    "answer": "Doom Slayer",
+    "forbidden": [
+      "Doom",
+      "iblis",
+      "chainsaw",
+      "Mars",
+      "rip and tear"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Doom"
+  },
+  {
+    "id": "tr-games-0264",
+    "answer": "BFG 9000",
+    "forbidden": [
+      "Doom",
+      "dev silah",
+      "plazma",
+      "iblis",
+      "yeşil enerji"
+    ],
+    "category": "games",
+    "type": "silah",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Doom"
+  },
+  {
+    "id": "tr-games-0265",
+    "answer": "Pyramid Head",
+    "forbidden": [
+      "Silent Hill",
+      "kılıç",
+      "kask",
+      "korku",
+      "ceza"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Silent Hill"
+  },
+  {
+    "id": "tr-games-0266",
+    "answer": "Heather Mason",
+    "forbidden": [
+      "Silent Hill 3",
+      "korku",
+      "Alessa",
+      "kült",
+      "alışveriş merkezi"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Silent Hill"
+  },
+  {
+    "id": "tr-games-0267",
+    "answer": "Leon Kennedy",
+    "forbidden": [
+      "Resident Evil",
+      "Raccoon",
+      "polis",
+      "zombi",
+      "Ada Wong"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Resident Evil"
+  },
+  {
+    "id": "tr-games-0268",
+    "answer": "Jill Valentine",
+    "forbidden": [
+      "Resident Evil",
+      "S.T.A.R.S.",
+      "Nemesis",
+      "Raccoon",
+      "zombi"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Resident Evil"
+  },
+  {
+    "id": "tr-games-0269",
+    "answer": "Nemesis",
+    "forbidden": [
+      "Resident Evil 3",
+      "STARS",
+      "roketatar",
+      "takip",
+      "mutant"
+    ],
+    "category": "games",
+    "type": "canavar",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Resident Evil"
+  },
+  {
+    "id": "tr-games-0270",
+    "answer": "Hideo Kojima",
+    "forbidden": [
+      "Metal Gear",
+      "Death Stranding",
+      "oyun yönetmeni",
+      "cinematic",
+      "Japon"
+    ],
+    "category": "games",
+    "type": "yaratıcı",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Metal Gear"
+  },
+  {
+    "id": "tr-games-0271",
+    "answer": "Solid Snake",
+    "forbidden": [
+      "Metal Gear",
+      "kutu",
+      "gizlilik",
+      "codec",
+      "klon"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Metal Gear"
+  },
+  {
+    "id": "tr-games-0272",
+    "answer": "Sephiroth",
+    "forbidden": [
+      "Final Fantasy VII",
+      "Masamune",
+      "tek kanat",
+      "Cloud",
+      "meteor"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Final Fantasy"
+  },
+  {
+    "id": "tr-games-0273",
+    "answer": "Cloud Strife",
+    "forbidden": [
+      "Final Fantasy VII",
+      "buster sword",
+      "Tifa",
+      "Midgar",
+      "SOLDIER"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Final Fantasy"
+  },
+  {
+    "id": "tr-games-0274",
+    "answer": "Morgana",
+    "forbidden": [
+      "Persona 5",
+      "kedi",
+      "Phantom Thieves",
+      "otobüs",
+      "metaverse"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Persona 5"
+  },
+  {
+    "id": "tr-games-0275",
+    "answer": "Palico",
+    "forbidden": [
+      "Monster Hunter",
+      "kedi yoldaş",
+      "av",
+      "zırh",
+      "Capcom"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Monster Hunter"
+  },
+  {
+    "id": "tr-games-0276",
+    "answer": "Rathalos",
+    "forbidden": [
+      "Monster Hunter",
+      "uçan wyvern",
+      "ateş",
+      "Capcom",
+      "av"
+    ],
+    "category": "games",
+    "type": "canavar",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Monster Hunter"
+  },
+  {
+    "id": "tr-games-0277",
+    "answer": "Kirby",
+    "forbidden": [
+      "pembe",
+      "emme gücü",
+      "Nintendo",
+      "Dream Land",
+      "kopya yetenek"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Kirby"
+  },
+  {
+    "id": "tr-games-0278",
+    "answer": "Samus Aran",
+    "forbidden": [
+      "Metroid",
+      "power suit",
+      "bounty hunter",
+      "uzay",
+      "Nintendo"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Metroid"
+  },
+  {
+    "id": "tr-games-0279",
+    "answer": "Ridley",
+    "forbidden": [
+      "Metroid",
+      "uzay korsanı",
+      "ejderha",
+      "Samus",
+      "boss"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Metroid"
+  },
+  {
+    "id": "tr-games-0280",
+    "answer": "Fox McCloud",
+    "forbidden": [
+      "Star Fox",
+      "Arwing",
+      "tilki",
+      "Nintendo",
+      "uzay pilotu"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Star Fox"
+  },
+  {
+    "id": "tr-games-0281",
+    "answer": "Captain Falcon",
+    "forbidden": [
+      "F-Zero",
+      "Blue Falcon",
+      "Falcon Punch",
+      "yarış",
+      "Nintendo"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "F-Zero"
+  },
+  {
+    "id": "tr-games-0282",
+    "answer": "Solaire of Astora",
+    "forbidden": [
+      "Dark Souls",
+      "Praise the Sun",
+      "güneş",
+      "şövalye",
+      "Lordran"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Dark Souls"
+  },
+  {
+    "id": "tr-games-0283",
+    "answer": "Bonfire",
+    "forbidden": [
+      "Dark Souls",
+      "checkpoint",
+      "ateş",
+      "estus",
+      "ölüm"
+    ],
+    "category": "games",
+    "type": "nesne",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Dark Souls"
+  },
+  {
+    "id": "tr-games-0284",
+    "answer": "Hunter’s Dream",
+    "forbidden": [
+      "Bloodborne",
+      "rüya",
+      "Gehrman",
+      "atölye",
+      "Yharnam"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Bloodborne"
+  },
+  {
+    "id": "tr-games-0285",
+    "answer": "Lady Maria",
+    "forbidden": [
+      "Bloodborne",
+      "Astral Clocktower",
+      "avcı",
+      "kılıç",
+      "DLC"
+    ],
+    "category": "games",
+    "type": "boss",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Bloodborne"
+  },
+  {
+    "id": "tr-games-0286",
+    "answer": "Genichiro Ashina",
+    "forbidden": [
+      "Sekiro",
+      "yıldırım",
+      "Ashina",
+      "ok",
+      "boss"
+    ],
+    "category": "games",
+    "type": "boss",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sekiro"
+  },
+  {
+    "id": "tr-games-0287",
+    "answer": "2B",
+    "forbidden": [
+      "NieR Automata",
+      "android",
+      "göz bandı",
+      "YoRHa",
+      "kılıç"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "NieR Automata"
+  },
+  {
+    "id": "tr-games-0288",
+    "answer": "9S",
+    "forbidden": [
+      "NieR Automata",
+      "scanner",
+      "android",
+      "hack",
+      "YoRHa"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "NieR Automata"
+  },
+  {
+    "id": "tr-games-0289",
+    "answer": "Bayonetta",
+    "forbidden": [
+      "cadı",
+      "saç",
+      "tabanca",
+      "PlatinumGames",
+      "combo"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Bayonetta"
+  },
+  {
+    "id": "tr-games-0290",
+    "answer": "Dante",
+    "forbidden": [
+      "Devil May Cry",
+      "şeytan avcısı",
+      "Rebellion",
+      "kırmızı ceket",
+      "combo"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Devil May Cry"
+  },
+  {
+    "id": "tr-games-0291",
+    "answer": "Vergil",
+    "forbidden": [
+      "Devil May Cry",
+      "Yamato",
+      "motivasyon",
+      "Dante",
+      "mavi ceket"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Devil May Cry"
+  },
+  {
+    "id": "tr-games-0292",
+    "answer": "Tracer",
+    "forbidden": [
+      "Overwatch",
+      "blink",
+      "pulse bomb",
+      "Londra",
+      "hero shooter"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Overwatch"
+  },
+  {
+    "id": "tr-games-0293",
+    "answer": "Mercy",
+    "forbidden": [
+      "Overwatch",
+      "healer",
+      "kanat",
+      "rez",
+      "İsviçre"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Overwatch"
+  },
+  {
+    "id": "tr-games-0294",
+    "answer": "Winston",
+    "forbidden": [
+      "Overwatch",
+      "goril",
+      "Tesla Cannon",
+      "ay üssü",
+      "tank"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Overwatch"
+  },
+  {
+    "id": "tr-games-0295",
+    "answer": "Chell",
+    "forbidden": [
+      "Portal",
+      "sessiz karakter",
+      "portal gun",
+      "Aperture",
+      "test"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Portal"
+  },
+  {
+    "id": "tr-games-0296",
+    "answer": "Atlas ve P-Body",
+    "forbidden": [
+      "Portal 2",
+      "co-op",
+      "robot",
+      "test odası",
+      "turuncu mavi"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Portal"
+  },
+  {
+    "id": "tr-games-0297",
+    "answer": "Clementine",
+    "forbidden": [
+      "The Walking Dead Game",
+      "şapka",
+      "zombi",
+      "Lee",
+      "Telltale"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "The Walking Dead Game"
+  },
+  {
+    "id": "tr-games-0298",
+    "answer": "Lee Everett",
+    "forbidden": [
+      "Telltale",
+      "Clementine",
+      "öğretmen",
+      "zombi",
+      "fedakarlık"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "The Walking Dead Game"
+  },
+  {
+    "id": "tr-games-0299",
+    "answer": "Disco Elysium Thought Cabinet",
+    "forbidden": [
+      "düşünce",
+      "dedektif",
+      "RPG",
+      "iç ses",
+      "Revachol"
+    ],
+    "category": "games",
+    "type": "mekanik",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Disco Elysium"
+  },
+  {
+    "id": "tr-games-0300",
+    "answer": "Kim Kitsuragi",
+    "forbidden": [
+      "Disco Elysium",
+      "teğmen",
+      "Revachol",
+      "gözlük",
+      "sakin"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Disco Elysium"
+  },
+  {
+    "id": "tr-games-0301",
+    "answer": "King Dice",
+    "forbidden": [
+      "Cuphead",
+      "zar",
+      "casino",
+      "şarkı",
+      "boss"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Cuphead"
+  },
+  {
+    "id": "tr-games-0302",
+    "answer": "Celeste Mountain",
+    "forbidden": [
+      "Madeline",
+      "tırmanış",
+      "platform",
+      "kaygı",
+      "zirve"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Celeste"
+  },
+  {
+    "id": "tr-games-0303",
+    "answer": "Madeline",
+    "forbidden": [
+      "Celeste",
+      "tırmanıcı",
+      "anksiyete",
+      "dağ",
+      "platform"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Celeste"
+  },
+  {
+    "id": "tr-games-0304",
+    "answer": "Ranni the Witch",
+    "forbidden": [
+      "Elden Ring",
+      "ay cadısı",
+      "dört kol",
+      "quest",
+      "Lands Between"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Elden Ring"
+  },
+  {
+    "id": "tr-games-0305",
+    "answer": "Cauldron Lake",
+    "forbidden": [
+      "Alan Wake",
+      "göl",
+      "karanlık varlık",
+      "Bright Falls",
+      "yazar"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Alan Wake"
+  },
+  {
+    "id": "tr-games-0306",
+    "answer": "Fragile",
+    "forbidden": [
+      "Death Stranding",
+      "şemsiye",
+      "timefall",
+      "kargo şirketi",
+      "Higgs"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Death Stranding"
+  },
+  {
+    "id": "tr-games-0307",
+    "answer": "Elden Beast",
+    "forbidden": [
+      "Elden Ring",
+      "final boss",
+      "kozmik",
+      "Erdtree",
+      "Remembrance"
+    ],
+    "category": "games",
+    "type": "boss",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Elden Ring"
+  },
+  {
+    "id": "tr-games-0308",
+    "answer": "Saga Anderson",
+    "forbidden": [
+      "Alan Wake 2",
+      "FBI",
+      "Mind Place",
+      "Bright Falls",
+      "dedektif"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Alan Wake"
+  },
+  {
+    "id": "tr-games-0309",
+    "answer": "Higgs Monaghan",
+    "forbidden": [
+      "Death Stranding",
+      "maskeli",
+      "terörist",
+      "BT",
+      "Amelie"
+    ],
+    "category": "games",
+    "type": "karakter",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Death Stranding"
+  },
+  {
+    "id": "tr-games-0310",
+    "answer": "Erdtree",
+    "forbidden": [
+      "Elden Ring",
+      "altın ağaç",
+      "Grace",
+      "Lands Between",
+      "Greater Will"
+    ],
+    "category": "games",
+    "type": "mekan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Elden Ring"
+  },
+  {
+    "id": "tr-games-0311",
+    "answer": "Dark Presence",
+    "forbidden": [
+      "Alan Wake",
+      "karanlık varlık",
+      "Cauldron Lake",
+      "yazar",
+      "ışık"
+    ],
+    "category": "games",
+    "type": "kavram",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Alan Wake"
+  },
+  {
+    "id": "tr-games-0312",
+    "answer": "Chiral Network",
+    "forbidden": [
+      "Death Stranding",
+      "bağlantı ağı",
+      "UCA",
+      "kargo",
+      "Kojima"
+    ],
+    "category": "games",
+    "type": "kavram",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Death Stranding"
+  },
+  {
+    "id": "tr-games-0313",
+    "answer": "Torrent",
+    "forbidden": [
+      "Elden Ring",
+      "ruh atı",
+      "Spectral Steed",
+      "çift zıplama",
+      "Melina"
+    ],
+    "category": "games",
+    "type": "binit",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Elden Ring"
   }
 ]

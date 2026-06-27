@@ -3,1500 +3,3264 @@
     "id": "tr-animals-0001",
     "answer": "Kedi",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "miyav",
+      "pati",
+      "evcil",
+      "tüy",
+      "mama"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0002",
     "answer": "Köpek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "havlamak",
+      "sadık",
+      "tasma",
+      "pati",
+      "evcil"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0003",
     "answer": "Aslan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "yelesi",
+      "kükreme",
+      "savan",
+      "kral",
+      "sürü"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0004",
     "answer": "Kaplan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "çizgili",
+      "orman",
+      "büyük kedi",
+      "avcı",
+      "turuncu"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0005",
     "answer": "Leopar",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "benek",
+      "avcı",
+      "ağaç",
+      "büyük kedi",
+      "kamuflaj"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0006",
     "answer": "Çita",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "hızlı",
+      "benek",
+      "savan",
+      "koşmak",
+      "avcı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0007",
     "answer": "Kurt",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "uluma",
+      "sürü",
+      "orman",
+      "ay",
+      "vahşi"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0008",
     "answer": "Tilki",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kurnaz",
+      "kızıl",
+      "kuyruk",
+      "orman",
+      "gece"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0009",
     "answer": "Ayı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "pençe",
+      "bal",
+      "orman",
+      "kış uykusu",
+      "iri"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0010",
     "answer": "Panda",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "bambu",
+      "siyah beyaz",
+      "Çin",
+      "ayı",
+      "sevimli"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0011",
     "answer": "Koala",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "okaliptüs",
+      "Avustralya",
+      "uyku",
+      "ağaç",
+      "keseli"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0012",
     "answer": "Kanguru",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "zıplamak",
+      "keseli",
+      "Avustralya",
+      "yavru",
+      "kuyruk"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0013",
     "answer": "Fil",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "hortum",
+      "fildişi",
+      "büyük",
+      "Afrika",
+      "kulak"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0014",
     "answer": "Zürafa",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "uzun boyun",
+      "benek",
+      "savan",
+      "ağaç yaprağı",
+      "Afrika"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0015",
     "answer": "Zebra",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "siyah beyaz",
+      "çizgi",
+      "savan",
+      "atgiller",
+      "sürü"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0016",
     "answer": "At",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "dörtnal",
+      "eyer",
+      "nal",
+      "binmek",
+      "tay"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0017",
     "answer": "Eşek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "anırmak",
+      "yük taşımak",
+      "inatçı",
+      "çiftlik",
+      "kulak"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0018",
     "answer": "İnek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "süt",
+      "mölemek",
+      "çiftlik",
+      "buzağı",
+      "ot"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0019",
     "answer": "Koyun",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "yün",
+      "melemek",
+      "sürü",
+      "çoban",
+      "kuzu"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0020",
     "answer": "Keçi",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "boynuz",
+      "tırmanmak",
+      "süt",
+      "inatçı",
+      "oğlak"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0021",
     "answer": "Tavuk",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "yumurta",
+      "gıdak",
+      "kümes",
+      "civciv",
+      "kanat"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0022",
     "answer": "Horoz",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "ötmek",
+      "sabah",
+      "ibik",
+      "tavuk",
+      "kümes"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0023",
     "answer": "Ördek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "vaklamak",
+      "gaga",
+      "su kuşu",
+      "göl",
+      "perde ayak"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0024",
     "answer": "Kaz",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "gagalı",
+      "sürü",
+      "tüy",
+      "göl",
+      "kaz ciğeri"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0025",
     "answer": "Kartal",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "pençe",
+      "gaga",
+      "avcı kuş",
+      "yüksek",
+      "kanat"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0026",
     "answer": "Şahin",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "yırtıcı",
+      "pençe",
+      "göz",
+      "av",
+      "kanat"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0027",
     "answer": "Baykuş",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "gece",
+      "ötmek",
+      "bilgelik",
+      "göz",
+      "avcı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0028",
     "answer": "Penguen",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "Antarktika",
+      "siyah beyaz",
+      "buz",
+      "yüzmek",
+      "koloni"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0029",
     "answer": "Martı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "deniz",
+      "sahil",
+      "çığlık",
+      "balık",
+      "beyaz"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0030",
     "answer": "Papağan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "konuşmak",
+      "renkli",
+      "gaga",
+      "kafes",
+      "tropik"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0031",
     "answer": "Serçe",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "küçük kuş",
+      "şehir",
+      "cıvıltı",
+      "tohum",
+      "yuva"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0032",
     "answer": "Güvercin",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "şehir",
+      "posta",
+      "meydan",
+      "gaga",
+      "kanat"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0033",
     "answer": "Flamingo",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "pembe",
+      "tek ayak",
+      "lagün",
+      "uzun bacak",
+      "karides"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0034",
     "answer": "Tavus Kuşu",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "renkli kuyruk",
+      "gösteriş",
+      "tüy",
+      "erkek",
+      "bahçe"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0035",
     "answer": "Deve",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "hörgüç",
+      "çöl",
+      "kervan",
+      "susuzluk",
+      "yük"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0036",
     "answer": "Lama",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "And Dağları",
+      "tükürmek",
+      "yün",
+      "Güney Amerika",
+      "alpaka"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0037",
     "answer": "Alpaka",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "yün",
+      "And",
+      "lama",
+      "sürü",
+      "tüy"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0038",
     "answer": "Gergedan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "boynuz",
+      "kalın deri",
+      "Afrika",
+      "otçul",
+      "ağır"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0039",
     "answer": "Su Aygırı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "nehir",
+      "Afrika",
+      "iri ağız",
+      "tehlikeli",
+      "çamur"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0040",
     "answer": "Timsah",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "çene",
+      "sürüngen",
+      "nehir",
+      "diş",
+      "bataklık"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0041",
     "answer": "Yılan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "sürünmek",
+      "zehir",
+      "deri değiştirme",
+      "diş",
+      "kobra"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0042",
     "answer": "Kertenkele",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "sürüngen",
+      "kuyruk",
+      "güneşlenmek",
+      "pul",
+      "duvar"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0043",
     "answer": "Kaplumbağa",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kabuk",
+      "yavaş",
+      "sürüngen",
+      "kara",
+      "deniz"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0044",
     "answer": "Kurbağa",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "vırak",
+      "zıplamak",
+      "bataklık",
+      "iribaş",
+      "amfibi"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0045",
     "answer": "Semender",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "amfibi",
+      "nemli",
+      "kuyruk",
+      "orman",
+      "salamander"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0046",
     "answer": "Balina",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "okyanus",
+      "dev",
+      "memeli",
+      "şarkı",
+      "kuyruk"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0047",
     "answer": "Yunus",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "zeka",
+      "deniz",
+      "sıçramak",
+      "sonar",
+      "memeli"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0048",
     "answer": "Köpekbalığı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "yüzgeç",
+      "diş",
+      "okyanus",
+      "avcı",
+      "çene"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0049",
     "answer": "Ahtapot",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "sekiz kol",
+      "mürekkep",
+      "deniz",
+      "zeka",
+      "vantuz"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0050",
     "answer": "Kalamar",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "mürekkep",
+      "tentakül",
+      "deniz",
+      "halkası",
+      "yumuşakça"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0051",
     "answer": "Denizanası",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "şeffaf",
+      "dokunaç",
+      "yakmak",
+      "deniz",
+      "jelatin"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0052",
     "answer": "Yengeç",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kıskaç",
+      "yan yürümek",
+      "kabuk",
+      "sahil",
+      "eklem bacaklı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0053",
     "answer": "Istakoz",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kıskaç",
+      "deniz",
+      "kabuk",
+      "lüks yemek",
+      "kırmızı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0054",
     "answer": "Karınca",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "koloni",
+      "yuva",
+      "çalışkan",
+      "küçük",
+      "kraliçe"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0055",
     "answer": "Arı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "bal",
+      "kovan",
+      "iğne",
+      "çiçek",
+      "polen"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0056",
     "answer": "Kelebek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kanat",
+      "tırtıl",
+      "koza",
+      "renkli",
+      "çiçek"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0057",
     "answer": "Sinek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "vızıldamak",
+      "kanat",
+      "ev",
+      "çöp",
+      "böcek"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0058",
     "answer": "Sivrisinek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kan emmek",
+      "kaşıntı",
+      "vızıltı",
+      "gece",
+      "bataklık"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0059",
     "answer": "Örümcek",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "ağ",
+      "sekiz bacak",
+      "zehir",
+      "av",
+      "eklem bacaklı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0060",
     "answer": "Akrep",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kıskaç",
+      "zehir",
+      "kuyruk",
+      "çöl",
+      "iğne"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0061",
     "answer": "Hamamböceği",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "mutfak",
+      "haşere",
+      "gece",
+      "dayanıklı",
+      "böcek"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0062",
     "answer": "Uğur Böceği",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kırmızı",
+      "benek",
+      "şans",
+      "yaprak biti",
+      "böcek"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0063",
     "answer": "Kirpi",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "diken",
+      "top olmak",
+      "gece",
+      "bahçe",
+      "memeli"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0064",
     "answer": "Sincap",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "ceviz",
+      "ağaç",
+      "kuyruk",
+      "kemirgen",
+      "palamut"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0065",
     "answer": "Tavşan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "havuç",
+      "uzun kulak",
+      "zıplamak",
+      "kemirgen",
+      "yuva"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0066",
     "answer": "Fare",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "peynir",
+      "kemirgen",
+      "küçük",
+      "kuyruk",
+      "laboratuvar"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0067",
     "answer": "Sıçan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "lağım",
+      "kemirgen",
+      "büyük fare",
+      "şehir",
+      "sürü"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0068",
     "answer": "Yarasa",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "gece",
+      "mağara",
+      "ultrason",
+      "kanat",
+      "memeli"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0069",
     "answer": "Maymun",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "muz",
+      "ağaç",
+      "primat",
+      "tırmanmak",
+      "zeka"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0070",
     "answer": "Goril",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "primat",
+      "güçlü",
+      "orman",
+      "gümüş sırt",
+      "Afrika"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0071",
     "answer": "Şempanze",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "primat",
+      "zeka",
+      "alet",
+      "orman",
+      "insansı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0072",
     "answer": "Orangutan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "turuncu",
+      "primat",
+      "Borneo",
+      "ağaç",
+      "uzun kol"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0073",
     "answer": "Rakun",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "maske",
+      "çöp",
+      "pati",
+      "Kuzey Amerika",
+      "yıkamak"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0074",
     "answer": "Kunduz",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "baraj",
+      "diş",
+      "ağaç kemirmek",
+      "nehir",
+      "kuyruk"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0075",
     "answer": "Su Samuru",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "nehir",
+      "oyuncu",
+      "balık",
+      "pati",
+      "kürk"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0076",
     "answer": "Fok",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "deniz",
+      "palet",
+      "bıyık",
+      "kutup",
+      "balık"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0077",
     "answer": "Mors",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "diş",
+      "Arktik",
+      "bıyık",
+      "deniz",
+      "iri"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0078",
     "answer": "Kutup Ayısı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "buz",
+      "Arktik",
+      "beyaz",
+      "avcı",
+      "fok"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0079",
     "answer": "Vaşak",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "kulak püskülü",
+      "yaban kedisi",
+      "orman",
+      "avcı",
+      "benek"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0080",
     "answer": "Sırtlan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "leş",
+      "kahkaha",
+      "Afrika",
+      "sürü",
+      "çene"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0081",
     "answer": "Çakal",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "uluma",
+      "sürü",
+      "tilki",
+      "gece",
+      "avcı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0082",
     "answer": "Geyik",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "boynuz",
+      "orman",
+      "otçul",
+      "zarif",
+      "sürü"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0083",
     "answer": "Ceylan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "hızlı",
+      "zarif",
+      "bozkır",
+      "otçul",
+      "antilop"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0084",
     "answer": "Antilop",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "boynuz",
+      "savan",
+      "sürü",
+      "hızlı",
+      "otçul"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0085",
     "answer": "Domuz",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "burun",
+      "çamur",
+      "çiftlik",
+      "omnivor",
+      "yaban"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0086",
     "answer": "Yaban Domuzu",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "diş",
+      "orman",
+      "saldırgan",
+      "çamur",
+      "sürü"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0087",
     "answer": "Bukalemun",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "renk değiştirmek",
+      "dil",
+      "sürüngen",
+      "kamuflaj",
+      "göz"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0088",
     "answer": "Komodo Ejderi",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "dev kertenkele",
+      "Endonezya",
+      "zehirli ısırık",
+      "sürüngen",
+      "ada"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0089",
     "answer": "Mürekkep Balığı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "renk değiştirme",
+      "mürekkep",
+      "deniz",
+      "kamuflaj",
+      "kafadan bacaklı"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0090",
     "answer": "Denizatı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "at şekli",
+      "erkek doğurur",
+      "deniz",
+      "küçük",
+      "kuyruk"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0091",
     "answer": "Mercan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "resif",
+      "polip",
+      "deniz",
+      "renkli",
+      "koloni"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0092",
     "answer": "Somon",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "akıntıya karşı",
+      "nehir",
+      "yumurtlama",
+      "pembe et",
+      "balık"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0093",
     "answer": "Alabalık",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "soğuk su",
+      "dere",
+      "benek",
+      "olta",
+      "balık"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0094",
     "answer": "Pirana",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "keskin diş",
+      "Amazon",
+      "sürü",
+      "etçil",
+      "balık"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0095",
     "answer": "Kılıç Balığı",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "uzun burun",
+      "hızlı",
+      "okyanus",
+      "avcı",
+      "balık"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0096",
     "answer": "Ornitorenk",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "gagalı memeli",
+      "yumurta",
+      "Avustralya",
+      "zehir",
+      "kunduz kuyruğu"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0097",
     "answer": "Karınca Yiyen",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "uzun dil",
+      "termit",
+      "burun",
+      "Güney Amerika",
+      "pençe"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0098",
     "answer": "Tembel Hayvan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "yavaş",
+      "ağaç",
+      "uyku",
+      "Orta Amerika",
+      "tırnak"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0099",
     "answer": "Armadillo",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "zırh",
+      "top olmak",
+      "Güney Amerika",
+      "kabuk",
+      "memeli"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
   },
   {
     "id": "tr-animals-0100",
     "answer": "Çıngıraklı Yılan",
     "forbidden": [
-      "hayvan",
-      "doğa",
-      "tür",
-      "yaşam alanı",
-      "canlı"
+      "zehir",
+      "kuyruk sesi",
+      "çöl",
+      "sürüngen",
+      "diş"
     ],
     "category": "animals",
     "type": "hayvan",
     "difficulty": 1,
-    "language": "tr"
+    "language": "tr",
+    "source": "Hayvanlar"
+  },
+  {
+    "id": "tr-animals-0101",
+    "answer": "Kızıl Panda",
+    "forbidden": [
+      "bambu",
+      "kızıl kürk",
+      "Himalaya",
+      "ağaç",
+      "rakun değil"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0102",
+    "answer": "Kar Leoparı",
+    "forbidden": [
+      "yüksek dağ",
+      "benek",
+      "Himalaya",
+      "soğuk",
+      "uzun kuyruk"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0103",
+    "answer": "Vaquita",
+    "forbidden": [
+      "küçük yunus",
+      "Kaliforniya Körfezi",
+      "nesli tehlikede",
+      "porpoise",
+      "ağ"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0104",
+    "answer": "Narval",
+    "forbidden": [
+      "tek boynuz",
+      "Arktik",
+      "diş",
+      "balina",
+      "buz"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0105",
+    "answer": "Beluga",
+    "forbidden": [
+      "beyaz balina",
+      "Arktik",
+      "ses",
+      "kafa çıkıntısı",
+      "sürü"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0106",
+    "answer": "Orka",
+    "forbidden": [
+      "katil balina",
+      "siyah beyaz",
+      "sürü avı",
+      "okyanus",
+      "yırtıcı"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0107",
+    "answer": "Manta Vatozu",
+    "forbidden": [
+      "kanat gibi yüzgeç",
+      "plankton",
+      "okyanus",
+      "dev",
+      "süzülmek"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0108",
+    "answer": "Elektrikli Yılan Balığı",
+    "forbidden": [
+      "elektrik şoku",
+      "Amazon",
+      "tatlı su",
+      "av",
+      "volt"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0109",
+    "answer": "Balon Balığı",
+    "forbidden": [
+      "şişmek",
+      "zehir",
+      "Japon yemeği",
+      "deniz",
+      "diken"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0110",
+    "answer": "Fener Balığı",
+    "forbidden": [
+      "ışıklı yem",
+      "derin deniz",
+      "karanlık",
+      "diş",
+      "avcı"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0111",
+    "answer": "Aslan Balığı",
+    "forbidden": [
+      "zehirli diken",
+      "çizgili",
+      "resif",
+      "istilacı",
+      "yüzgeç"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0112",
+    "answer": "Müren",
+    "forbidden": [
+      "resif",
+      "uzun gövde",
+      "keskin diş",
+      "delik",
+      "deniz"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0113",
+    "answer": "Deniz Kaplumbağası",
+    "forbidden": [
+      "yumurtlama sahili",
+      "kabuk",
+      "okyanus",
+      "caretta",
+      "yüzgeç"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Sürüngenler"
+  },
+  {
+    "id": "tr-animals-0114",
+    "answer": "Yeşil Anakonda",
+    "forbidden": [
+      "dev yılan",
+      "Amazon",
+      "boğmak",
+      "su",
+      "Güney Amerika"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Sürüngenler"
+  },
+  {
+    "id": "tr-animals-0115",
+    "answer": "Kral Kobra",
+    "forbidden": [
+      "zehir",
+      "Hindistan",
+      "başlık",
+      "yılan",
+      "tehlikeli"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Sürüngenler"
+  },
+  {
+    "id": "tr-animals-0116",
+    "answer": "İguana",
+    "forbidden": [
+      "sürüngen",
+      "yeşil",
+      "güneşlenmek",
+      "kuyruk",
+      "otçul"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Sürüngenler"
+  },
+  {
+    "id": "tr-animals-0117",
+    "answer": "Gila Canavarı",
+    "forbidden": [
+      "zehirli kertenkele",
+      "çöl",
+      "ABD",
+      "turuncu desen",
+      "ısırık"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Sürüngenler"
+  },
+  {
+    "id": "tr-animals-0118",
+    "answer": "Okapi",
+    "forbidden": [
+      "zürafa akrabası",
+      "çizgili bacak",
+      "Kongo",
+      "orman",
+      "uzun dil"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0119",
+    "answer": "Tapir",
+    "forbidden": [
+      "uzun burun",
+      "orman",
+      "su",
+      "otçul",
+      "Güney Amerika"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0120",
+    "answer": "Bizon",
+    "forbidden": [
+      "Amerika bozkırı",
+      "hörgüç",
+      "sürü",
+      "boynuz",
+      "otçul"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0121",
+    "answer": "Misk Öküzü",
+    "forbidden": [
+      "Arktik",
+      "kalın kürk",
+      "boynuz",
+      "sürü",
+      "soğuk"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0122",
+    "answer": "Wombat",
+    "forbidden": [
+      "Avustralya",
+      "keseli",
+      "küp dışkı",
+      "kazmak",
+      "gece"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0123",
+    "answer": "Tazmanya Canavarı",
+    "forbidden": [
+      "keseli",
+      "çığlık",
+      "Tazmanya",
+      "leş",
+      "ısırık"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0124",
+    "answer": "Quokka",
+    "forbidden": [
+      "Avustralya",
+      "gülümseyen",
+      "keseli",
+      "ada",
+      "küçük"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0125",
+    "answer": "Kapibara",
+    "forbidden": [
+      "en büyük kemirgen",
+      "su kenarı",
+      "Güney Amerika",
+      "sakin",
+      "sürü"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0126",
+    "answer": "Fossa",
+    "forbidden": [
+      "Madagaskar",
+      "lemur avcısı",
+      "kedi benzeri",
+      "orman",
+      "yırtıcı"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0127",
+    "answer": "Aye-aye",
+    "forbidden": [
+      "Madagaskar",
+      "uzun parmak",
+      "gece",
+      "lemur",
+      "ağaç"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0128",
+    "answer": "Pangolin",
+    "forbidden": [
+      "pullar",
+      "karınca",
+      "yuvarlanmak",
+      "kaçakçılık",
+      "memeli"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0129",
+    "answer": "Dhole",
+    "forbidden": [
+      "Asya yaban köpeği",
+      "sürü",
+      "kızıl kürk",
+      "av",
+      "orman"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0130",
+    "answer": "Manul",
+    "forbidden": [
+      "Pallas kedisi",
+      "yuvarlak yüz",
+      "bozkır",
+      "soğuk",
+      "vahşi kedi"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0131",
+    "answer": "Serval",
+    "forbidden": [
+      "Afrika kedisi",
+      "uzun bacak",
+      "büyük kulak",
+      "av",
+      "benek"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0132",
+    "answer": "Karakulak",
+    "forbidden": [
+      "siyah kulak püskülü",
+      "çöl kedisi",
+      "zıplamak",
+      "av",
+      "Afrika"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0133",
+    "answer": "Bal Porsuğu",
+    "forbidden": [
+      "korkusuz",
+      "bal",
+      "kalın deri",
+      "Afrika",
+      "porsuk"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0134",
+    "answer": "Yeleli Kurt",
+    "forbidden": [
+      "uzun bacak",
+      "Güney Amerika",
+      "kızıl kürk",
+      "otlak",
+      "tilki benzeri"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0135",
+    "answer": "Sekreter Kuşu",
+    "forbidden": [
+      "uzun bacak",
+      "yılan avı",
+      "Afrika",
+      "kirpik",
+      "yırtıcı kuş"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0136",
+    "answer": "Albatros",
+    "forbidden": [
+      "çok geniş kanat",
+      "okyanus",
+      "uzun uçuş",
+      "deniz kuşu",
+      "rüzgar"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0137",
+    "answer": "Puffin",
+    "forbidden": [
+      "renkli gaga",
+      "Kuzey Atlantik",
+      "balık",
+      "uçurum",
+      "deniz kuşu"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0138",
+    "answer": "Kakapo",
+    "forbidden": [
+      "uçamayan papağan",
+      "Yeni Zelanda",
+      "gece",
+      "yeşil",
+      "nesli tehlikede"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0139",
+    "answer": "Kasuar",
+    "forbidden": [
+      "miğfer",
+      "Avustralya",
+      "uçamayan",
+      "tehlikeli tekme",
+      "orman"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0140",
+    "answer": "Kiwi",
+    "forbidden": [
+      "Yeni Zelanda",
+      "uçamayan",
+      "uzun gaga",
+      "gece",
+      "küçük kuş"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0141",
+    "answer": "Kral Penguen",
+    "forbidden": [
+      "Antarktika çevresi",
+      "turuncu boyun",
+      "koloni",
+      "balık",
+      "soğuk"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0142",
+    "answer": "Kuzgun",
+    "forbidden": [
+      "zeki kuş",
+      "siyah",
+      "karga akrabası",
+      "ses taklidi",
+      "mitoloji"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0143",
+    "answer": "Saksağan",
+    "forbidden": [
+      "parlak eşya",
+      "siyah beyaz",
+      "karga akrabası",
+      "akıllı",
+      "yuva"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0144",
+    "answer": "Kolibri",
+    "forbidden": [
+      "nektar",
+      "havada asılı",
+      "çok hızlı kanat",
+      "küçük",
+      "çiçek"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0145",
+    "answer": "Arı Kuşu",
+    "forbidden": [
+      "renkli",
+      "arı avı",
+      "uçan böcek",
+      "koloni",
+      "göç"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0146",
+    "answer": "Deniz Kartalı",
+    "forbidden": [
+      "balık avı",
+      "geniş kanat",
+      "kıyı",
+      "yırtıcı",
+      "pençe"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0147",
+    "answer": "Kılıç Gagalı Sinek Kuşu",
+    "forbidden": [
+      "çok uzun gaga",
+      "And",
+      "nektar",
+      "çiçek",
+      "kuş"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0148",
+    "answer": "Mantis Karidesi",
+    "forbidden": [
+      "yumruk",
+      "renkli göz",
+      "resif",
+      "kabuklu",
+      "çok hızlı darbe"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0149",
+    "answer": "At Nalı Yengeci",
+    "forbidden": [
+      "mavi kan",
+      "fosil",
+      "kabuk",
+      "kıyı",
+      "eklem bacaklı"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0150",
+    "answer": "Su Ayısı",
+    "forbidden": [
+      "tardigrad",
+      "mikroskobik",
+      "dayanıklı",
+      "kuraklık",
+      "uzay testi"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Mikro Canlı"
+  },
+  {
+    "id": "tr-animals-0151",
+    "answer": "Aksolotl",
+    "forbidden": [
+      "rejenerasyon",
+      "Meksika",
+      "solungaç",
+      "semender",
+      "akvaryum"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Amfibiler"
+  },
+  {
+    "id": "tr-animals-0152",
+    "answer": "Zehirli Ok Kurbağası",
+    "forbidden": [
+      "renkli deri",
+      "zehir",
+      "Amazon",
+      "küçük",
+      "kurbağa"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Amfibiler"
+  },
+  {
+    "id": "tr-animals-0153",
+    "answer": "Cam Kurbağa",
+    "forbidden": [
+      "şeffaf karın",
+      "yağmur ormanı",
+      "yeşil",
+      "yaprak",
+      "amfibi"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Amfibiler"
+  },
+  {
+    "id": "tr-animals-0154",
+    "answer": "Dev Japon Semenderi",
+    "forbidden": [
+      "büyük amfibi",
+      "Japonya",
+      "nehir",
+      "gece",
+      "semender"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Amfibiler"
+  },
+  {
+    "id": "tr-animals-0155",
+    "answer": "Atlas Güvesi",
+    "forbidden": [
+      "dev kanat",
+      "güve",
+      "Asya",
+      "desen",
+      "ipek"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Böcekler"
+  },
+  {
+    "id": "tr-animals-0156",
+    "answer": "Orkide Mantisi",
+    "forbidden": [
+      "çiçek taklidi",
+      "pembe beyaz",
+      "kamuflaj",
+      "böcek",
+      "avcı"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Böcekler"
+  },
+  {
+    "id": "tr-animals-0157",
+    "answer": "Gergedan Böceği",
+    "forbidden": [
+      "boynuz",
+      "güçlü",
+      "kabuk",
+      "böcek",
+      "erkek"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Böcekler"
+  },
+  {
+    "id": "tr-animals-0158",
+    "answer": "Ateş Böceği",
+    "forbidden": [
+      "ışık üretmek",
+      "gece",
+      "biyolüminesans",
+      "böcek",
+      "eş bulma"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Böcekler"
+  },
+  {
+    "id": "tr-animals-0159",
+    "answer": "Ağustos Böceği",
+    "forbidden": [
+      "yaz sesi",
+      "kabuk değiştirme",
+      "ağaç",
+      "periyodik",
+      "cırcır"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Böcekler"
+  },
+  {
+    "id": "tr-animals-0160",
+    "answer": "Termit",
+    "forbidden": [
+      "koloni",
+      "odun",
+      "kraliçe",
+      "yuva",
+      "böcek"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Böcekler"
+  },
+  {
+    "id": "tr-animals-0161",
+    "answer": "Peygamber Devesi",
+    "forbidden": [
+      "ön bacak",
+      "avcı",
+      "dua pozisyonu",
+      "böcek",
+      "kamuflaj"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Böcekler"
+  },
+  {
+    "id": "tr-animals-0162",
+    "answer": "Tarantula",
+    "forbidden": [
+      "büyük örümcek",
+      "tüylü",
+      "zehir",
+      "teraryum",
+      "avcı"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Eklembacaklı"
+  },
+  {
+    "id": "tr-animals-0163",
+    "answer": "Karadul",
+    "forbidden": [
+      "siyah örümcek",
+      "kırmızı işaret",
+      "zehir",
+      "dişi",
+      "ağ"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Eklembacaklı"
+  },
+  {
+    "id": "tr-animals-0164",
+    "answer": "Yengeç Örümceği",
+    "forbidden": [
+      "yana yürümek",
+      "çiçek",
+      "kamuflaj",
+      "av",
+      "örümcek"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Eklembacaklı"
+  },
+  {
+    "id": "tr-animals-0165",
+    "answer": "Deve Örümceği",
+    "forbidden": [
+      "çöl",
+      "hızlı",
+      "örümcek değil",
+      "çene",
+      "gece"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Eklembacaklı"
+  },
+  {
+    "id": "tr-animals-0166",
+    "answer": "Hindistan Cevizi Yengeci",
+    "forbidden": [
+      "dev kara yengeci",
+      "ada",
+      "tırmanmak",
+      "kabuklu",
+      "Hindistan cevizi"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Eklembacaklı"
+  },
+  {
+    "id": "tr-animals-0167",
+    "answer": "Kutup Tilkisi",
+    "forbidden": [
+      "beyaz kürk",
+      "Arktik",
+      "soğuk",
+      "küçük kulak",
+      "avcı"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0168",
+    "answer": "Mavi Balina",
+    "forbidden": [
+      "en büyük hayvan",
+      "kril",
+      "okyanus",
+      "dev",
+      "balina"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0169",
+    "answer": "İspermeçet Balinası",
+    "forbidden": [
+      "derin dalış",
+      "dev kafa",
+      "ambergris",
+      "mürekkep balığı",
+      "balina"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0170",
+    "answer": "Deniz İneği",
+    "forbidden": [
+      "manatee",
+      "otçul",
+      "sığ su",
+      "yavaş",
+      "deniz memelisi"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0171",
+    "answer": "Dugong",
+    "forbidden": [
+      "deniz çayırı",
+      "Hint-Pasifik",
+      "otçul",
+      "deniz ineği",
+      "memeli"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0172",
+    "answer": "Kutup Tavşanı",
+    "forbidden": [
+      "beyaz kürk",
+      "Arktik",
+      "hızlı",
+      "kulak",
+      "soğuk"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0173",
+    "answer": "Dağ Keçisi",
+    "forbidden": [
+      "kayalık",
+      "tırmanmak",
+      "boynuz",
+      "yüksek dağ",
+      "denge"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0174",
+    "answer": "Marmot",
+    "forbidden": [
+      "dağ kemirgeni",
+      "ıslık",
+      "yuva",
+      "kış uykusu",
+      "Alpler"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0175",
+    "answer": "Surikat",
+    "forbidden": [
+      "nöbetçi",
+      "çöl",
+      "koloni",
+      "dik durmak",
+      "Kalahari"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0176",
+    "answer": "Çöl Tilkisi",
+    "forbidden": [
+      "büyük kulak",
+      "Sahra",
+      "küçük",
+      "ısı atmak",
+      "gece"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0177",
+    "answer": "Dev Panda",
+    "forbidden": [
+      "bambu",
+      "Çin",
+      "siyah beyaz",
+      "ayı",
+      "koruma"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0178",
+    "answer": "Kızıl Sincap",
+    "forbidden": [
+      "ağaç",
+      "kuyruk",
+      "fındık",
+      "orman",
+      "kemirgen"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0179",
+    "answer": "Uçan Sincap",
+    "forbidden": [
+      "deri zar",
+      "süzülmek",
+      "ağaç",
+      "gece",
+      "kemirgen"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0180",
+    "answer": "Kaya Kartalı",
+    "forbidden": [
+      "yırtıcı",
+      "dağ",
+      "pençe",
+      "kanat açıklığı",
+      "av"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0181",
+    "answer": "Balıkçıl",
+    "forbidden": [
+      "uzun bacak",
+      "sığ su",
+      "balık",
+      "gaga",
+      "sazlık"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0182",
+    "answer": "Pelikan",
+    "forbidden": [
+      "gaga kesesi",
+      "balık",
+      "sürü",
+      "su kuşu",
+      "büyük"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0183",
+    "answer": "İbibik",
+    "forbidden": [
+      "tepeli kuş",
+      "turuncu",
+      "uzun gaga",
+      "böcek",
+      "ötüş"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0184",
+    "answer": "Ardıç Kuşu",
+    "forbidden": [
+      "ötücü",
+      "benekli göğüs",
+      "meyve",
+      "orman",
+      "göç"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0185",
+    "answer": "Kızılgerdan",
+    "forbidden": [
+      "turuncu göğüs",
+      "bahçe",
+      "ötüş",
+      "küçük kuş",
+      "Avrupa"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0186",
+    "answer": "Leylek",
+    "forbidden": [
+      "göç",
+      "uzun bacak",
+      "yuva",
+      "baca",
+      "beyaz siyah"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0187",
+    "answer": "Turna",
+    "forbidden": [
+      "uzun boyun",
+      "göç",
+      "dans",
+      "sulak alan",
+      "kuş"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0188",
+    "answer": "Kuğu",
+    "forbidden": [
+      "beyaz",
+      "zarif",
+      "göl",
+      "uzun boyun",
+      "çift"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0189",
+    "answer": "Kakadu",
+    "forbidden": [
+      "papağan",
+      "tepe tüyü",
+      "Avustralya",
+      "taklit",
+      "beyaz"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0190",
+    "answer": "Makav",
+    "forbidden": [
+      "renkli papağan",
+      "uzun kuyruk",
+      "Amazon",
+      "taklit",
+      "gaga"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Kuşlar"
+  },
+  {
+    "id": "tr-animals-0191",
+    "answer": "Orkinos",
+    "forbidden": [
+      "hızlı balık",
+      "sürüler",
+      "okyanus",
+      "konserve",
+      "sushi"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0192",
+    "answer": "Kılıçkuyruk",
+    "forbidden": [
+      "akvaryum",
+      "uzun kuyruk",
+      "canlı doğuran",
+      "balık",
+      "renkli"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0193",
+    "answer": "Palyaço Balığı",
+    "forbidden": [
+      "anemon",
+      "turuncu beyaz",
+      "Nemo",
+      "resif",
+      "korunma"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0194",
+    "answer": "Mavi Tang",
+    "forbidden": [
+      "Dory",
+      "mavi balık",
+      "resif",
+      "cerrah balığı",
+      "sarı kuyruk"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0195",
+    "answer": "Deniz Ejderi",
+    "forbidden": [
+      "yapraklı kamuflaj",
+      "denizatı akrabası",
+      "Avustralya",
+      "zarif",
+      "deniz"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0196",
+    "answer": "Nautilus",
+    "forbidden": [
+      "spiral kabuk",
+      "derin deniz",
+      "kafadan bacaklı",
+      "fosil",
+      "tentakül"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Deniz Canlıları"
+  },
+  {
+    "id": "tr-animals-0197",
+    "answer": "Okçu Balığı",
+    "forbidden": [
+      "su püskürtmek",
+      "böcek avı",
+      "mangrov",
+      "nişan",
+      "balık"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0198",
+    "answer": "Testere Balığı",
+    "forbidden": [
+      "testere burun",
+      "vatoz akrabası",
+      "sığ deniz",
+      "dişli rostrum",
+      "nesli tehlikede"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0199",
+    "answer": "Saola",
+    "forbidden": [
+      "Asya tekboynuzu",
+      "Vietnam",
+      "nadir memeli",
+      "boynuz",
+      "orman"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0200",
+    "answer": "Dugite",
+    "forbidden": [
+      "Avustralya",
+      "zehirli yılan",
+      "kahverengi",
+      "çalı",
+      "sürüngen"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "Sürüngenler"
+  },
+  {
+    "id": "tr-animals-0201",
+    "answer": "Kakım",
+    "forbidden": [
+      "beyaz kış kürkü",
+      "gelincik",
+      "avcı",
+      "kuyruk ucu",
+      "soğuk"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Memeliler"
+  },
+  {
+    "id": "tr-animals-0202",
+    "answer": "Balina Köpekbalığı",
+    "forbidden": [
+      "en büyük balık",
+      "plankton",
+      "benekli",
+      "zararsız dev",
+      "okyanus"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0203",
+    "answer": "Çekiç Başlı Köpekbalığı",
+    "forbidden": [
+      "T şeklinde kafa",
+      "okyanus",
+      "avcı",
+      "gözler yana",
+      "sürü"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Balıklar"
+  },
+  {
+    "id": "tr-animals-0204",
+    "answer": "Ay Balığı",
+    "forbidden": [
+      "Mola mola",
+      "dev yassı balık",
+      "okyanus",
+      "güneşlenmek",
+      "garip şekil"
+    ],
+    "category": "animals",
+    "type": "hayvan",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Balıklar"
   }
 ]

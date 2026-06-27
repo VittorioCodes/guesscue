@@ -3,1680 +3,3424 @@
     "id": "tr-gen-z-slang-0001",
     "answer": "Crush",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "hoşlanmak",
+      "platonik",
+      "flört",
+      "kalp",
+      "beğenmek"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0002",
     "answer": "Ghostlamak",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "mesaja dönmemek",
+      "ortadan kaybolmak",
+      "flört",
+      "cevapsız",
+      "soğumak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0003",
     "answer": "Stalklamak",
     "forbidden": [
-      "argo",
-      "internet",
+      "profil gezmek",
+      "gizlice bakmak",
       "sosyal medya",
-      "gençlik",
-      "terim"
+      "eski fotoğraf",
+      "takip"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0004",
     "answer": "Ship’lemek",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yakıştırmak",
+      "çift",
+      "ilişki",
+      "fan",
+      "romantik"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0005",
     "answer": "Red Flag",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "uyarı işareti",
+      "ilişki",
+      "tehlike",
+      "kötü özellik",
+      "kaçmak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0006",
     "answer": "Green Flag",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "iyi işaret",
+      "sağlıklı",
+      "ilişki",
+      "olumlu",
+      "güven"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0007",
     "answer": "Toxic",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "zararlı",
+      "ilişki",
+      "negatif",
+      "manipülasyon",
+      "kavga"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0008",
     "answer": "Flex",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "hava atmak",
+      "göstermek",
+      "para",
+      "başarı",
+      "kasılmak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0009",
     "answer": "Slay",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "çok iyi",
+      "başarmak",
+      "stil",
+      "özgüven",
+      "alkış"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0010",
     "answer": "Based",
     "forbidden": [
-      "argo",
+      "haklı",
+      "cesur fikir",
+      "onay",
       "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "net konuşmak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0011",
     "answer": "Cringe",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "utanma",
+      "garip",
+      "rahatsız",
+      "ikinci el",
+      "video"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0012",
     "answer": "NPC",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "oyuncu olmayan",
+      "robot gibi",
+      "arka plan",
+      "davranış",
+      "meme"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0013",
     "answer": "Main Character",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "başrol",
+      "kendini önemli görmek",
+      "hikaye",
+      "vibe",
+      "sahne"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0014",
     "answer": "Delulu",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "hayalci",
+      "gerçek dışı",
+      "ilişki",
+      "kafa kurmak",
+      "umut"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0015",
     "answer": "Rizz",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "karizma",
+      "flört",
+      "etkilemek",
+      "çekicilik",
+      "konuşma"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0016",
     "answer": "Situationship",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "belirsiz ilişki",
+      "etiket yok",
+      "flört",
+      "karmaşık",
+      "bağlanma"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0017",
     "answer": "Soft Launch",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "ilişkiyi ima etmek",
+      "story",
+      "gizli paylaşım",
+      "sevgili",
+      "fotoğraf"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0018",
     "answer": "Hard Launch",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "ilişki açıklamak",
+      "paylaşım",
+      "sevgili",
+      "net duyuru",
+      "fotoğraf"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0019",
     "answer": "Lowkey",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "biraz",
+      "gizlice",
+      "hafiften",
+      "aslında",
+      "çaktırmadan"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0020",
     "answer": "Highkey",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "açıkça",
+      "bayağı",
+      "net",
+      "saklamadan",
+      "dürüst"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0021",
     "answer": "Mood",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "ruh hali",
+      "aynı ben",
+      "tepki",
+      "duygu",
+      "fotoğraf"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0022",
     "answer": "Vibe",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "hava",
+      "enerji",
+      "ortam",
+      "his",
+      "tarz"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0023",
     "answer": "No Cap",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yalan yok",
+      "cidden",
+      "doğru",
+      "dürüst",
+      "şaka değil"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0024",
     "answer": "Cap",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yalan",
+      "abartı",
+      "uydurma",
+      "inanmamak",
+      "şapka değil"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0025",
     "answer": "Sus",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "şüpheli",
+      "Among Us",
+      "garip",
+      "güvenilmez",
+      "impostor"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0026",
     "answer": "FOMO",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kaçırma korkusu",
+      "etkinlik",
+      "sosyal",
+      "kaygı",
+      "dışarıda kalmak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0027",
     "answer": "JOMO",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kaçırma mutluluğu",
+      "evde kalmak",
+      "huzur",
+      "sosyal baskı",
+      "rahat"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0028",
     "answer": "Glow Up",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "gelişim",
+      "değişim",
+      "güzelleşmek",
+      "önce sonra",
+      "özgüven"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0029",
     "answer": "Pick Me",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "onay aramak",
+      "farklı görünmek",
+      "ilgi",
+      "ben öyle değilim",
+      "tavır"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0030",
     "answer": "Simp",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "fazla ilgi",
+      "hayranlık",
+      "flört",
+      "kendini ezmek",
+      "aşırı destek"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0031",
     "answer": "Stan",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "fan",
+      "çok sevmek",
+      "hayran",
+      "desteklemek",
+      "takip"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0032",
     "answer": "Tea",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "dedikodu",
+      "haber",
+      "olay",
+      "sohbet",
+      "sır"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0033",
     "answer": "Spill the Tea",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "dedikodu anlatmak",
+      "olay dökmek",
+      "sır",
+      "haber",
+      "konuşmak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0034",
     "answer": "Receipts",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kanıt",
+      "ekran görüntüsü",
+      "mesaj",
+      "ispat",
+      "delil"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0035",
     "answer": "Cancel",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "linç",
+      "iptal kültürü",
+      "ünlü",
+      "skandal",
+      "boykot"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0036",
     "answer": "Ratio",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yorum",
+      "beğeni",
+      "Twitter",
+      "oran",
+      "cevap"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0037",
     "answer": "Mid",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "ortalama",
+      "abartılmış",
+      "vasat",
+      "puan",
+      "beğenmemek"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0038",
     "answer": "GOAT",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "en iyisi",
+      "efsane",
+      "sporcu",
+      "tüm zamanlar",
+      "keçi"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0039",
     "answer": "Bet",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "tamam",
+      "anlaştık",
+      "söz",
+      "onay",
+      "olur"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0040",
     "answer": "Periodt",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "nokta",
+      "kesin",
+      "vurgulamak",
+      "tartışma bitti",
+      "slay"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0041",
     "answer": "Yass",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "coşku",
+      "onay",
+      "abartılı evet",
+      "queen",
+      "sevinç"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0042",
     "answer": "İban At",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "para",
+      "transfer",
+      "hesap",
+      "borç",
+      "banka"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0043",
     "answer": "Sal",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "bırak",
+      "uzatma",
+      "boşver",
+      "tartışma",
+      "rahat"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0044",
     "answer": "Boş Yapma",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "gereksiz konuşmak",
+      "laf kalabalığı",
+      "sus",
+      "muhabbet",
+      "ciddiyet"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0045",
     "answer": "Aşko",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "samimi hitap",
+      "aşkım",
+      "arkadaş",
+      "TikTok",
+      "şaka"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0046",
     "answer": "Kanka",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "arkadaş",
+      "dost",
+      "samimi",
+      "hitap",
+      "bro"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0047",
     "answer": "Bro",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kanka",
+      "erkek arkadaş",
+      "dost",
+      "İngilizce",
+      "hitap"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0048",
     "answer": "Sis",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kız kardeş",
+      "arkadaş",
+      "hitap",
+      "slay",
+      "sister"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0049",
     "answer": "Bestie",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "en yakın arkadaş",
+      "dost",
+      "samimi",
+      "kanka",
+      "sırdaş"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0050",
     "answer": "Bae",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "sevgili",
+      "aşk",
+      "before anyone",
+      "hitap",
+      "flört"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0051",
     "answer": "Pov",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "bakış açısı",
+      "video",
+      "senaryo",
+      "TikTok",
+      "kamera"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0052",
     "answer": "Core",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "estetik",
+      "tarz",
+      "aesthetic",
+      "akım",
+      "görsel"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0053",
     "answer": "Era",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "dönem",
+      "benim çağım",
+      "trend",
+      "kimlik",
+      "aşama"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0054",
     "answer": "Lore",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "arka plan",
+      "hikaye",
+      "evren",
+      "bilgi",
+      "detay"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0055",
     "answer": "Canon Event",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kaçınılmaz olay",
+      "Spider-Verse",
+      "travma",
+      "kader",
+      "meme"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0056",
     "answer": "Side Eye",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yan bakış",
+      "şüphe",
+      "tepki",
+      "göz",
+      "yargılamak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0057",
     "answer": "Bombastic Side Eye",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "abartılı yan bakış",
+      "TikTok sesi",
+      "yargı",
+      "tepki",
+      "meme"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0058",
     "answer": "Girl Math",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "mantık şakası",
+      "alışveriş",
+      "para",
+      "kadın mizahı",
+      "hesap"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0059",
     "answer": "Boy Math",
     "forbidden": [
-      "argo",
-      "internet",
+      "erkek mizahı",
+      "çelişki",
+      "şaka",
       "sosyal medya",
-      "gençlik",
-      "terim"
+      "hesap"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0060",
     "answer": "Doomscroll",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "sonsuz kaydırma",
+      "kötü haber",
+      "telefon",
+      "gece",
+      "akış"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0061",
     "answer": "Brainrot",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "internet çürümesi",
+      "meme bağımlılığı",
+      "saçma içerik",
+      "TikTok",
+      "zihin"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0062",
     "answer": "Touch Grass",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "dışarı çık",
+      "internet bağımlısı",
+      "çim",
+      "gerçek hayat",
+      "alay"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0063",
     "answer": "Rent Free",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "akıldan çıkmamak",
+      "kafa",
+      "takıntı",
+      "bedava kira",
+      "düşünce"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0064",
     "answer": "It’s Giving",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "havası var",
+      "andırıyor",
+      "vibe",
+      "yorum",
+      "estetik"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0065",
     "answer": "Ate",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "çok iyi yaptı",
+      "başardı",
+      "slay",
+      "performans",
+      "övgü"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0066",
     "answer": "Left No Crumbs",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kusursuz yaptı",
+      "hiç bırakmadı",
+      "ate",
+      "başarı",
+      "övgü"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0067",
     "answer": "Cooked",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "mahvoldu",
+      "bitti",
+      "yanmış",
+      "oyun",
+      "durum"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0068",
     "answer": "Let Him Cook",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "bırak yapsın",
+      "bekle",
+      "potansiyel",
+      "fikir",
+      "şef"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0069",
     "answer": "Skill Issue",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yetenek sorunu",
+      "oyun",
+      "bahane",
+      "beceri",
+      "alay"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0070",
     "answer": "Massive L",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "büyük kayıp",
+      "rezillik",
+      "yenilgi",
+      "L almak",
+      "başarısızlık"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0071",
     "answer": "Big W",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "büyük başarı",
+      "kazanç",
+      "win",
+      "tebrik",
+      "zafer"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0072",
     "answer": "GG",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "good game",
+      "maç sonu",
+      "oyun",
+      "tebrik",
+      "chat"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0073",
     "answer": "EZ",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kolaydı",
+      "alay",
+      "oyun",
+      "rakip",
+      "chat"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0074",
     "answer": "AFK",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "klavyeden uzak",
+      "oyun",
+      "boşta",
+      "takım",
+      "beklemek"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0075",
     "answer": "IRL",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "gerçek hayat",
+      "online dışı",
+      "stream",
+      "kısaltma",
+      "yaşam"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0076",
     "answer": "DM",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "özel mesaj",
+      "Instagram",
+      "Twitter",
+      "inbox",
+      "yazmak"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0077",
     "answer": "Story Atmak",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "24 saat",
+      "Instagram",
+      "paylaşım",
+      "hikaye",
+      "görsel"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0078",
     "answer": "Reels",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kısa video",
+      "Instagram",
+      "dikey",
+      "müzik",
+      "akış"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0079",
     "answer": "For You Page",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "TikTok",
+      "öneri sayfası",
+      "algoritma",
+      "akış",
+      "FYP"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0080",
     "answer": "Keşfet",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "Instagram",
+      "öneri",
+      "akış",
+      "popüler",
+      "sayfa"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0081",
     "answer": "Algoritma",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "akış",
+      "öneri",
+      "platform",
+      "veri",
+      "sosyal medya"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0082",
     "answer": "Trend",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "akım",
+      "popüler",
+      "viral",
+      "TikTok",
+      "gündem"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0083",
     "answer": "Meme",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
+      "internet dili",
+      "tepki",
+      "sohbet",
       "gençlik",
-      "terim"
+      "ipucu"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0084",
     "answer": "Mizahşör",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "komik kişi",
+      "meme",
+      "şaka",
+      "espri",
+      "internet"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0085",
     "answer": "Flop",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "tutmadı",
+      "başarısız",
+      "popüler olmadı",
+      "düşüş",
+      "yayın"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0086",
     "answer": "Peak",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "zirve",
+      "en iyi hali",
+      "kalite",
+      "tavan",
+      "övgü"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0087",
     "answer": "Overrated",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "abartılmış",
+      "hak etmiyor",
+      "popüler",
+      "eleştiri",
+      "puan"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0088",
     "answer": "Underrated",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "değeri bilinmeyen",
+      "az ilgi",
+      "kaliteli",
+      "gizli cevher",
+      "övgü"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0089",
     "answer": "Gatekeep",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "saklamak",
+      "paylaşmamak",
+      "kapı bekçisi",
+      "bilgi",
+      "topluluk"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0090",
     "answer": "Gaslight",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "manipülasyon",
+      "aklından şüphe",
+      "ilişki",
+      "psikoloji",
+      "inkar"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0091",
     "answer": "Girlboss",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "güçlü kadın",
+      "kariyer",
+      "lider",
+      "meme",
+      "patron"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0092",
     "answer": "Mansplain",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "erkek açıklaması",
+      "küçümsemek",
+      "anlatmak",
+      "cinsiyet",
+      "bilmişlik"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0093",
     "answer": "Benching",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yedekte tutmak",
+      "flört",
+      "bekletmek",
+      "ilişki",
+      "seçenek"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0094",
     "answer": "Orbiting",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "takipte kalmak",
+      "eski flört",
+      "story izlemek",
+      "mesafe",
+      "sosyal medya"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0095",
     "answer": "Breadcrumbing",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "umut kırıntısı",
+      "flört",
+      "mesaj",
+      "az ilgi",
+      "bekletmek"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0096",
     "answer": "Viral",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "çok yayılmak",
+      "paylaşım",
+      "izlenme",
+      "trend",
+      "sosyal medya"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0097",
     "answer": "Influencer",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "takipçi",
+      "reklam",
+      "içerik",
+      "Instagram",
+      "etki"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0098",
     "answer": "Streamer",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "canlı yayın",
+      "Twitch",
+      "oyun",
+      "chat",
+      "bağış"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0099",
     "answer": "Skibidi",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "tuvalet meme",
+      "YouTube",
+      "brainrot",
+      "çocuk",
+      "absürt"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0100",
     "answer": "Mod",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "moderator",
+      "chat",
+      "yetki",
+      "yayın",
+      "kural"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0101",
     "answer": "Chat",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "izleyici",
+      "mesaj",
+      "yayın",
+      "Twitch",
+      "sohbet"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0102",
     "answer": "Clip",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "kısa kesit",
+      "yayın",
+      "video",
+      "anı",
+      "Twitch"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0103",
     "answer": "Raid",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yayın baskını",
+      "Twitch",
+      "izleyici",
+      "kanal",
+      "destek"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0104",
     "answer": "Sub",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "abonelik",
+      "Twitch",
+      "destek",
+      "rozet",
+      "yayıncı"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0105",
     "answer": "Like Atmak",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "beğenmek",
+      "kalp",
+      "paylaşım",
+      "Instagram",
+      "etkileşim"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0106",
     "answer": "Favlamak",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "favori",
+      "beğeni",
+      "Twitter",
+      "kaydetmek",
+      "yıldız"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0107",
     "answer": "Repost",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "yeniden paylaşmak",
+      "Twitter",
+      "akış",
+      "retweet",
+      "içerik"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0108",
     "answer": "Quote Tweet",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "alıntı",
+      "Twitter",
+      "yorum",
+      "tweet",
+      "paylaşım"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0109",
     "answer": "Thread",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "zincir",
+      "tweet dizisi",
+      "konu",
+      "Twitter",
+      "devam"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0110",
     "answer": "Mutelamak",
     "forbidden": [
-      "argo",
-      "internet",
-      "sosyal medya",
-      "gençlik",
-      "terim"
+      "sessize almak",
+      "görmemek",
+      "hesap",
+      "Twitter",
+      "bildirim"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
   },
   {
     "id": "tr-gen-z-slang-0111",
     "answer": "Blocklamak",
     "forbidden": [
-      "argo",
-      "internet",
+      "engellemek",
+      "hesap",
+      "görüşmemek",
       "sosyal medya",
-      "gençlik",
-      "terim"
+      "erişim"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "Slang"
+  },
+  {
+    "id": "tr-gen-z-slang-0112",
+    "answer": "Fan Edit",
+    "forbidden": [
+      "internet dili",
+      "meme",
+      "tepki",
+      "sohbet",
+      "gençlik"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Slang"
+  },
+  {
+    "id": "tr-gen-z-slang-0113",
+    "answer": "Mainlemek",
+    "forbidden": [
+      "oyunda favori karakter",
+      "sürekli seçmek",
+      "ranked",
+      "champion",
+      "alışkanlık"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0114",
+    "answer": "Smurf",
+    "forbidden": [
+      "düşük hesap",
+      "yüksek yetenek",
+      "rank",
+      "oyun",
+      "yan hesap"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0115",
+    "answer": "Tryhard",
+    "forbidden": [
+      "fazla ciddiye almak",
+      "kazanma hırsı",
+      "oyun",
+      "terlemek",
+      "rekabet"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0116",
+    "answer": "Sweat",
+    "forbidden": [
+      "tryhard",
+      "çok iyi oyuncu",
+      "terlemek",
+      "rekabet",
+      "lobi"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0117",
+    "answer": "Nerf Yemek",
+    "forbidden": [
+      "güç azaltma",
+      "patch",
+      "karakter",
+      "denge",
+      "oyun"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0118",
+    "answer": "Bufflanmak",
+    "forbidden": [
+      "güçlenmek",
+      "patch",
+      "denge",
+      "karakter",
+      "oyun"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0119",
+    "answer": "Meta",
+    "forbidden": [
+      "en güçlü strateji",
+      "patch",
+      "oyun",
+      "trend",
+      "rekabet"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0120",
+    "answer": "Off-meta",
+    "forbidden": [
+      "alışılmadık seçim",
+      "meta dışı",
+      "oyun",
+      "sürpriz",
+      "build"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0121",
+    "answer": "Build",
+    "forbidden": [
+      "eşya dizilimi",
+      "yetenek",
+      "karakter",
+      "oyun",
+      "kurulum"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0122",
+    "answer": "Loadout",
+    "forbidden": [
+      "ekipman seti",
+      "silah",
+      "oyun",
+      "ayar",
+      "maç"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0123",
+    "answer": "Spawnlamak",
+    "forbidden": [
+      "doğmak",
+      "harita",
+      "oyun",
+      "başlangıç noktası",
+      "yeniden çıkmak"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0124",
+    "answer": "Camplemek",
+    "forbidden": [
+      "saklanmak",
+      "köşe tutmak",
+      "oyun",
+      "beklemek",
+      "rakip"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0125",
+    "answer": "Pushlamak",
+    "forbidden": [
+      "ileri basmak",
+      "atak",
+      "oyun",
+      "takım",
+      "risk"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0126",
+    "answer": "Peeklemek",
+    "forbidden": [
+      "köşeden bakmak",
+      "FPS",
+      "açı",
+      "rakip",
+      "duvar"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0127",
+    "answer": "Clutchlamak",
+    "forbidden": [
+      "tek başına kazanmak",
+      "son durum",
+      "maç",
+      "baskı",
+      "oyun"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0128",
+    "answer": "Throwlamak",
+    "forbidden": [
+      "maçı vermek",
+      "hata yapmak",
+      "oyun",
+      "avantaj",
+      "kaybetmek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0129",
+    "answer": "Tilt Olmak",
+    "forbidden": [
+      "sinirlenmek",
+      "oyun",
+      "moral",
+      "hata",
+      "kaybetmek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0130",
+    "answer": "Queue Girmek",
+    "forbidden": [
+      "sıraya girmek",
+      "maç aramak",
+      "oyun",
+      "lobi",
+      "beklemek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0131",
+    "answer": "Stack",
+    "forbidden": [
+      "beraber girmek",
+      "takım",
+      "arkadaş",
+      "oyun",
+      "lobi"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0132",
+    "answer": "Solo Queue",
+    "forbidden": [
+      "tek başına maç",
+      "ranked",
+      "rastgele takım",
+      "oyun",
+      "sıra"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0133",
+    "answer": "Hardstuck",
+    "forbidden": [
+      "aynı rankta kalmak",
+      "yükselememek",
+      "oyun",
+      "lig",
+      "sinir"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0134",
+    "answer": "Diff",
+    "forbidden": [
+      "rol farkı",
+      "oyuncu farkı",
+      "maç",
+      "takım",
+      "alay"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0135",
+    "answer": "Gaplemek",
+    "forbidden": [
+      "fark atmak",
+      "rakibi ezmek",
+      "rol",
+      "oyun",
+      "performans"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0136",
+    "answer": "One Tap",
+    "forbidden": [
+      "tek mermi",
+      "headshot",
+      "FPS",
+      "nişan",
+      "öldürmek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0137",
+    "answer": "Whifflemek",
+    "forbidden": [
+      "boşa sıkmak",
+      "ıskalamak",
+      "FPS",
+      "aim",
+      "fırsat kaçırmak"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0138",
+    "answer": "Ratlemek",
+    "forbidden": [
+      "saklanıp beklemek",
+      "pusmak",
+      "oyun",
+      "sürpriz",
+      "köşe"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0139",
+    "answer": "Third Party",
+    "forbidden": [
+      "üçüncü takım",
+      "savaşa girmek",
+      "battle royale",
+      "fırsat",
+      "çatışma"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0140",
+    "answer": "Grieflemek",
+    "forbidden": [
+      "bilerek bozmak",
+      "takım arkadaşı",
+      "oyun",
+      "troll",
+      "rahatsız etmek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Oyun Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0141",
+    "answer": "Trolllemek",
+    "forbidden": [
+      "şaka bozmak",
+      "ciddiye almamak",
+      "oyun",
+      "internet",
+      "sinir etmek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0142",
+    "answer": "Copium",
+    "forbidden": [
+      "kendini avutmak",
+      "umut",
+      "meme",
+      "inkar",
+      "başarısızlık"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0143",
+    "answer": "Hopium",
+    "forbidden": [
+      "aşırı umut",
+      "beklenti",
+      "meme",
+      "inanmak",
+      "takım"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0144",
+    "answer": "Boomer Take",
+    "forbidden": [
+      "eski kafalı yorum",
+      "kuşak",
+      "internet",
+      "eleştiri",
+      "yaşlı"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0145",
+    "answer": "Womp Womp",
+    "forbidden": [
+      "alaycı üzülme",
+      "trombon sesi",
+      "meme",
+      "tepki",
+      "umursamamak"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0146",
+    "answer": "Yapping",
+    "forbidden": [
+      "çok konuşmak",
+      "uzatmak",
+      "boş muhabbet",
+      "internet",
+      "çene"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0147",
+    "answer": "Serving",
+    "forbidden": [
+      "tarz sunmak",
+      "look",
+      "moda",
+      "slay",
+      "performans"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0148",
+    "answer": "Face Card",
+    "forbidden": [
+      "yüz güzelliği",
+      "fotoğraf",
+      "çekicilik",
+      "slay",
+      "kart"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0149",
+    "answer": "Mother",
+    "forbidden": [
+      "hayranlık",
+      "ikon kadın",
+      "pop kültür",
+      "övgü",
+      "stan"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0150",
+    "answer": "Father",
+    "forbidden": [
+      "ikon erkek",
+      "hayranlık",
+      "pop kültür",
+      "övgü",
+      "stan"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0151",
+    "answer": "Coded",
+    "forbidden": [
+      "öyle hissettiren",
+      "estetik",
+      "kimlik",
+      "benzer",
+      "yorum"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0152",
+    "answer": "Corecore",
+    "forbidden": [
+      "melankolik montaj",
+      "TikTok",
+      "estetik",
+      "kolaj",
+      "müzik"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0153",
+    "answer": "NPC Yayını",
+    "forbidden": [
+      "TikTok live",
+      "tekrar eden hareket",
+      "bağış",
+      "robot gibi",
+      "stream"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0154",
+    "answer": "Dupe",
+    "forbidden": [
+      "benzeri",
+      "ucuz alternatif",
+      "makyaj",
+      "ürün",
+      "taklit değil"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0155",
+    "answer": "Clean Girl",
+    "forbidden": [
+      "minimal makyaj",
+      "topuz",
+      "estetik",
+      "bakımlı",
+      "nude ton"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0156",
+    "answer": "Coquette",
+    "forbidden": [
+      "kurdele",
+      "pembe",
+      "romantik estetik",
+      "feminen",
+      "TikTok"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0157",
+    "answer": "Dark Academia",
+    "forbidden": [
+      "kitap",
+      "kahverengi",
+      "üniversite",
+      "klasik",
+      "estetik"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0158",
+    "answer": "Cottagecore",
+    "forbidden": [
+      "kırsal",
+      "çiçek",
+      "doğa",
+      "el işi",
+      "estetik"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0159",
+    "answer": "Goblin Mode",
+    "forbidden": [
+      "dağınık",
+      "umursamaz",
+      "rahat",
+      "ev hali",
+      "meme"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0160",
+    "answer": "Goblinlemek",
+    "forbidden": [
+      "dağınık yaşamak",
+      "evden çıkmamak",
+      "atıştırmalık",
+      "rahatlık",
+      "meme"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0161",
+    "answer": "Micro-cheating",
+    "forbidden": [
+      "küçük aldatma",
+      "flört",
+      "mesaj",
+      "ilişki",
+      "sınır"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0162",
+    "answer": "Soft Ghost",
+    "forbidden": [
+      "yavaş kaybolmak",
+      "az cevap",
+      "flört",
+      "mesaj",
+      "soğuma"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0163",
+    "answer": "Dry Text",
+    "forbidden": [
+      "kısa cevap",
+      "soğuk mesaj",
+      "flört",
+      "nokta",
+      "ilgisizlik"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0164",
+    "answer": "Double Text",
+    "forbidden": [
+      "üst üste mesaj",
+      "cevap beklemek",
+      "flört",
+      "sohbet",
+      "telefon"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0165",
+    "answer": "Seen Yemek",
+    "forbidden": [
+      "okundu",
+      "cevap gelmemek",
+      "mavi tik",
+      "mesaj",
+      "beklemek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0166",
+    "answer": "Breadcrumb",
+    "forbidden": [
+      "ufak ilgi",
+      "umut vermek",
+      "flört",
+      "mesaj",
+      "bekletmek"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0167",
+    "answer": "Love Bombing",
+    "forbidden": [
+      "aşırı ilgi",
+      "ilişki",
+      "manipülasyon",
+      "hediye",
+      "hızlı bağ"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0168",
+    "answer": "Situationship Era",
+    "forbidden": [
+      "belirsiz ilişki dönemi",
+      "flört",
+      "etiket yok",
+      "era",
+      "karmaşa"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0169",
+    "answer": "Roster",
+    "forbidden": [
+      "flört listesi",
+      "seçenekler",
+      "dating",
+      "telefon",
+      "ilişki"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0170",
+    "answer": "Bench Warmer",
+    "forbidden": [
+      "yedekte tutulan kişi",
+      "flört",
+      "beklemek",
+      "ilgi",
+      "ilişki"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "İlişki Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0171",
+    "answer": "Hard Launchlamak",
+    "forbidden": [
+      "ilişkiyi açık duyurmak",
+      "fotoğraf",
+      "sevgili",
+      "Instagram",
+      "paylaşım"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0172",
+    "answer": "Soft Launchlamak",
+    "forbidden": [
+      "sevgiliyi ima etmek",
+      "el fotoğrafı",
+      "story",
+      "gizli",
+      "paylaşım"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0173",
+    "answer": "Carousel",
+    "forbidden": [
+      "çoklu fotoğraf",
+      "Instagram",
+      "kaydırmak",
+      "post",
+      "albüm"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0174",
+    "answer": "Dump Atmak",
+    "forbidden": [
+      "fotoğraf dökümü",
+      "aylık",
+      "Instagram",
+      "karışık kare",
+      "post"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0175",
+    "answer": "Caption",
+    "forbidden": [
+      "açıklama yazısı",
+      "post",
+      "Instagram",
+      "metin",
+      "emoji"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0176",
+    "answer": "Hashtag Kasmak",
+    "forbidden": [
+      "etiket",
+      "keşfet",
+      "görünürlük",
+      "post",
+      "sosyal medya"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0177",
+    "answer": "Shadowban",
+    "forbidden": [
+      "görünürlüğün düşmesi",
+      "platform",
+      "hesap",
+      "keşfet",
+      "ceza"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0178",
+    "answer": "Engagement",
+    "forbidden": [
+      "etkileşim",
+      "beğeni",
+      "yorum",
+      "paylaşım",
+      "oran"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0179",
+    "answer": "Reach",
+    "forbidden": [
+      "erişim",
+      "kaç kişi gördü",
+      "istatistik",
+      "post",
+      "kitle"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0180",
+    "answer": "Impression",
+    "forbidden": [
+      "gösterim",
+      "kaç kez göründü",
+      "istatistik",
+      "reklam",
+      "post"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0181",
+    "answer": "Vloglamak",
+    "forbidden": [
+      "günlük video",
+      "kamera",
+      "YouTube",
+      "hayat",
+      "çekim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0182",
+    "answer": "GRWM",
+    "forbidden": [
+      "hazırlan benimle",
+      "makyaj",
+      "kıyafet",
+      "video",
+      "TikTok"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0183",
+    "answer": "OOTD",
+    "forbidden": [
+      "günün kombini",
+      "kıyafet",
+      "ayna pozu",
+      "moda",
+      "post"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0184",
+    "answer": "Fit Check",
+    "forbidden": [
+      "kombin kontrolü",
+      "kıyafet",
+      "video",
+      "ayna",
+      "moda"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0185",
+    "answer": "Haul",
+    "forbidden": [
+      "alışveriş videosu",
+      "ürün göstermek",
+      "paket açmak",
+      "YouTube",
+      "TikTok"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0186",
+    "answer": "Unboxing",
+    "forbidden": [
+      "kutu açmak",
+      "ürün",
+      "video",
+      "paket",
+      "ilk izlenim"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0187",
+    "answer": "Deinfluencing",
+    "forbidden": [
+      "almayın demek",
+      "ürün eleştirisi",
+      "tüketim",
+      "TikTok",
+      "trend"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0188",
+    "answer": "NPC Energy",
+    "forbidden": [
+      "robot gibi",
+      "tepkisiz",
+      "garip davranış",
+      "meme",
+      "vibe"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0189",
+    "answer": "Golden Retriever Energy",
+    "forbidden": [
+      "neşeli",
+      "sadık",
+      "pozitif",
+      "flört",
+      "köpek benzetmesi"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0190",
+    "answer": "Black Cat Energy",
+    "forbidden": [
+      "mesafeli",
+      "cool",
+      "gizemli",
+      "flört",
+      "kedi benzetmesi"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0191",
+    "answer": "Delulu is the Solulu",
+    "forbidden": [
+      "hayalci çözüm",
+      "delulu",
+      "şaka",
+      "umut",
+      "TikTok"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0192",
+    "answer": "Manifestlemek",
+    "forbidden": [
+      "olacağına inanmak",
+      "evrene mesaj",
+      "hedef",
+      "pozitif düşünce",
+      "TikTok"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0193",
+    "answer": "Main Character Moment",
+    "forbidden": [
+      "film gibi an",
+      "kendini başrol görmek",
+      "müzik",
+      "sahne",
+      "hayat"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0194",
+    "answer": "Canon Olmak",
+    "forbidden": [
+      "hikayeye dahil",
+      "resmi",
+      "evren",
+      "olay",
+      "karakter"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0195",
+    "answer": "Fanon",
+    "forbidden": [
+      "hayran yorumu",
+      "resmi olmayan",
+      "ship",
+      "evren",
+      "kurgu"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0196",
+    "answer": "Headcanon",
+    "forbidden": [
+      "kişisel yorum",
+      "karakter",
+      "resmi değil",
+      "hayran",
+      "evren"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0197",
+    "answer": "Ship War",
+    "forbidden": [
+      "ilişki tartışması",
+      "fandom",
+      "çift",
+      "kavga",
+      "hayran"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0198",
+    "answer": "Stan Twitter",
+    "forbidden": [
+      "hayran hesabı",
+      "pop yıldızı",
+      "tweet",
+      "fandom",
+      "meme"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0199",
+    "answer": "Doxlamak",
+    "forbidden": [
+      "kişisel bilgi yaymak",
+      "tehlikeli",
+      "internet",
+      "adres",
+      "ifşa"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
   },
   {
     "id": "tr-gen-z-slang-0200",
-    "answer": "Fan Edit",
+    "answer": "Ratio Yemek",
     "forbidden": [
-      "video",
-      "müzik",
-      "karakter",
-      "sosyal medya",
-      "montaj"
+      "cevabın daha çok beğeni alması",
+      "Twitter",
+      "yorum",
+      "başarısızlık",
+      "oran"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0201",
+    "answer": "Flop Era",
+    "forbidden": [
+      "başarısız dönem",
+      "az ilgi",
+      "trend",
+      "meme",
+      "düşüş"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0202",
+    "answer": "Peak Fiction",
+    "forbidden": [
+      "çok iyi hikaye",
+      "övgü",
+      "dizi",
+      "anime",
+      "zirve"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 4,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0203",
+    "answer": "Cinema Demek",
+    "forbidden": [
+      "çok iyi sahne",
+      "film kalitesi",
+      "meme",
+      "övgü",
+      "dramatik"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0204",
+    "answer": "Let Them Cook",
+    "forbidden": [
+      "bekleyelim",
+      "fikir gelişsin",
+      "potansiyel",
+      "meme",
+      "şef"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 5,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0205",
+    "answer": "Değdi mi?",
+    "forbidden": [
+      "risk sonrası soru",
+      "pişmanlık",
+      "meme",
+      "sonuç",
+      "alay"
     ],
     "category": "gen-z-slang",
     "type": "slang",
     "difficulty": 2,
-    "language": "tr"
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0206",
+    "answer": "Kanka Şaka mı?",
+    "forbidden": [
+      "şaşkınlık",
+      "inanmamak",
+      "tepki",
+      "arkadaş",
+      "sosyal medya"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0207",
+    "answer": "Ben Bunu Yerim",
+    "forbidden": [
+      "çok tatlı",
+      "övgü",
+      "tepki",
+      "sevimli",
+      "internet"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 1,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0208",
+    "answer": "Aşırı Random",
+    "forbidden": [
+      "alakasız",
+      "beklenmedik",
+      "saçma",
+      "tepki",
+      "komik"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0209",
+    "answer": "Vibe Check",
+    "forbidden": [
+      "ortam kontrolü",
+      "enerji",
+      "uyum",
+      "mood",
+      "internet"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0210",
+    "answer": "İçerik Çalmak",
+    "forbidden": [
+      "fikir kopyalama",
+      "repost",
+      "emek",
+      "sosyal medya",
+      "tepki"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 3,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0211",
+    "answer": "NPC Gibi",
+    "forbidden": [
+      "robotik davranış",
+      "tekrarlı",
+      "tepkisiz",
+      "meme",
+      "oyun dışı"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
+  },
+  {
+    "id": "tr-gen-z-slang-0212",
+    "answer": "Algoritmaya Düştü",
+    "forbidden": [
+      "keşfet",
+      "öneri",
+      "viral",
+      "platform",
+      "izlenme"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0213",
+    "answer": "Sana Çıkmış",
+    "forbidden": [
+      "algoritma önerisi",
+      "kişisel içerik",
+      "keşfet",
+      "video",
+      "tesadüf"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "Sosyal Medya"
+  },
+  {
+    "id": "tr-gen-z-slang-0214",
+    "answer": "Görünce Ben",
+    "forbidden": [
+      "tepki kalıbı",
+      "meme",
+      "fotoğraf",
+      "benzetme",
+      "duygu"
+    ],
+    "category": "gen-z-slang",
+    "type": "slang",
+    "difficulty": 2,
+    "language": "tr",
+    "source": "İnternet Argosu"
   }
 ]
